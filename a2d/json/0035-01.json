@@ -1,0 +1,105 @@
+{
+  "id": 8149284,
+  "name": "SHERIGER v. GRUNER",
+  "name_abbreviation": "Sheriger v. Gruner",
+  "decision_date": "1943-07-21",
+  "docket_number": "No. 87",
+  "first_page": "35",
+  "last_page": "36",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 A.2d 35"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "2 Cranch, C.C. 14",
+      "category": "reporters:state",
+      "reporter": "Cranch",
+      "case_ids": [
+        6133555
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/29/0431-01"
+      ]
+    },
+    {
+      "cite": "26 F.2d 975",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1723099
+      ],
+      "pin_cites": [
+        {
+          "page": "977"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/26/0975-01"
+      ]
+    },
+    {
+      "cite": "58 App.D.C. 197",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 244,
+    "char_count": 2545,
+    "ocr_confidence": 0.71,
+    "pagerank": {
+      "raw": 1.6382547391360378e-07,
+      "percentile": 0.6906402651274264
+    },
+    "sha256": "67e1248a6a032ee31e09b48e7c467c0ca051396edf886db4ad96ff0c1089640c",
+    "simhash": "1:9cb23530f055ed02",
+    "word_count": 435
+  },
+  "last_updated": "2024-02-27T23:44:59.089938+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "SHERIGER v. GRUNER."
+    ],
+    "opinions": [
+      {
+        "text": "CAYTON, Associate Judge.\nDefendant appeals from a judgment entered against him in a suit on a note which was in the following words: \u201cThis will acknowledge my obligation to W. O. Gruner in the amount of $150.00 which covers my part of repairs and August rent on house at Picadi\u00edly and Devon Rd., Great Neck, N. Y. Payable 60 days after date.\u201d He defended on two grounds: (1) Mistake, and (2) want of consideration.\nA detailed recital of the evidence would serve no useful purpose. It is sufficient to say that the vital points of defendant\u2019s testimony were that he had given the note \u201cby mistake\u201d, without reciting of what the\u2019 mistake consisted, or how it arose; that the reference to repairs in the note was \u201cput in by mistake\u201d, -and that he \u201cwas not liable for any repairs\u201d, neither of which statements was explained or enlarged upon. The remainder, of his testimony for the most part supported plaintiff\u2019s position rather than his own.\nThe salient parts of plaintiff\u2019s testimony were that defendant had sought a release from his lease and had later vacated the property; that soon afterwards plaintiff verbally presented his claim for a total of $211, but agreed to accept $200 in settlement; and that defendant immediately paid $50 in cash, and to cover the balance gave the note which is here in suit.\n\u201cNo particular sanctity attaches to a promissory note. It is subject, at the suit of the original payee, to any of the defenses available against the enforcement of written contracts.\u2019.\u2019 . McReynolds v.- National Woodworking Co., 58 App.D.C. 197, 26 F.2d 975, 977. But a defendant must do more than merely suggest a defense. He must come forward with evidence to sustain the burden which the law casts 'upon him. That is the law in contract cases when the defense is want of consideration or mistake; it is likewise the law in suits upon promissory notes.\nThat the defendant failed to meet that test is clear from the record. His duty to pay is equally clear.\nAffirmed.\nWatson v. Dunlap, D.C., Fed.Cas.No. 17,282, 2 Cranch, C.C. 14; Jones on Evidence, Civil Cases, 4th Ed., Page 320.\nIbid. Page 321.\nSee' exhaustive collection of cases cited in Brannan\u2019s Negotiable Instruments Law, 6th Ed., Page 363.",
+        "type": "majority",
+        "author": "CAYTON, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Raymond M. Hudson, of Washington, D. C. (Lowell H. Ewing, of Washington, D. C., on the brief), for appellant.",
+      "John J. Hamilton, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "SHERIGER v. GRUNER.\nNo. 87.\nMunicipal Court of Appeals for the District of Columbia.\nJuly 21, 1943.\nRaymond M. Hudson, of Washington, D. C. (Lowell H. Ewing, of Washington, D. C., on the brief), for appellant.\nJohn J. Hamilton, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0035-01",
+  "first_page_order": 81,
+  "last_page_order": 82
+}

@@ -1,0 +1,230 @@
+{
+  "id": 8149256,
+  "name": "TENDLER v. L. E. MASSEY, Inc.",
+  "name_abbreviation": "Tendler v. L. E. Massey, Inc.",
+  "decision_date": "1943-06-30",
+  "docket_number": "No. 95",
+  "first_page": "33",
+  "last_page": "35",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 A.2d 33"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "31 A.2d 679",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8152889
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0679-01"
+      ]
+    },
+    {
+      "cite": "32 A.2d 297",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8151172
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/32/0297-01"
+      ]
+    },
+    {
+      "cite": "99 F.2d 133",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        986544
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/99/0133-01"
+      ]
+    },
+    {
+      "cite": "69 App. D.C. 98",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 F.2d 458",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10702008
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/114/0458-01"
+      ]
+    },
+    {
+      "cite": "72 App.D.C. 170",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 F.2d 83",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1059764
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/104/0083-01"
+      ]
+    },
+    {
+      "cite": "109 F.2d 469",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1038384
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/109/0469-01"
+      ]
+    },
+    {
+      "cite": "128 F.2d 343",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10698814
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/128/0343-01"
+      ]
+    },
+    {
+      "cite": "129 F.2d 501",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1158783
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/129/0501-01"
+      ]
+    },
+    {
+      "cite": "132 F.2d 710",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1266258
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/132/0710-01"
+      ]
+    },
+    {
+      "cite": "34 A.2d 31",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8149225
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/34/0031-01"
+      ]
+    },
+    {
+      "cite": "111 F.2d 526",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1030343
+      ],
+      "pin_cites": [
+        {
+          "page": "527"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/111/0526-01"
+      ]
+    },
+    {
+      "cite": "72 App.D.C. 127",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Stat. 190",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 477,
+    "char_count": 8151,
+    "ocr_confidence": 0.725,
+    "pagerank": {
+      "raw": 1.1785080113636452e-07,
+      "percentile": 0.5880815831347697
+    },
+    "sha256": "777b0a45aaae6ab44f3d71325c0c61b3d6d73d14bb0bf44505a376bc52f47e12",
+    "simhash": "1:5d7eea74eb48b9df",
+    "word_count": 1372
+  },
+  "last_updated": "2024-02-27T23:44:59.089938+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "TENDLER v. L. E. MASSEY, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nMotions have been filed by appellee to strike from the record the reporter\u2019s transcript of the trial, to dismiss or affirm, and to reconsider our order of June 2, 1943, granting without opinion an extension of the time for the approval of the transcript. The single question presented concerns the power of this court to grant the extension upon application made after lapse of the prescribed period.\nUnder our Rule 23, when the trial has been stenographically reported, appellant may file the reporter\u2019s transcript in lieu of a statement of proceedings and evidence. Objections to the accuracy of the report, if filed, must be settled and the transcript approved by the trial judge within ten days. This period may be extended only by us.\nHere objections were filed and the time for settlement and approval expired May 22, 1943. The trial judge had seasonably set the time for hearing appellee\u2019s objections. On the day preceding the appointed time the trial court notified appellant that owing to the absence from the city of ap-pellee\u2019s counsel, the hearing was postponed to May 27, and that he would enter an order extending the time accordingly. Such an extension was admittedly beyond the authority of the trial judge.\nOn May 27th, over the protest of appel-lee\u2019s attorney, the trial court approved the reporter\u2019s transcript. Immediately thereafter, and within the time for filing the transcript of record on appeal, appellant\u2019s attorney applied to this court for an order extending the time for approval to and including May 27th. Despite objection by appellee we granted appellant\u2019s motion.\nThe Act of April 1, 1942, 56 Stat. 190, giving statutory authority to this court to prescribe rules of practice and procedure governing appeals, effective in the trial courts as well as in this court, provides that \u201cthe same shall conform as nearly as may be practicable to the forms, practice, and procedure now obtaining under the Federal Rules of Civil Procedure.\u201d Section 5(b). Our various rules covering the several stages of taking appeals and the preparation and filing of records conform in all essential particulars to the Federal Rules, 28 U.S.C.A. following section 723c. The appeal is perfected by filing a notice of appeal with the clerk of the trial court; there may be no extension of time for filing this notice; our jurisdiction attaches upon its filing, and thereafter the trial court has no power to grant extensions except one ten day extension for the filing of the statement of proceedings and evidence or reporter\u2019s transcript and one extension of five days for filing objections thereto. All other extensions must be obtained from this court.\nThe final paragraph (p) of Rule 27 authorizes us to grant extensions of time for any purpose other than for filing the notice of appeal. It does not expressly limit such action to applications made prior to the expiration of the particular period. That it was not our intention to so restrict our action is apparent (1) from a comparison with other paragraphs of the rule which specifically require that extensions authorized by the trial court must be made before the expiration of the time period, and (2) from a consideration of Rule 33 in which we authorize the appellee on motion filed in this court to have the appeal docketed and dismissed if appellant fails to take any of the steps required within the respective time periods fixed by Rule 27, but provide that\n\u201cUpon filing of said motion this court may, however, for good cause shown by the appellant, suspend action and grant additional time for completing said appeal.\u201d\nWhile couched in different language the resulting effect of our rules is to conform our practice to that under the Federal Rules. We are, therefore, enabled to dispose of the pending motions not merely upon our interpretation of our own rules, but in the light of the construction of corresponding rules by the Federal Courts of the various circuits and by the United States Court of Appeals for the District of Columbia.\nIn Burke v. Canfield, 72 App.D.C. 127, 111 F.2d 526, 527, an order of the District Court extending the time for the filing of the record on appeal was entered five days after the expiration of the period for such filing, notwithstanding the provision of Rule 73(g), which authorized it to extend the time \u201cif its order for extension is made before the expiration of the period for filing.\u201d A motion was made to dismiss the appeal. The court said that the new rules were intended to liberalize procedure and \u201cto avoid the harshness of the old rules, which often required us to decline consideration of the merits because of counsel\u2019s neglect to comply with the rules.\u201d\nThe court denied the motion to dismiss but admonished the bar \u201cthat we intend to exercise sparingly our discretion to save an appeal prosecuted in disregard of the rules.\u201d\nA like warning was expressed in our recent opinion in District Hauling & Construction Co. v. Argerakis, 34 A.2d 31, decided June 16, 1943, wherein we said that the intent of Congress and the purpose of our rules will be thwarted if rules are disregarded and limitations of time ignored.\nMany cases in the various circuits construing the Federal Rules of Civil Procedure hold that the jurisdiction of the Circuit Court of Appeals attaches upon the filing of the notice of appeal, and concede the power of the latter court, in its discretion, to proceed with the appeal notwithstanding unauthorized procedural delays in the preparation and filing of the record.\nThe cases cited by the appellee in support of its several motions relate to procedure under rules governing appellate practice prior to the adoption of the Federal Rules of Civil Procedure. The latter, and our own rules, were intended \u201cto avoid the harshness of the old rules\u201d and those decisions were in contrast to and constitute no authority for the interpretation of rules designed to liberalize judicial procedure and to determine litigation upon its merits rather than upon technical grounds.\nIn the exercise of our discretion we may and have in certain instances declined to accept as sufficient the excuses offered for failure to proceed within the time limitations fixed in our Rule 27.\nThese provisions were designed to prevent unnecessary delays in appealed cases and to assure cooperation of the bar and trial courts in the prompt dispatch of this phase of litigation.\nHere in the exercise of our discretion, by our order of June 2d, we granted the extension which the trial court had mistakenly assumed authority to grant. The delay in approving the transcript resulted from the absence of appellee\u2019s attorney and his inability to appear at the time seasonably fixed by the court. The time element involved was but five days. Progress of the appeal was not delayed to any appreciable extent, and it was to the interest of the appellee to have counsel present when his objections were considered and the reporter\u2019s transcript approved rather than to have action taken within the original period but in his absence.\nThe several motions are, therefore, denied, and the application of the appellee to extend the time for filing his brief until fifteen days after the disposal of these motions is granted.\nRule 27 contains a complete time schedule covering all proceedings in the trial court and in this court in appeals of right.\nMosier v. Federal Reserve Bank of New York, 2 Cir., 132 F.2d 710; In re Gammill, 7 Cir., 129 F.2d 501; Walleck v. Hudspeth, Warden, etc., 10 Cir., 128 F.2d 343; Mutual Ben. Health & Accident Ass\u2019n v. Snyder, 6 Cir., 109 F.2d 469; Ainsworth v. Gill Glass & Fixture Co., 3 Cir., 104 F.2d 83.\nJoerns v. Irvin, 72 App.D.C. 170, 114 F.2d 458; Cannon v. Tinkham, 69 App. D.C. 98, 99 F.2d 133.\nStroup v. Howe, D.C.Mun.App., 32 A.2d 297; Werth v. Nolan, D.C.Mun.App., 31 A.2d 679.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Morris D. Schwartz, of Washington, D. C., for appellant.",
+      "' Raymond M. Hudson, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "TENDLER v. L. E. MASSEY, Inc.\nNo. 95.\nMunicipal Court of Appeals for the District of Columbia.\nJune 30, 1943.\nMorris D. Schwartz, of Washington, D. C., for appellant.\n' Raymond M. Hudson, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0033-01",
+  "first_page_order": 79,
+  "last_page_order": 81
+}

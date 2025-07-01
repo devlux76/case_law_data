@@ -1,0 +1,99 @@
+{
+  "id": 8161045,
+  "name": "WOLFF v. CAPITAL TRANSIT CO.",
+  "name_abbreviation": "Wolff v. Capital Transit Co.",
+  "decision_date": "1943-07-13",
+  "docket_number": "No. 80",
+  "first_page": "872",
+  "last_page": "873",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 A.2d 872"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "267 F. 632",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3546694
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/267/0632-01"
+      ]
+    },
+    {
+      "cite": "60 App.D.C. 74",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 A.2d 862",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8156063
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0862-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 343,
+    "char_count": 5643,
+    "ocr_confidence": 0.71,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20098179469150518
+    },
+    "sha256": "070debbffb8ffcafd6ce431889d577d4a520c909a79ce30738b6f3984e709d44",
+    "simhash": "1:3b2264be6e2da7b4",
+    "word_count": 981
+  },
+  "last_updated": "2024-02-27T17:57:23.606146+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "WOLFF v. CAPITAL TRANSIT CO."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nAppellant sued the Capital Transit Company for damages to his automobile. The case was tried by the court, which, after finding that plaintiff\u2019s negligence was the proximate cause of the collision, ordered judgment for defendant.\nCertain facts are not in dispute. The collision occurred on Michigan Avenue, N. E., in the early afternoon. Defendant\u2019s car tracks occupy the center of the street. The space between the car tracks and each curb is 20 feet wide. Plaintiff had passed the street car and his automobile was proceeding in a westerly direction, with the street car following, when plaintiff, intending to enter the driveway into Trinity College grounds, turned to his left to cross the car tracks at a point opposite this entrance. His automobile had reached a position where it was almost clear of the approaching street car when it was struck. The impact propelled it into the space between the car track and the south curb, where his left front fender struck the rear left fender of an east bound automobile.\nFour witnesses to the collision gave testimony: the plaintiff, defendant\u2019s motorman, a Miss Johnson, driver of the east bound automobile, and a Father Thompson, a passenger in the street car.\nPlaintiff testified that before turning onto the car tracks he looked back and saw the street car at a point 600 feet distant; that \u201cwhen he was on the car tracks in the act of making the turn he found it necessary to stop for east bound traffic to pass and that he was standing on the tracks for 20 or 30 seconds, and then put the car in first gear and was moving very slowly when the street car came along from behind and struck his automobile\u201d; that after the collision the street car stopped in about one-half its length from the point of collision.\nHe also stated that it was raining at the time; that before crossing the tracks he put out his hand and pulled it hack quickly because of the rain. He does not identify the east bound traffic which interrupted his progress. Plaintiff\u2019s witness Johnson testified that there was no automobile traffic ahead or behind her, and no other street cars in the vicinity.\nThe operator of defendant\u2019s street car testified that there was no traffic other than the street car, plaintiff\u2019s automobile, and the east bound automobile.\nHe also testified that plaintiff\u2019s automobile after going about 75 feet in front of him, started \u201ccutting across the tracks\u201d. He applied the brakes when about 50 or 60 feet from the- automobile. His speed was about 25 miles per hour and under existing conditions he could make an emergency stop in 75 feet and an ordinary stop in 100 feet. He was about 15 feet from the automobile when plaintiff put out his hand and stopped on the street car tracks.\nFather Thompson testified that he was seated on the right side near the middle of the street car. Before the collision he saw the automobile ahead of the street car and that it was on the tracks, either standing still or moving very slowly; that the motorman put on his brakes when about 25 feet from the automobile, although the witness was not sure of the distance. After the collision the street car went a short distance, possibly 2 feet. At the time the brakes were applied the street car was going \u201cat a pretty good clip\u201d possibly 30 miles per hour.\nAn employee of the defendant company testified that at 25 miles per hour on wet rails a street car of the type involved in the collision could stop in about 75 feet \u201cif it made a good stop\u201d.\nWhether plaintiff\u2019s attempt to cross the tracks in front of the approaching street car was an exercise of reasonable care, or was negligent and caused or contributed to the collision, depends upon the factors of time and distance so common to litigation involving collisions at crossings. Was defendant\u2019s street car 600 feet distant when plaintiff turned to cross the tracks, and did he stop on the tracks from a third to half a minute before the collision? Or did he cross 75 feet ahead of the street car, or when it was so close that crossing was unsafe, and create the emergency which resulted in the collision? The trial court found that plaintiff was negligent and that his negligence was the proximate cause of the collision. In our opinion the evidence sustained this finding. It is significant that had the street car been 600 feet away, the Johnson automobile was equidistant, measured by the time required to approach, and no explanation was given by plaintiff to justify his stopping for a third to half a minute to let it pass.\nWe do not forget the principles we announced in MacDonald v. Capital Transit Co., D.C. Mun.App., 31 A.2d 862, but do not find them applicable to the present case. There the undisputed evidence was that the operator of the street car had ample opportunity to see the obstruction to the continued progress of the plaintiff\u2019s automobile and its inability to turn from the tracks, and received timely warning signals which he disregarded. Here, the evidence is disputed but tends strongly to indicate that when plaintiff\u2019s automobile started across the car tracks in front of the approaching street car the operator of the latter did not have a reasonable opportunity to avoid the collision.\nAffirmed.\nWashington Ry. & Elec. Co. v. Stuart, 60 App.D.C. 74, 267 F. 632.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Julius Aronoff, of Washington, D. C., for appellant.",
+      "R. E. Lee Goff, of Washington, D. C. (H. W. Kelly, of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "WOLFF v. CAPITAL TRANSIT CO.\nNo. 80.\nMunicipal Court of Appeals for District of Columbia.\nJuly 13, 1943.\nJulius Aronoff, of Washington, D. C., for appellant.\nR. E. Lee Goff, of Washington, D. C. (H. W. Kelly, of Washington, D. C., on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0872-01",
+  "first_page_order": 920,
+  "last_page_order": 921
+}

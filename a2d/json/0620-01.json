@@ -1,0 +1,94 @@
+{
+  "id": 8158532,
+  "name": "DOWNS v. KARSH et al.",
+  "name_abbreviation": "Downs v. Karsh",
+  "decision_date": "1943-08-03",
+  "docket_number": "No. 92",
+  "first_page": "620",
+  "last_page": "621",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 A.2d 620"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "31 A.2d 690",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8153042
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0690-01"
+      ]
+    },
+    {
+      "cite": "31 A.2d 867",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8156239
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0867-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 255,
+    "char_count": 3254,
+    "ocr_confidence": 0.71,
+    "pagerank": {
+      "raw": 2.705333716537885e-07,
+      "percentile": 0.8288365460689021
+    },
+    "sha256": "9a815e69e7e2f29db5e93fb203595479de98485e9e7631dcb9f3f52837243be7",
+    "simhash": "1:9f8c85cea78774ba",
+    "word_count": 566
+  },
+  "last_updated": "2024-02-27T20:18:50.282938+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "DOWNS v. KARSH et al."
+    ],
+    "opinions": [
+      {
+        "text": "HOOD, Associate Judge.\nAppellant is the owner of premises 106 C Street, Southeast, in which she formerly conducted a rooming house. There are about fifteen rooms in the house. In 1938, she leased it to Mr. and Mrs. Karsh. Their lease expired in 1941 and they have continued in possession as tenants by sufferance.\nAppellant now lives with her daughter and son-in-law but he expects to be transferred from Washington and has offered his home for sale.. Until recently appellant\u2019s son has helped support her but because he is now in the army is unable to continue such support. Appellant brought an action for possession of the C Street house, alleging she desired this property for her personal use and occupancy. She alleged that she wished to use the three rooms in the basement for her personal living quarters and make available the rest of the premises to persons desiring to rent the same. She testified she desired possession of the house in order to have a place to live and the means of making a living. She has been receiving the rent from the house and making payments on account of the purchase price. She owns another house nearby but it is' so heavily mortgaged that she receives no income from it.\nTestimony on behalf of the appellees was that they rented the house from appellant for the purpose of conducting a rooming house and bought the rooming house business formerly conducted there by a previous tenant, that they occupy the three rooms in the basement and rent the remaining rooms, and they have no income other than that derived from operation of the rooming house.\nThe trial court denied appellant recovery of possession, holding she had not proved a case within the District of Columbia Emergency Rent Act.\nIn Shaffer v. Bowes, D.C.Mun.App., 31 A.2d 690, we held the Act does not deprive an owner of the right to occupy his own property, if occupancy is sought in good faith and not for the purpose of evading or defeating the purposes of the Act. There is no evidence in the record of bad faith on the part of appellant. There are some indefinite references to a petition filed by her with the Rent Administrator for an increase of rent, but since the office of the Administrator is open to both landlord and tenant we think neither should be penalized for exercising a right given by the Act.\nWhen appellant was faced with the possibility of having to leave her son-in-law\u2019s home, it was natural and reasonable that she turn to her own property; and it was not necessary that she wait until actually forced to leave her present quarters. Gould v. Butler, D.C.Mun.App., 31 A.2d 867. It is true appellant owns another property; but where an owner has several properties available, the choice of which one he shall occupy is for him. Shaffer v. Bowes, supra.\nWe think the trial court was in error in denying appellant possession of her property.\nReversed.\nCAYTON, Associate Judge, concurs in the result.\nCode 1940, \u00a7\u00a7 45 \u2014 1601 to 45 \u2014 1611.",
+        "type": "majority",
+        "author": "HOOD, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Emmett Leo Sheehan, of Washington, D. C., for appellant.",
+      "Saul G. Lichtenberg, of Washington, D. C., for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "DOWNS v. KARSH et al.\nNo. 92.\nMunicipal Court of Appeals for the District of Columbia.\nAug. 3, 1943.\nEmmett Leo Sheehan, of Washington, D. C., for appellant.\nSaul G. Lichtenberg, of Washington, D. C., for appellees.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0620-01",
+  "first_page_order": 668,
+  "last_page_order": 669
+}

@@ -1,0 +1,575 @@
+{
+  "id": 8156741,
+  "name": "HAMILTON v. UNITED STATES",
+  "name_abbreviation": "Hamilton v. United States",
+  "decision_date": "1943-05-11",
+  "docket_number": "No. 46",
+  "first_page": "887",
+  "last_page": "891",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 887"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "22 N.E. 94",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "120 Ind. 88",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1375143
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/120/0088-01"
+      ]
+    },
+    {
+      "cite": "38 S.E. 337",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 Ga. 112",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        409387
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/113/0112-01"
+      ]
+    },
+    {
+      "cite": "79 S.E. 841",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Ga. 762",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        556653,
+        556469
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/140/0762-01",
+        "/ga/140/0762-02"
+      ]
+    },
+    {
+      "cite": "131 F. 145",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3858118
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/131/0145-01"
+      ]
+    },
+    {
+      "cite": "99 F.2d 122",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        986345
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/99/0122-01"
+      ]
+    },
+    {
+      "cite": "69 App.D.C. 87",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "223 U. S. 524",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3662116
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/223/0524-01"
+      ]
+    },
+    {
+      "cite": "170 U.S. 675",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3599719
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/170/0675-01"
+      ]
+    },
+    {
+      "cite": "155 U.S. 137",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3580677
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/155/0137-01"
+      ]
+    },
+    {
+      "cite": "56 Stat. 190",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 N.W. 468",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "161 Mich. 405",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1580700
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/161/0405-01"
+      ]
+    },
+    {
+      "cite": "175 A. 19",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Vt. 435",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        8544225
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/106/0435-01"
+      ]
+    },
+    {
+      "cite": "60 F.2d 1078",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        915176
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/60/1078-01"
+      ]
+    },
+    {
+      "cite": "61 App.D.C. 242",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 App.D.C. 395",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1344653
+      ],
+      "pin_cites": [
+        {
+          "page": "412"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/22/0395-01"
+      ]
+    },
+    {
+      "cite": "269 F. 689",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3553178
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/269/0689-01"
+      ]
+    },
+    {
+      "cite": "50 App.D.C. 173",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 F.2d 1016",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1825028
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/50/1016-01"
+      ]
+    },
+    {
+      "cite": "60 App.D.C. 251",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 F.2d 429",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1799378
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/57/0429-01"
+      ]
+    },
+    {
+      "cite": "61 App.D.C. 63",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "121 F.2d 905",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        463108
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/121/0905-01"
+      ]
+    },
+    {
+      "cite": "74 App.D.C. 167",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 F.2d 117",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        986245
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/99/0117-01"
+      ]
+    },
+    {
+      "cite": "69 App.D.C. 82",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Mackey 320",
+      "category": "reporters:state",
+      "reporter": "Mackey",
+      "case_ids": [
+        2621416
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/dc/14/0320-01"
+      ]
+    },
+    {
+      "cite": "63 S.Ct. 543",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        364374
+      ],
+      "pin_cites": [
+        {
+          "page": "544"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/318/0203-01"
+      ]
+    },
+    {
+      "cite": "82 N.W. 759",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "111 Iowa 351",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2106815
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/iowa/111/0351-01"
+      ]
+    },
+    {
+      "cite": "103 N.W. 947",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "128 Iowa 319",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2142811
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/iowa/128/0319-01"
+      ]
+    },
+    {
+      "cite": "143 N. W. 833",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "162 Iowa 50",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2202397
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/iowa/162/0050-01"
+      ]
+    },
+    {
+      "cite": "26 Iowa 507",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2284513
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/iowa/26/0507-01"
+      ]
+    },
+    {
+      "cite": "43 Iowa 470",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2310720
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/iowa/43/0470-01"
+      ]
+    },
+    {
+      "cite": "76 N.W. 660",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "106 Iowa 161",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2113842
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/iowa/106/0161-01"
+      ]
+    },
+    {
+      "cite": "74 N.W. 759",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "105 Iowa 157",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        8646289
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/iowa/105/0157-01"
+      ]
+    },
+    {
+      "cite": "159 N.W. 994",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "178 Iowa 552",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2231539
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/iowa/178/0552-01"
+      ]
+    },
+    {
+      "cite": "56 P.2d 1289",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "pin_cites": [
+        {
+          "page": "1292"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "13 Cal.App.2d 440",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2263534
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/cal-app-2d/13/0440-01"
+      ]
+    },
+    {
+      "cite": "38 App.D.C. 497",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1771318
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/app-dc/38/0497-01"
+      ]
+    },
+    {
+      "cite": "128 Neb. 783",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        4660794
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/neb/128/0783-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 868,
+    "char_count": 15239,
+    "ocr_confidence": 0.644,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20093642525104746
+    },
+    "sha256": "dcc6fc08a0b57669acc9cb482727ffbc7fe79974e4190e8e6218f61c717610cd",
+    "simhash": "1:acc2f16e3400006c",
+    "word_count": 2665
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "HAMILTON v. UNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nOn November 6, 1942, appellant was arrested on the street in front of her home. The next morning she was tried on in-formations charging solicitation and possession of lottery slips.\nThe officer who made the arrest testified that after a brief colloquy on the sidewalk she had invited him into her house for the purpose of sexual intercourse; that he walked with her to the entrance to the yard in front of her house where he placed her under arrest. He stated that he then hailed a passing police car and carried her to the station. There a book containing lottery or \u201cnumbers\u201d slips was taken from her purse.\nAppellant denied the officer\u2019s version of her arrest and specifically denied the alleged solicitation. The trial court found her guilty on both charges, and since the questions involved were wholly factual, and there was substantial evidence on which to base the findings, we have no grounds for reversal.\nNovember 11, 1942, appellant seasonably filed a motion for new trial, accompanied by affidavits of two persons, one known to-appellant at the time to have witnessed her arrest; the other discovered subsequent to the trial.\nThe motion for a new trial was denied' November 18, 1942. Meanwhile, on November 13, 1942, appellant had filed her notice of appeal.\nAt the hearing of the appeal a suggestion was made by counsel that the denial' of the motion for new trial was without consideration of its merits because of the filing of the appeal before the motion was argued and submitted. We therefore directed the trial court to file a supplemental' record showing the grounds for its denial of the motion. This supplemental record was filed and discloses that the court rejected the affidavit of one witness because her presence at the time of the arrest was known to appellant prior to the trial, and decided that the statements in the affidavit of the second witness, if true, were not sufficient to cause a reversal of its finding if a new trial were granted.\nThe granting or denial of a motion for new trial is not ordinarily reviewable on appeal, and this is true of a motion based upon newly discovered evidence unless it is found that the denial was at manifest abuse of discretion.\nHere the trial court had heard the testimony at the trial and was in a position to evaluate, as we cannot, the proposed new evidence. Appellant had during a period of nine years ending in 1940 received six sentences for soliciting prostitution; had paid a total of $175 in fines, and served two ninety day terms. This does not in any degree forfeit her right to-the full and equal protection of the law,. but it does affect the credibility of her testimony. Assuming that the additional witness whose existence was known to appellant could not be produced at the trial, a continuance should have been requested. The trial court properly refused to consider her affidavit in support of the motion for new trial. And we do not find that the ruling of the trial court as to the probative effect of the affidavit of the newly discovered witness was plainly wrong or was an abuse of discretion.\nWhile there is considerable divergence of opinion in defining \u201cabuse of discretion\u201d, courts agree that \u201cdifference in judicial opinion\u201d is not synonymous with \u201cabuse of judicial discretion\u201d.\nAs to the conviction on the charge of possessing numbers slips, the affidavits did not attempt to establish innocence but to render inadmissible the evidence on which the conviction was based. The record does not disclose that this evidence was objected to when it was offered; it was not mentioned in the motion for new trial, and apparently this point is raised for the first time on this appeal.\nAlthough we have considered the record to determine whether reversible error exists, it is our opinion that the appeal should be dismissed and not affirmed for the reason that it was taken during the pendency of the motion for new trial, at a time when the judgment lacked \u201cthat finality which is essential to appealability.\u201d Leishman v. Associated Wholesale Electric Co., 63 S.Ct. 543, 544, 87 L.Ed. -, decided February 15, 1943.\nThe Act creating this court limited its jurisdiction to appeals from \u201cany final order or judgment\u201d. Our Rule 27(d) provides that when a motion for a new trial has been seasonably filed the time for filing a notice of appeal \u201cshall not begin to run until disposition of such motion\u201d. The adoption of this rule was unnecessary. It was merely a declaration of the general law, serving as a convenient notice to litigants.\nUnder statutes containing similar provisions it has been repeatedly decided bj the Supreme Court of the United States that a judgment is not \u201cfinal\u201d and is not appealable while a motion for new trial, seasonably filed, remains undecided. This has been the law of this jurisdiction for many years.\nIn the early case of Vincent v. Vincent, 3 Mackey 320, under circumstances similar to the present, the court dismissed the appeal.\nThis case was cited and the rule applied in Southland Industries v. Federal Communications Commission, 69 App.D.C. 82, 99 F.2d 117, where the subject was fully considered and many decisions reviewed. There the court rejected the further contention of the appellant that the appeal might be regarded as dormant and taire, effect upon the final decision of the application for rehearing.\nIn this respect our practice is similar to that of the Federal Courts and those of other jurisdictions where the common law has not been changed by statute.\nThe Act of April 1, 1942, supra, provides that our rules shall conform as nearly as practicable to the Federal Rules of Civil Procedure, 28 U.S.C.A. following section 723c. This direction was followed in the adoption of our Rule 17, whereby our jurisdiction attaches upon the filing of the notice of appeal. This cannot result if there is then no appealable judgment or order.\nDismissed.\nSee Thomas v. United States, 74 App.D.C. 167, 121 F.2d 905, where Juvenile Court was directed to rehear motion for new trial and file supplemental record.\nConcrete Oil Tank Co. v. Menefee, 61 App.D.C. 63, 57 F.2d 429; Leapley v. Matthews, 60 App.D.C. 251, 50 F.2d 1016; Whelan v. Welch, 50 App.D.C. 173, 269 F. 689; Hill v. United States, 22 App.D.C. 395, 412.\nThomas v. United States, note 1, supra; District National Bank v. Maiatico, 61 App.D.C. 242, 60 F.2d 1078.\nBelock v. State Mutual Fire Ins. Co., 106 Vt. 435, 175 A. 19; Cooper v. Carr, 161 Mich. 405, 126 N.W. 468.\nPublic Law 512, 77th Congress, Act April 1, 1942, 56 Stat. 190.\nNorthern Pac. R. Co. v. Holmes, 155 U.S. 137, 15 S.Ct. 28, 39 L.Ed. 99; Kingman & Co. v. Western Mfg. Co., 170 U.S. 675, 18 S.Ct. 786, 42 L.Ed. 1192; United States v. Ellicott, 223 U. S. 524, 32 S.Ct. 334, 56 L.Ed. 535.\nSee, also, Woodmen of the World Life Ins. Ass\u2019n v. Federal Communications Commission, 69 App.D.C. 87, 99 F.2d 122.\nClarke v. Eureka County Bank, C.C. Nev., 131 F. 145; Durrence v. Waters, 140 Ga. 762, 79 S.E. 841; Duke v. Story, 113 Ga. 112, 38 S.E. 337; Colchin v. Ninde, 120 Ind. 88, 22 N.E. 94.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      },
+      {
+        "text": "CAYTON, Associate Judge\n(dissenting).\nI am unable to agree with the views of my colleagues. I think the appeal should not be dismissed but should be considered on the merits and a reversal ordered.\n1. Notice of appeal was timely, having been filed within five days from the judgment of conviction. Appellant should not he penalized for having filed it before the motion for new trial had been acted upon. Had a new trial been granted appellant could have withdrawn the notice of appeal. Congress re-established the right of appeal in these cases when it created this court a year ago, and we should not destroy that right by technical restrictions.-\n2. The conviction should be reversed because of the refusal to grant a new trial. It seems clear that the officer was seeking to establish a narcotics charge against the defendant. He said he had information that she was a \u201cpeddler of narcotics\u201d and the uncontradicted evidence is that while in custody she was examined by a physician to determine whether she was a user of narcotics. The government\u2019s showing on the charge of soliciting prostitution was dubious at best, and rather plainly indicated that the charge of soliciting was placed against the defendant when no evidence for the narcotics charge could be found. The arresting officer himself testified at the very outset of the trial that the defendant told him, \u201cYou had better go on down the street because the girls down here all know that you are a policeman\u201d ; that he replied, \u201cAre you kidding ? I\u2019m no policeman\u201d; that defendant then made the unlawful proposal, and that after a brief discussion as to terms, and as they were starting to turn into the yard of her home he placed her under arrest; that a police cruiser containing two other officers \u201cwas driving past and witness hailed them and put the defendant into the car and took her to No. 4 police station where he searched her pocket book and found a book of lottery, or number\" slips.\u201d\nDefendant\u2019s testimony was that three officers, Blick, Allen and one \u201cSmiley\u201d drove up as she was waiting for a taxi in front of her home; that one of the officers called her to the car and Officer Allen took hold of her and pushed her into the car; that he took her pocket book and searched it and asked her where the dope was. She testified further that at the precinct one of the officers asked, \u201cWhat are you going to charge her with ?\u201d and Officer Allen said, \u201cPut soliciting against her, she has a long record, it will stick\u201d. Of this there is no contradiction in the record.\nObviously if defendant\u2019s version of the incident was correct she could not have been charged with soliciting for she had no conversation with the officers but was swiftly pushed into the squad car, searched and arrested. To me it seems significant that neither of the officers in the squad car was called to give testimony. Presumably they could have shed considerable light on what transpired immediately before the arrest and whether Officer Alleni had left the squad car or had had any talk, or time or opportunity to talk, with defendant before the arrest.\nAfter conviction defendant filed a motion for new trial, supported by her own affidavit and those of two witnesses. One was Marie Belt, who made her affidavit while in the hospital, as follows: \u201cI am in the Hospital and that I told the defendant, Georgiana Hamilton, Friday night that I was expecting to go to the Hospital to give birth to a baby; that I had talked with her just before a car drove up and called Georgiana to it; that I saw one of the men snatch her pocket book, look in it, push her in the car, and drive away; that I am a married woman, the mother of four children, with no police record.\u201d\nThe second affidavit was that of Thelma Matthews who swore: \u201cI saw Geor-giana Hamilton when she was called to a car occupied by certain police officers on Friday night, November 6, 1942; that I saw one of them grab her pocket book and push her into the car; that Georgiana did not know that I saw what happened until she was released on bond, Monday, November 9, 1942.\u201d\nIn her own affidavit defendant swore that she had not produced Marie Belt at the trial because she thought she had gone to the hospital to give birth to a baby as she had told her the night before, just before the officers arrested her; that she did not know that the witness Thelma Matthews had seen the incident and did not discover it until after she had been released on bail.\nIt must be remembered that defendant was arrested on Friday evening, tried and convicted the following morning and not released on bail until the following Monday. I am satisfied that the evidence of the two witnesses mentioned was \u201cnewly discovered\u201d under the decided cases, and that fairly considered, the testimony, if received, would have been likely to require an acquittal. I cannot agree with the statement in the majority opinion that we are not in a position to \u201cevaluate\u201d the proposed new evidence. This is relinquishing, without reason, one of our plain functions as a reviewing court. The two witnesses were never summoned into court for examination or cross-examination. The trial judge neither saw nor heard them and made his \u201cevaluation\u201d of the proposed testimony solely from the affidavits. Those affidavits are before us and appellant is entitled to have us review them. If at the trial defendant had been corroborated by those two witnesses is it likely that the trial judge would have rejected such persuasive testimony, establishing as it did that there was neither time nor opportunity for solicitation?\nLooking at the picture as presented I am satisfied that the refusal to grant a new trial constituted an abuse of discretion. This term is not so harsh as it may seem. To find abuse of discretion we need not find that there was an improper motive, wilful purpose, prejudice, partiality or intentional wrong on the part of the trial judge. We need only find, as I think we should find here, that the exercise of discretion is subject to review \u201cwhere the error in its exercise is plainly shown, and works material hardship and injustice.\u201d The judicial discretion should be exercised \u201cin a manner to subserve and not to impede or defeat the ends of substantial justice.\u201d I do not suggest that we should set up our own judgment against that of trial judges in purely discretionary matters, but when the precise ground on which the motion is based is clearly stated and the legal effect of such a ruling is not left in doubt it should be reviewed with the same freedom as rulings upon any other ques- . tion of law. For obvious reasons\u2019 an appellate court should more closely study a ruling refusing a new trial than one granting a new trial. The cases cited dealt with civil disputes and I regard them as applying even more strongly where liberty is involved.\nCertainly neither the nature of the charge nor the prior record of defendant should be permitted to affect her right to a full, fair and impartial trial. When that result has not been achieved, a trial judge should grant a new trial. When it is refused, we should not hesitate to correct the error.\nPettegrew v. Pettegrew, 128 Neb. 783, 260 N.W.287.\nIn re Mattullath, 38 App.D.C. 497.\nNicholls v. Anders, 13 Cal.App.2d 440, 56 P.2d 1289, 1292.\nMullong v. Mullong, 178 Iowa 552, 159 N.W. 994.\nId. Supporting my general views, above expressed, are National Horse Importing Co. v. Novak et al., 105 Iowa 157, 74 N.W. 759; Turley v. Griffin, 106 Iowa 161, 76 N.W. 660; Stockwell v. Chicago C. & D. R. Co., 43 Iowa 470; Riley v. Monohan, 26 Iowa 507; Nelson v. Western Union Tel. Co., 162 Iowa 50, 143 N. W. 833; Busse v. Schaeffer, 128 Iowa 319, 103 N.W. 947; Merchant v. O\u2019Rourke, 111 Iowa 351, 82 N.W. 759.",
+        "type": "dissent",
+        "author": "CAYTON, Associate Judge"
+      }
+    ],
+    "attorneys": [
+      "Chauncey D. Artis, of Washington, D. C., for appellant.",
+      "John P. Burke, Asst. U. S. Atty., of Washington, D. C. (Edward M. Curran, U. S. Atty., and Ray L. Jenkins, Asst. U. S. Atty., both of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "HAMILTON v. UNITED STATES.\nNo. 46.\nMunicipal Court of Appeals for the District of Columbia.\nMay 11, 1943.\nChauncey D. Artis, of Washington, D. C., for appellant.\nJohn P. Burke, Asst. U. S. Atty., of Washington, D. C. (Edward M. Curran, U. S. Atty., and Ray L. Jenkins, Asst. U. S. Atty., both of Washington, D. C., on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0887-01",
+  "first_page_order": 935,
+  "last_page_order": 939
+}

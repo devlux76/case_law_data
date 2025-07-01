@@ -1,0 +1,382 @@
+{
+  "id": 8155821,
+  "name": "HERNDON v. HIGDON",
+  "name_abbreviation": "Herndon v. Higdon",
+  "decision_date": "1943-01-13",
+  "docket_number": "No. 17",
+  "first_page": "854",
+  "last_page": "856",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 854"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "170 N.W. 934",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "168 Wis. 635",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8697663
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/168/0635-01"
+      ]
+    },
+    {
+      "cite": "186 N. W. 585",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Wis. 230",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8688135
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/176/0230-01"
+      ]
+    },
+    {
+      "cite": "204 N.W. 432",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "200 Iowa 65",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2292876
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/200/0065-01"
+      ]
+    },
+    {
+      "cite": "50 F.2d 991",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1824816
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/50/0991-01"
+      ]
+    },
+    {
+      "cite": "60 App.D.C. 226",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "189 N.W. 204",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "219 Mich. 353",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1772734
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/219/0353-01"
+      ]
+    },
+    {
+      "cite": "236 P. 354",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "72 Cal.App. 13",
+      "category": "reporters:state",
+      "reporter": "Cal. App.",
+      "case_ids": [
+        2222301
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app/72/0013-01"
+      ]
+    },
+    {
+      "cite": "23 Ariz. 333",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        4953324
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/23/0333-01"
+      ]
+    },
+    {
+      "cite": "94 A. 370",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 Conn. 325",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        1626829
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/89/0325-01"
+      ]
+    },
+    {
+      "cite": "104 A. 95",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 N.J.L. 99",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        192323
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/njl/92/0099-01"
+      ]
+    },
+    {
+      "cite": "221 P. 392",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "64 Cal. App. 287",
+      "category": "reporters:state",
+      "reporter": "Cal. App.",
+      "case_ids": [
+        2151252
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app/64/0287-01"
+      ]
+    },
+    {
+      "cite": "274 F. 267",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6737322
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/274/0267-01"
+      ]
+    },
+    {
+      "cite": "204 N.W. 134",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "231 Mich. 488",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1679795
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/231/0488-01"
+      ]
+    },
+    {
+      "cite": "185 N.W. 376",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 Minn. 362",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        134222
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/150/0362-01"
+      ]
+    },
+    {
+      "cite": "269 N.W. 643",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "198 Minn. 303",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        1736793
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/198/0303-01"
+      ]
+    },
+    {
+      "cite": "32 F.2d 957",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1756534
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/32/0957-01"
+      ]
+    },
+    {
+      "cite": "59 App.D. C. 61",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 A.L.R. 227",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 N.W. 173",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Minn. 35",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        138926
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/145/0035-01"
+      ]
+    },
+    {
+      "cite": "238 Ill. App. 283",
+      "category": "reporters:state",
+      "reporter": "Ill. App.",
+      "case_ids": [
+        3121212
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill-app/238/0283-01"
+      ]
+    },
+    {
+      "cite": "22 F.2d 718",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1709575
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/22/0718-01"
+      ]
+    },
+    {
+      "cite": "57 App.D.C. 290",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 470,
+    "char_count": 6486,
+    "ocr_confidence": 0.692,
+    "pagerank": {
+      "raw": 4.2043504029729626e-07,
+      "percentile": 0.9133916687806896
+    },
+    "sha256": "c65dbe51f89477a7a49f97d5260d1c5feafeccacf439a7f0e07ebc5caff75c48",
+    "simhash": "1:b800cadedd86c966",
+    "word_count": 1120
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "\u25a0 Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "HERNDON v. HIGDON."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nParties will be designated as in the trial court.\nThe suit was for damages to plaintiff\u2019s automobile resulting from a collision with defendant\u2019s car at the intersection of 26th and I Streets, N.W., on June 15, 1942. Both were private passenger cars. The accident occurred at noon, the day was clear, the street dry. The only other traffic noted was a southbound truck on 26th Street, north of I Street. There were neither traffic signs nor signals at this corner.\nPlaintiff was driving north on 26th Street; defendant east on I Street. Plaintiff testified that he was driving about 25 miles per hour; that as he approached the intersection he took his foot off the accelerator but did not apply his brakes; that at the time of the impact his speed was 25 to 30 miles per hour.\nHe stated that when about to enter the-intersection he looked to the left and to' the right. He could see about two car-lengths to the left, did not see defendant\u2019s, car, and had practically cleared the intersection when his car was struck on the-left rear.\nA passenger in his car, seated on plaintiff\u2019s right, testified that when they were-about to enter the intersection he saw defendant\u2019s car about two and one-half car lengths away, coming faster than plaintiff\u2019s car was moving.\nDefendant testified that he approached the intersection at about 20 miles per hour. There was a southbound truck on 26th Street, north of I Street, whifch stopped and the driver waved him on. He saw plaintiff\u2019s car when it was 20 feet from the intersection, applied his brakes and slid to the center of the intersection, the front of his car striking the left rear of plaintiff\u2019s..\nThere were skid marks of defendant\u2019s car on the pavement, 12 to IS feet long, commencing 3 feet within the intersection.\nThe trial court found that defendant was negligent, denied his defense of plaintiff\u2019s contributory negligence, and entered judgment for plaintiff.\nUnquestionably the facts established defendant\u2019s negligence. He was required on approaching the intersection, to look both to the left and to the right for on-coming traffic \u2014 particularly to his right as traffic from that direction had the right of way. He did look to his left, saw a truck stop, and saw the driver wave him on. He did not see plaintiff\u2019s car until it was 20 feet from the intersection \u2014 where his own car was at that time he does not state. Until then he did not attempt to apply his brakes or slacken his speed. As he was presumably driving on the south side of I Street, that part which plaintiff\u2019s car would first enter, a collision was then practically inevitable.\nContributory negligence to bar a recovery is a question of f'act, subject, however, to the application of certain definite legal principles depending upon the facts and circumstances of individual cases.\nHere it is claimed that plaintiff was negligent because he failed to see defendant\u2019s approaching car, citing Faucett v. Bergmann, 57 App.D.C. 290, 22 F.2d 718. That was a pedestrian case. Where automobiles approach an intersection at 25 miles per hour \u2014 37 feet per second \u2014 other factors enter.\nThere were cars parked on I Street within 10 or 15 feet of the intersection, which would partially obstruct plaintiff\u2019s view of traffic approaching from that direction. He states he could see two car. lengths back of the intersection. He did not see defendant\u2019s car.\nHaving the right of way over traffic approaching from the left in view of the then proximity of his car to the intersection, he proceeded without looking further. This alone would not constitute negligence in law. He could assume that any car then approaching the intersection would comply with the law.\nIt is also claimed-that the speed at which plaintiff entered and crossed the intersection was excessive and constituted contributory negligence.\nWhile we do not find, under the conditions here shown, that plaintiff\u2019s car was in fact proceeding at an excessive speed, we think the question before the trial court was whether its speed, if excessive, was a contributing cause of the collision. One driving at an excessive or prohibited rate of speed is not barred from recovering unless that is shown to have been a contributing factor to the ensuing collision.\nIn Wallace v. Yellow Cab Co., 238 Ill. App. 283, where the facts were nearly identical with this case, the court said: \u201cWe think that the court was also justified in finding that the speed at which plaintiff\u2019s car was running was not the proximate cause of the collision, and that it was caused by the negligent failure of defendant\u2019s chauffeur to check the speed of the cab and allow plaintiff\u2019s car to pass in front of it.\u201d\nUnder the other conditions existing here, had the speed of plaintiff\u2019s car been 20 miles per hour, or even less, the court might well have concluded that this would merely have varied the point of impact of the cars.\nWe are mindful that one having the right of way is not absolved of the duty of exercising reasonable care in entering an intersection. That one is entering in the favored direction must, however, be taken into consideration in determining whether he exercised reasonable care under the circumstances.\nWe find no error in the action of the trial court.\nAffirmed.\nGibbs v. Almstrom, 145 Minn. 35, 176 N.W. 173, 11 A.L.R. 227.\nJ. Maury Dove Co. v. Cook, 59 App.D. C. 61, 32 F.2d 957; Pearson v. Norell, 198 Minn. 303, 269 N.W. 643; Kunz v. Thorp Fire-Proof Door Co., 150 Minn. 362, 185 N.W. 376; Arvo v. Delta Hardware Co., 231 Mich. 488, 204 N.W. 134; Bramley v. Dilworth, 6 Cir., 274 F. 267; Vicker-son v. Standard Auto Sales Co., 64 Cal. App. 287, 221 P. 392; Paulsen v. Klinge, 92 N.J.L. 99, 104 A. 95; 42 C.J. 988.\nCoffin v. Laskau, 89 Conn. 325, 94 A. 370, L.R.A.1915E, 959; Marchese v. Metheny, 23 Ariz. 333, 203 P. 567; Godeau v. Levy, 72 Cal.App. 13, 236 P. 354; Spencer v. Phillips & Taylor, 219 Mich. 353, 189 N.W. 204.\nBland v. Hershey, 60 App.D.C. 226, 50 F.2d 991.\nCarlson v. Meusberger, 200 Iowa 65, 204 N.W. 432; McCaffrey v. Automobile Liability Co., Ltd, 176 Wis. 230, 186 N. W. 585; Glatz v. Kroeger Bros. Co., 168 Wis. 635, 170 N.W. 934.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Adelard L. Brault, of Washington, D. C. (Charles C. Collins, of Washington, D. C., on the brief), for appellant.",
+      "Vance V. Vaughan, of Washington, D. C, for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "HERNDON v. HIGDON.\nNo. 17.\nMunicipal Court of Appeals for District of Columbia.\nJan. 13, 1943\nAdelard L. Brault, of Washington, D. C. (Charles C. Collins, of Washington, D. C., on the brief), for appellant.\nVance V. Vaughan, of Washington, D. C, for appellee.\n\u25a0 Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0854-01",
+  "first_page_order": 902,
+  "last_page_order": 904
+}

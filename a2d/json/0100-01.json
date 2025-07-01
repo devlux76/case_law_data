@@ -1,0 +1,142 @@
+{
+  "id": 8149311,
+  "name": "FOWEL v. INSURANCE BLDG., Inc.",
+  "name_abbreviation": "Fowel v. Insurance Bldg., Inc.",
+  "decision_date": "1943-04-06",
+  "docket_number": "No. 54",
+  "first_page": "100",
+  "last_page": "101",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 A.2d 100"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "108 Miss. 871",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        1449473
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/miss/108/0871-01"
+      ]
+    },
+    {
+      "cite": "52 L.R.A.,N.S., 1114",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 S.E. 685",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 N.C. 351",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        11271914
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/163/0351-01"
+      ]
+    },
+    {
+      "cite": "112 F.2d 581",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1026941
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/112/0581-01"
+      ]
+    },
+    {
+      "cite": "72 App.D.C. 174",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 F.2d 516",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1828264
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/49/0516-01"
+      ]
+    },
+    {
+      "cite": "60 App.D.C. 134",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 317,
+    "char_count": 3745,
+    "ocr_confidence": 0.702,
+    "pagerank": {
+      "raw": 1.4008687585761615e-07,
+      "percentile": 0.6446684729495812
+    },
+    "sha256": "a2bad43b95329d0c6de1b6df80ff5e6540b38f3387b42d396904a0eb2277e433",
+    "simhash": "1:3a95c0a93b411397",
+    "word_count": 642
+  },
+  "last_updated": "2024-02-27T17:57:23.606146+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "FOWEL v. INSURANCE BLDG., Inc."
+    ],
+    "opinions": [
+      {
+        "text": "CAYTON, Associate Judge.\nThe action below was by Insurance Building, Inc. against Redge Fowel for $666.67 covering rent claimed to be due from February 1, 1942 to April 20, 1942, for a florist shop in the building of plaintiff. One of the defenses was by way of counterclaim for the value of flowers alleged to have been frozen as a result of plaintiff\u2019s failure to furnish heat during certain periods of the winter of 1941-1942. The amount claimed for such damage was $1,516 and this was later reduced by stipulation to $169. The jury by its verdict awarded plaintiff the full amount of its claim and disallowed the counterclaim in its entirety.\nAs part of his proof defendant offered in evidence the official report of the Weather Bureau of the U. S. Department of Commerce covering the periods involved and properly certified and sealed in the name of the Secretary of Commerce. The trial judge refused to admit it. We think the ruling was erroneous.\nThe tendered evidence was neither repetitious nor cumulative. No other evidence of the same character was tendered or received during the trial. It was in no sense speculative, for its official character removed it from that status. It was directly relevant on the main issue which was whether the flowers froze as a result of failure to furnish heat.\nAppellee contends that there was no connection between the outside temperature and the extent of heat provided within the premises. But we cannot accept that view because it is contrary to everyday human experience. Obviously outdoor temperatures have a direct effect upon efficient functioning of heating plants.\nMoreover there was a sharply drawn conflict in the evidence as to whether sufficient heat had been furnished. That being so the excluded evidence was such that defendant was entitled to have it placed on the scales to be weighed by the jury along with the other evidence in the case.\nNaturally we have no measuring rod by which to gauge the extent of the harm caused by the erroneous ruling. We have no way of knowing how much weight the jury would have given it. But we think the situation is governed by the following language employed in Chichester Chemical Company v. United States, 60 App.D.C. 134, 49 F.2d 516, 519: \u201c* * * it is only when it is certain that the error assigned could not have prejudiced the complaining party that the rule- \u2014 that it is no ground for a reversal \u2014 is applicable.\u201d\nWe find no error in connection with the trial and submission of plaintiff\u2019s claim. The issue in that claim was distinct and severable from that involved in the counterclaim, and was in fact separately decided by the verdict of the jury. In returning the case we are therefore.limiting the retrial to the issue presented in defendant\u2019s counterclaim. We do this on the authority of Ecker v. Potts, 72 App.D.C. 174, 112 F.2d 581.\nThe judgment is reversed and the cause remanded, with instructions to grant a new trial upon defendant\u2019s counterclaim; the verdict of the jury entered on November 17, 1942 to stand as a disposition of the claim set up in plaintiff\u2019s complaint.\nReversed.\nDor a discussion of the question of limiting the scope of reversal and retrial see May Department Stores Co. v. Bell, 8 Cir., 61 D.2d 830, Derebee v. Norfolk Southern R. Co., 163 N.C. 351, 79 S.E. 685, 52 L.R.A.,N.S., 1114, Yazoo & M. V. R. Co. v. Scott, 108 Miss. 871, 67 So. 491, L.R.A.1915E, 239.",
+        "type": "majority",
+        "author": "CAYTON, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "I. H. Minovitz, of Washington, D. C., for appellant.",
+      "H. Max Ammerman, of Washington, D. C. (Louis Ottenberg, of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "FOWEL v. INSURANCE BLDG., Inc.\nNo. 54.\nMunicipal Court of Appeals for the District of Columbia.\nApril 6, 1943.\nI. H. Minovitz, of Washington, D. C., for appellant.\nH. Max Ammerman, of Washington, D. C. (Louis Ottenberg, of Washington, D. C., on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0100-01",
+  "first_page_order": 148,
+  "last_page_order": 149
+}

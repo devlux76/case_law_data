@@ -1,0 +1,444 @@
+{
+  "id": 8156805,
+  "name": "PENWELL v. DISTRICT OF COLUMBIA",
+  "name_abbreviation": "Penwell v. District of Columbia",
+  "decision_date": "1943-01-13",
+  "docket_number": "Nos. 28, 28(a)",
+  "first_page": "891",
+  "last_page": "894",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 891"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "290 U.S. 96",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3920642
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "104"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/290/0096-01"
+      ]
+    },
+    {
+      "cite": "67 N.E. 431",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "175 N.Y. 219",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2311615
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/175/0219-01"
+      ]
+    },
+    {
+      "cite": "28 A. 524",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Conn. 310",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        8846024
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/63/0310-01"
+      ]
+    },
+    {
+      "cite": "167 La. 324",
+      "category": "reporters:state",
+      "reporter": "La.",
+      "case_ids": [
+        2930837
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/la/167/0323-01"
+      ]
+    },
+    {
+      "cite": "140 N.E. 563",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "236 N. Y. 205",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1226129,
+        11278989
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny-crim/40/0522-01",
+        "/ny/236/0205-01"
+      ]
+    },
+    {
+      "cite": "49 F.2d 538",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1828200
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/49/0538-01"
+      ]
+    },
+    {
+      "cite": "102 F.2d 618",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1068800
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/102/0618-01"
+      ]
+    },
+    {
+      "cite": "70 App.D.C. 14",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 F.2d 556",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1018553
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/91/0556-01"
+      ]
+    },
+    {
+      "cite": "67 App. D.C. 251",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 F.2d 532",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        264023
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/71/0532-01"
+      ]
+    },
+    {
+      "cite": "63 App.D.C. 232",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 F.2d 280",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        895306
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/66/0280-01"
+      ]
+    },
+    {
+      "cite": "62 App.D.C. 250",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 F.2d 984",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1653492,
+        4069140
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/10/0984-01"
+      ]
+    },
+    {
+      "cite": "56 App.D.C. 119",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        4069140
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "2 F.2d 637",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1288720
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/2/0637-01"
+      ]
+    },
+    {
+      "cite": "55 App.D.C. 106",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 A.L.R. 1258",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "279 U.S. 749",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3906270
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/279/0749-01"
+      ]
+    },
+    {
+      "cite": "213 U.S. 257",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8288801
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/213/0257-01"
+      ]
+    },
+    {
+      "cite": "172 U.S. 534",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3605214
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/172/0534-01"
+      ]
+    },
+    {
+      "cite": "156 U.S. 361",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1488099
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/156/0361-01"
+      ]
+    },
+    {
+      "cite": "120 U.S. 430",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3468608
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/120/0430-01"
+      ]
+    },
+    {
+      "cite": "102 U.S. 451",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5630045
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/102/0451-01"
+      ]
+    },
+    {
+      "cite": "7 How. 833",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        6142046
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/48/0833-01"
+      ]
+    },
+    {
+      "cite": "25 F.2d 298",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1726972
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/25/0298-01"
+      ]
+    },
+    {
+      "cite": "65 F.2d 824",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        899710
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/65/0824-01"
+      ]
+    },
+    {
+      "cite": "62 App.D.C. 191",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 U.S. 51",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1488088
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/156/0051-01"
+      ]
+    },
+    {
+      "cite": "16 A.L.R. 712",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "260 F. 74",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6728451
+      ],
+      "pin_cites": [
+        {
+          "page": "82"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/260/0074-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 610,
+    "char_count": 9686,
+    "ocr_confidence": 0.691,
+    "pagerank": {
+      "raw": 1.3087626775729174e-07,
+      "percentile": 0.6239213174204364
+    },
+    "sha256": "8cfc54b9a09bd2782182b78f8a9b7785aef0de730e03a0bfe9365e679ceeacbf",
+    "simhash": "1:a7b1fa153f61c38a",
+    "word_count": 1686
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "PENWELL v. DISTRICT OF COLUMBIA."
+    ],
+    "opinions": [
+      {
+        "text": "HOOD, Associate Judge.\nAppellant, Rufus Penwell, was charged in the Criminal Division of the Municipal Court for the District of Columbia with violations of sections 301 (e) and 609 (a), Title 40, of the District of Columbia Code (1940 Ed.), such offenses being commonly known as \u201cdriving without a permit\u201d and \u201cleaving after colliding\u201d. Trial was had before the court without a jury and defendant was found guilty of both charges.\nOne Thomas testified that on March 27, 1942 an automobile operated by him was in a collision with another automobile which came to a stop immediately, that a man got out on the right hand side of the other car, came around to him and said that he would have Thomas\u2019 car fixed if it was brought to the garage where he was employed, that this man looked like the defendant, that several people gathered around at the scene of the accident and the automobile which collided with his was driven away, but that he could not identify the person who drove the car away. One Dean testified that he was standing near the scene of the accident and saw the collision, that there were two men in the automobile which collided with Thomas\u2019 car but that he did not observe the driver of that automobile, that after the collision he saw a man talking with Thomas but this man was not the defendant, that after the accident he saw a man whom he identified as the defendant get into the automobile and drive it away. There was evidence that the colliding car, which bore Maryland tags, was registered in the name of and owned by the defendant and that defendant had neither a District of Columbia nor Maryland operator\u2019s permit.\nDefendant admitted he owned an automobile which bore the Maryland tag number identified as being on the colliding car and admitted he had no permit to operate the car, but testified that on the day of the accident the car was in a garage where defendant was employed, denied that he was driving the car at the time of the accident, and testified that at the time of the accident he was at his home in Maryland with his wife, his sister and his brother-in-law. Defendant\u2019s wife and sister corroborated his testimony that he was at home at the time the accident occurred, though defendant\u2019s sister testified the car was in defendant\u2019s yard in Maryland that day rather than in the garage in the District of Columbia where defendant worked, as defendant had testified.\nThe foregoing is substantially all the evidence offered except the following, which is the basis of one assignment of error. The prosecution called as a witness a police officer, who testified that he interviewed the defendant and defendant denied he had been the driver of the car or had been in the car at the time of the accident. Over objection of the defendant the officer was permitted to testify that he had been informed a Mr. and Mrs. Bryan had witnessed the accident, that Mr. and Mrs. Bryan were called to the office of the Accident Investigation Unit and there in the presence of the witness and defendant Mr. and Mrs. Bryan \u201cpositively identified\u201d the defendant as the driver of the car. This testimony was admitted by the trial judge on the theory that the statements had been made in the presence of the defendant and having drawn no reply or denial from him were therefore competent as admissions by silence on the part of the defendant. Later during the trial the judge took the position that such evidence was not admissible and refused to permit the defendant to be cross-examined concerning the identification by Mr. and Mrs. Bryan. In rendering his decision the trial judge stated that he was disregarding the testimony objected to and that his finding was based on the other testimony adduced at the trial. Mr. and Mrs. Bryan were not produced as witnesses and the record discloses no explanation for their absence.\nThe record does not disclose the full circumstances of the alleged Bryan identification, and since the trial court concluded that the testimony regarding it was inadmissible and the government does not now contend it was admissible, we assume the accusatory statements were not made under such circumstances as would render them admissible.\nAppellant contends the testimony regarding identification by Mr. and Mrs. Bryan was so prejudicial as to warrant a reversal. The government, conceding the testimony was inadmissible, contends the error in its admission was cured by the trial judge\u2019s recognition of that error and statement that he was disregarding it in arriving at his decision.\nIt is a well recognized rule that many errors occurring during the course of a trial may be cured by proper and timely action of the trial court. These instances, naturally, more often arise in jury cases. The rule was well expressed by Judge Sanborn, speaking for the eighth Circuit Court of Appeals in Maytag v. Cummins, 8 Cir., 260 F. 74, 82, 16 A.L.R. 712, where he said:\n\u201cThe general rule is that if evidence has been erroneously admitted during the trial, the error of its admission is cured by its subsequent withdrawal before the close of the trial or by a clear peremptory instruction to the jury to disregard it. [Citations]\n\u201cBut there is an exception to this rule. It is that, where the appellate court perceives from an examination of the record that the inadmissible evidence made such a strong impression upon the minds of the jury that its subsequent withdrawal or the instruction to disregard it probably failed to eradicate the injurious effect of it from the minds of the jury, there the defeated party did not have a fair trial of his case, and a new trial should be granted. [Citations].\u201d\nThis well established rule, and its equally well established exception, have been applied by the Supreme Court in criminal and civil cases and in jury and non-jury cases. In this District the rule has been applied in numerous criminal cases.\nThough the rule and its exception are well established, their application to a particular state of facts presents the difficulty. More latitude will be allowed in a civil case than in a criminal case; likewise more latitude will be allowed in a case tried by the court than in one tried by a jury; and courts are slow to reverse where other evidence in the case strongly supports the verdict of the jury or the decision of the court.\nObviously a case ought not to be reversed for errors which were cured at the trial, but always there is the question whether they were actually and effectively cured. Every error in the admission of evidence cannot be cured, for some evidence by its very nature will leave a lasting impression on the mind of juror or judge. Despite a trial judge\u2019s conclusion that his decision is entirely unaffected by evidence improperly admitted, when it is of a highly prejudicial nature he, like a juror, may be influenced by it without being conscious of its influence. Each case presenting this question must be decided on its particular facts.\nHere the wrongfully admitted evidence squarely contradicted defendant\u2019s claim of an alibi, and the competent evidence was far from conclusive. Could the trial judge, though by training and experience qualified to pass upon the admissibility of evidence and to separate the competent from the incompetent, remove from his mind the impression this evidence must have made when he permitted it to be received? Was he unconsciously affected by it in making his decision, though sincerely believing he could completely ignore it? Did the \u201creverberating clang of those accusatory words\u201d play a part in his finding defendant\u2019s-testimony unworthy of belief? We cannot answer these questions with certainty but have serious doubts about them, and those doubts must be resolved in favor of appellant.\nThe judgments in both cases are reversed with instructions to award new trials.\nReversed.\nSparf v. United States, 156 U.S. 51, 15 S.Ct. 273, 39 L.Ed. 343; Dickerson v. United States, 62 App.D.C. 191, 65 F.2d 824; McCarthy v. United States, 6 Cir., 25 F.2d 298.\nUnited States v. King, 7 How. 833, 12 L.Ed. 934; Pennsylvania Co. v. Roy, 102 U.S. 451, 26 L.Ed. 141; Hopt v. Utah, 120 U.S. 430, 7 S.Ct. 614, 30 L.Ed. 708; Waldron v. Waldron, 156 U.S. 361, 15 S. Ct. 383, 39 L.Ed. 453; Washington Gas Light Co. v. Lansden, 172 U.S. 534, 19 S.Ct. 296, 43 L.Ed. 543; Turner v. Amer lean Security & Trust Co., 213 U.S. 257, 29 S.Ct. 420, 53 L.Ed. 788; Sinclair et al. v. United States, 279 U.S. 749, 49 S.Ct. 471, 73 L.Ed. 938, 63 A.L.R. 1258.\nCopeland v. United States, 55 App.D.C. 106, 2 F.2d 637; De Camp v. United States, 56 App.D.C. 119, 10 F.2d 984; Jackson et al. v. United States, 62 App.D.C. 250, 66 F.2d 280; Harris v. United States, 63 App.D.C. 232, 71 F.2d 532; Smith et al. v. United States, 67 App. D.C. 251, 91 F.2d 556; Donald v. United States, 70 App.D.C. 14, 102 F.2d 618.\nMiddleton v. United States, 8 Cir., 49 F.2d 538; Holt v. United States, 10 Cir., 94 F.23 90; People v. Creasy, 236 N. Y. 205, 140 N.E. 563.\nState v. McBeth, 167 La. 324, 119 So. 65; Peck v. Pierce, 63 Conn. 310, 28 A. 524; Robinson v. New York Elevated R. Co., 175 N.Y. 219, 67 N.E. 431.\nShepard v. United States, 290 U.S. 96, 104, 54 S.Ct. 22, 78 L.Ed. 196.",
+        "type": "majority",
+        "author": "HOOD, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "A. Arvin Lynn of Washington, D. C. (Alfred M. Schwartz, of Washington, D. G, on the brief), for appellant.",
+      "Vernon E. West, Principal Asst. Corp. Counsel, of Washington, D. C. (Richmond B. Keech, Corp, Counsel, and Irving Bryan, Asst. Corp. Counsel, both of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "PENWELL v. DISTRICT OF COLUMBIA.\nNos. 28, 28(a).\nMunicipal Court of Appeals for the District of Columbia.\nJan. 13, 1943.\nA. Arvin Lynn of Washington, D. C. (Alfred M. Schwartz, of Washington, D. G, on the brief), for appellant.\nVernon E. West, Principal Asst. Corp. Counsel, of Washington, D. C. (Richmond B. Keech, Corp, Counsel, and Irving Bryan, Asst. Corp. Counsel, both of Washington, D. C., on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0891-01",
+  "first_page_order": 939,
+  "last_page_order": 942
+}

@@ -1,0 +1,427 @@
+{
+  "id": 8149415,
+  "name": "McGRADY v. MUNSEY TRUST CO.",
+  "name_abbreviation": "McGrady v. Munsey Trust Co.",
+  "decision_date": "1943-02-12",
+  "docket_number": "No. 38",
+  "first_page": "106",
+  "last_page": "107",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 A.2d 106"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "30 A.L. R. 700",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "pin_cites": [
+        {
+          "page": "703"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 N. M. 356",
+      "category": "reporters:state",
+      "reporter": "N.M.",
+      "case_ids": [
+        1554422
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nm/33/0356-01"
+      ]
+    },
+    {
+      "cite": "288 F. 192",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3610724
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/288/0192-01"
+      ]
+    },
+    {
+      "cite": "134 N.Y.S. 1062",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        5650651
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nys/134/1062-01"
+      ]
+    },
+    {
+      "cite": "76 Misc. 273",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        452443
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/76/0273-01"
+      ]
+    },
+    {
+      "cite": "106 Am.St.Rep. 319",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 N.W. 287",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 Iowa 518",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2140343
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/125/0518-01"
+      ]
+    },
+    {
+      "cite": "53 Am.Rep. 491",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 N.E. 299",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 P. 777",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 Cal. 610",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2323607
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/76/0610-01"
+      ]
+    },
+    {
+      "cite": "3 A.L.R. 891",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 S.C. 459",
+      "category": "reporters:state",
+      "reporter": "S.C.",
+      "case_ids": [
+        1954138
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/sc/105/0459-01"
+      ]
+    },
+    {
+      "cite": "240 S.W. 373",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "194 Ky. 641",
+      "category": "reporters:state",
+      "reporter": "Ky.",
+      "case_ids": [
+        4555571
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/194/0641-01"
+      ]
+    },
+    {
+      "cite": "39 Am.St.Rep. 82",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 L.R.A. 297",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 So. 570",
+      "category": "reporters:state_regional",
+      "reporter": "So.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Ala. 479",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        8493793
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/98/0479-01"
+      ]
+    },
+    {
+      "cite": "201 F. 671",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        58700
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/201/0671-01"
+      ]
+    },
+    {
+      "cite": "136 S.W. 217",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "143 Ky. 226",
+      "category": "reporters:state",
+      "reporter": "Ky.",
+      "case_ids": [
+        8587759
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/143/0226-01"
+      ]
+    },
+    {
+      "cite": "117 N.W. 22",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 Iowa 80",
+      "category": "reporters:state",
+      "reporter": "Iowa",
+      "case_ids": [
+        2159753
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/iowa/140/0080-01"
+      ]
+    },
+    {
+      "cite": "17 Am.St.Rep. 798",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 L.R.A. 353",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 A. 1021",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Pa. 220",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        810252
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/131/0220-01"
+      ]
+    },
+    {
+      "cite": "12 Pet. 151",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        5619786
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/37/0151-01"
+      ]
+    },
+    {
+      "cite": "37 A.L.R. 85",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "125 A. 146",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 Me. 20",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        615933
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/124/0020-01"
+      ]
+    },
+    {
+      "cite": "63 Am.St.Rep. 645",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 P. 558",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Mont. 555",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        4369819
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/20/0555-01"
+      ]
+    },
+    {
+      "cite": "73 P.2d 987",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        2765748,
+        2765660
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/colo/101/0372-01",
+        "/colo/101/0356-01"
+      ]
+    },
+    {
+      "cite": "101 Colo. 356",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "case_ids": [
+        2765660
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/colo/101/0356-01"
+      ]
+    },
+    {
+      "cite": "287 F. 870",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3606139
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/287/0870-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 414,
+    "char_count": 4438,
+    "ocr_confidence": 0.646,
+    "pagerank": {
+      "raw": 1.956591027542396e-07,
+      "percentile": 0.7374509093001175
+    },
+    "sha256": "5e641a1be3a43c3613b53712184225093776e8e93321287f58c8d526706aa630",
+    "simhash": "1:bb11b0d4f7d9b68e",
+    "word_count": 793
+  },
+  "last_updated": "2024-02-27T17:57:23.606146+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "McGRADY v. MUNSEY TRUST CO."
+    ],
+    "opinions": [
+      {
+        "text": "HOOD, Associate Judge.\nThis is an appeal from a judgment for possession of real estate rendered in favor of the landlord.\nThe sole error claimed is the trial court\u2019s denial of a motion to dismiss the complaint. The ground of the motion was that the summons issued was void because the name\nof the assistant clerk of court was placed on the summons by means of a rubber stamp. Appellant\u2019s contention is based on Title 11, Section 711 of the District of Columbia Code (1940 Ed.), which provides: \u201cIn all suits in said court process shall be signed by the said clerk or assistant clerk in the name of the court.\u201d\nThe undisputed evidence is that the chief deputy clerk personally placed a facsimile of her signature on the summons by means of a stamp. This practice was adopted many years ago and is a matter of great convenience since more than 4,000 landlord and tenant complaints are filed in the trial court each month.\nAppellant contends that the provisions of the statute are mandatory, that the signature of the clerk is jurisdictional and that without valid process the trial court had no jurisdiction to proceed. Assuming the correctness of each of those propositions the question remains whether the summons was \u201csigned\u201d by the deputy clerk.\nAppellant has cited a number of cases holding a summons void in the absence of the clerk\u2019s signature, but those cases are plainly inapplicable here. The summons in question has the signature of the clerk even though it be a rubber stamp signature. The statute does not provide the method by which the clerk shall sign the summons nor does it require, as do some statutes, that the summons be under the \u201chand\u201d of the clerk, nor that it be \u201csubscribed\u201d by the clerk, nor that the clerk\u2019s written signature appear thereon. All it requires is that the summons be signed by the clerk.\nTo sign means to affix a signature and a signature may be affixed in many ways. Historically, the ordinary signature was a cross-mark, and while today signing is usually accomplished by writing one\u2019s name the cross-mark has not entirely disappeared. Available today also are machines and stamps for affixing signatures. The method of affixing the signature would not seem important, if the intention is that it constitute the true signature of the maker.\nIt is generally held that one may \u201csign\u201d an instrument by having his name written in his presence and at his direction by another. If such be the law, then how much stronger is the case of one personally affixing his own name by means of a stamp. In the absence of statutory direction as to the method of signing, we perceive no substantial difference between affixing one\u2019s name with a stamp or with a pen, when the intention is that such name constitute one\u2019s authentic signature. We hold the summons in this case was signed by the chief deputy clerk within the meaning of the statute, and we think this conclusion is supported by the authorities.\nAffirmed.\nDwight v. Merritt, C.C.S.D.N.Y., 4 E. 614; Exchange Nat. Bank v. Joseph Reid Gas Engine Co., 5 Cir., 287 F. 870; Reuss v. W. T. Rawleigh Co., 101 Colo. 356, 73 P.2d 987; Sharman v. Huot, 20 Mont. 555, 52 P. 558, 63 Am.St.Rep. 645.\nMahoney v. Ayoob, 124 Me. 20, 125 A. 146, 37 A.L.R. 85.\nZacharie v. Eranklin, 12 Pet. 151, 9 L.Ed. 1035; Appeal of Knox, 131 Pa. 220, 18 A. 1021, 6 L.R.A. 353, 17 Am.St.Rep. 798.\nCummings v. Landes, 140 Iowa 80, 117 N.W. 22; Lamaster v. Wilkerson, 143 Ky. 226, 136 S.W. 217.\nMissouri Pac. Ry. Co. v. Harper Bros., 7 Cir., 201 F. 671; Lewis v. Watson, 98 Ala. 479, 13 So. 570, 22 L.R.A. 297, 39 Am.St.Rep. 82; W. J. Fell Co. v. Elswick, 194 Ky. 641, 240 S.W. 373; Sharpe v. Sharpe, 105 S.C. 459, 90 S.E. 34, 3 A.L.R. 891.\nLigare v. California South R. Co., 76 Cal. 610, 18 P. 777; Hamilton v. State, 103 In cl. 96, 2 N.E. 299, 53 Am.Rep. 491; Loughren v. Bonniwell et al., 125 Iowa 518, 101 N.W. 287, 106 Am.St.Rep. 319; Tenement House Department v. Weil, 76 Misc. 273, 134 N.Y.S. 1062; Hill v. United States, 7 Cir., 288 F. 192; Costilla Estates Develop. Co. v. Mascarenas, 33 N. M. 356, 267 P. 74; Annotation, 30 A.L. R. 700, 703.",
+        "type": "majority",
+        "author": "HOOD, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "James A. O\u2019Shea, John H. Burnett, and Alfred Goldstein, all of Washington, D. C., for appellant.",
+      "J. Kenneth Yeatman, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "McGRADY v. MUNSEY TRUST CO.\nNo. 38.\nMunicipal Court of Appeals for the District of Columbia.\nFeb. 12, 1943.\nJames A. O\u2019Shea, John H. Burnett, and Alfred Goldstein, all of Washington, D. C., for appellant.\nJ. Kenneth Yeatman, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0106-01",
+  "first_page_order": 154,
+  "last_page_order": 155
+}

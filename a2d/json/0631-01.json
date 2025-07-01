@@ -1,0 +1,276 @@
+{
+  "id": 8158924,
+  "name": "VINER et al. v. FRIEDMAN",
+  "name_abbreviation": "Viner v. Friedman",
+  "decision_date": "1943-08-03",
+  "docket_number": "Nos. 90, 91",
+  "first_page": "631",
+  "last_page": "633",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 A.2d 631"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "281 U.S. 90",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3917630
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/281/0090-01"
+      ]
+    },
+    {
+      "cite": "32 A.2d 258",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8150719
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/32/0258-01"
+      ]
+    },
+    {
+      "cite": "25 App.D.C. 155",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1329211
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/25/0155-01"
+      ]
+    },
+    {
+      "cite": "54 App.D.C. 115",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "295 F. 936",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3630789
+      ],
+      "pin_cites": [
+        {
+          "page": "938"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/295/0936-01"
+      ]
+    },
+    {
+      "cite": "33 A.L.R. 1467",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 App.D.C. 99",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1779566
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/46/0099-01"
+      ]
+    },
+    {
+      "cite": "43 App.D.C. 363",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        8820359
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/43/0363-01"
+      ]
+    },
+    {
+      "cite": "14 App.D.C. 556",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1315814
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/14/0556-01"
+      ]
+    },
+    {
+      "cite": "31 App.D.C. 100",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1356134
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/31/0100-01"
+      ]
+    },
+    {
+      "cite": "18 L.R.A., N.S., 77",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 App.D.C. 390",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1364240
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/36/0390-01"
+      ]
+    },
+    {
+      "cite": "43 App.D.C. 182",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        8819726
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/43/0182-01"
+      ]
+    },
+    {
+      "cite": "76 U.S.App.D.C. 154",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 F.2d 423",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1154461
+      ],
+      "pin_cites": [
+        {
+          "page": "428"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/130/0423-01"
+      ]
+    },
+    {
+      "cite": "143 A.L.R. 149",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 U.S.App.D.C. 133",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3558382
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "124 F.2d 825",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3558382,
+        1090182
+      ],
+      "pin_cites": [
+        {
+          "page": "827"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/124/0825-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 477,
+    "char_count": 7297,
+    "ocr_confidence": 0.697,
+    "pagerank": {
+      "raw": 1.9806398288726067e-07,
+      "percentile": 0.7405310116535752
+    },
+    "sha256": "dcf1f010ef0c64e0662b211b0a747008de26f9e1d90e932bac54c76ba7f909f6",
+    "simhash": "1:be6b423c7af691c5",
+    "word_count": 1243
+  },
+  "last_updated": "2024-02-27T20:18:50.282938+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "VINER et al. v. FRIEDMAN."
+    ],
+    "opinions": [
+      {
+        "text": "CAYTON, Associate Judge.\nAppellee, who was defendant below, operates a grocery store in the Southeast section of the City. For a number of days he had suffered losses by theft of merchandise left in front of his store before opening hours. Appellants, who were plaintiffs below, were schoolboys in their middle teens who operated delivery routes for a morning newspaper in the same section of the City but in different directions. The two boys were charged with the theft of two cartons of tomatoes from the front of defendant\u2019s store, were prosecuted in the Juvenile Court, tried by a jury and acquitted. Thereupon they brought these actions for malicious prosecution. The trial court directed verdicts against them and from the judgments entered on such verdicts, they appeal.\nAt the trial of this case there was evidence tending to show that appellants had nothing whatever to do with the theft and had never been guilty or charged with being guilty of any similar or other offense in their lifetime; that one Sanford was the manager of defendant\u2019s store; that he identified the boys as having actually stolen the tomatoes, though at one time he expressed some doubt about the identity of one of them; that one of the boys saw Sanford along his route in or near an automobile and, thinking him to be a tire thief, watched him for awhile but did nothing further about it; that the plaintiff Thompson saw the plaintiff Viner at the route station as they were starting out but did not see him again that morning; that Sanford complained of the alleged theft to the police; that in the afternoon of that day a police-officer called at the Viner home and accused Viner and Thompson of the theft; that the Viner boy promptly repudiated the charge, immediately went to the Thompson home and returned with the Thompson boy who likewise denied all connection with the theft; that at the officer\u2019s behest they appeared the following morning at the police precinct and confronted Sanford; that Sanford identified both boys and upon that identification they were booked on a charge of petty larceny; that on the following afternoon Sanford called at the Viner home and stated to Mrs. Viner that he personally would like to see the matter adjusted but that Mrs. Friedman would not permit an adjustment but was insisting upon prosecution ; that the information under which the boys were charged was signed by Sanford; that the officer acted entirely on what Sanford had told him; that Sanford went to the Juvenile Court on three different occasions; that on all those occasions defendant Friedman went with him; that both Sanford and Friedman testified at the trial in the Juvenile Court; that Friedman had never sought to have the charges in Juvenile Court dropped; that by appearing in court and testifying and keeping the prosecution alive Friedman had ratified the actions of his employee Sanford.\nSome parts of this evidence were corroborated or actually adduced by the defense; other parts the defense explained and still others it directly contradicted.\nThe motion for an instructed verdict was made upon the conclusion of all the evidence and was on the grounds that probable cause had been shown; that there was no proof of malice; that there was no evidence that defendant was connected with the arrest or prosecution; that defendant\u2019s, employee Sanford did not instigate or order, and was not in any way responsible for, the arrest; and that there was no evidence that Sanford had authority to prosecute the plaintiffs or to order their prosecution. The trial judge granted the motion and took the case from the jury.\nThe propriety of that ruling is before us for review. Express malice is not claimed and it is conceded that malice in law can only be inferred if want of probable cause be first established. Our decision therefore will determine whether there was sufficient evidence of want of probable cause to require submission to the jury. We think there was.\nThe test is not whether plaintiffs\u2019 case when weighed- against defendant\u2019s was strong or weak, for the question of preponderance is not involved in a motion for a peremptory instruction. The court must assume \u201cthat the evidence for the opposing party proves all that it reasonably may be found sufficient to establish, and that from such facts there should be drawn in favor of the latter all the inferences that fairly are deducible from them.\u201d Gunning v. Cooley, 281 U.S. 90, 50 S.Ct. 231, 233, 74 L. Ed. 720; Lohse v. Coffey, D.C.Mun.App., 32 A.2d 258.\nAs was stated in Staples v. Johnson, 25 App.D.C. 155, malice is exclusively a question for the jury; but probable cause is a mixed question of law and fact, becoming a question of law after the facts are ascertained and devolving upon the court the duty to instruct the jury upon the law. \u201cIf there was any proof of malice and lack of probable cause in the prosecution, it was.clearly the duty of the trial justice to submit the case to the jury.\u201d\nNor is direct proof of those elements necessary. \u201cIt was open to the jury * * * to say, from a consideration of all the evidence, whether or not the charge had been made out.\u201d Moses v. Lockwood, 54 App.D.C. 115, 295 F. 936, 938, 33 A.L.R. 1467.\nTo paraphrase what was said in Mt. Vernon Co. v. McKenney, 46 App.D.C. 99, the trial court could not assume as a matter of law that plaintiffs\u2019 conduct was such that there was probable cause for an arrest and prosecution for larceny; since plaintiffs\u2019 alleged connection with the larceny was a strongly disputed question in the case, the question of probable cause should properly have been left to the determination of the jury. And the court said: \u201cWhether or not the facts existed which furnish probable cause was for the jury to determine\u201d. To the same effect is Carroll v. Parry, 43 App.D.C. 363, Ann.Cas.1916E, 971, which followed Spitzer v. Friedlander, 14 App.D.C. 556; Slater v. Taylor, 31 App.D.C. 100, 18 L.R.A., N.S., 77; United Cigar Stores v. Young, 36 App.D.C. 390, Staples v. Johnson, 25 App.D.C. 155, and Mark v. Rich, 43 App.D.C. 182.\nHere, as in the very recent case of Melvin v. Pence, 76 U.S.App.D.C. 154, 130 F.2d 423, 428, 143 A.L.R. 149, \u201cthere was a square conflict in the facts concerning the existence of malice and the absence of probable cause. These questions therefore were for the jury * *\nThe same rule, of course, applies to the issue of Sanford\u2019s authority, the extent to which he exercised it, what part he took in the instigation of the charge and its subsequent prosecution, to what extent Friedman participated in the prosecution, and the other issues of fact presented in the evidence.\nConflict in the evidence there was; but that conflict was essentially factual and not legal. In such situations courts must leave jury questions to the jury; otherwise \u201ctrial by jury becomes trial by court\u201d.\nReversed and remanded, with instructions to award a new trial.\nChristie v. Callahan, 75 U.S.App.D.C. 133, 124 F.2d 825, 827.",
+        "type": "majority",
+        "author": "CAYTON, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Vincent L. Toomey, of Washington, D. C., for appellants.",
+      "David Hornstein, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "VINER et al. v. FRIEDMAN.\nNos. 90, 91.\nMunicipal Court of Appeals for the District of Columbia.\nAug. 3, 1943.\nRehearing Denied Sept. 9, 1943.\nVincent L. Toomey, of Washington, D. C., for appellants.\nDavid Hornstein, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0631-01",
+  "first_page_order": 679,
+  "last_page_order": 681
+}

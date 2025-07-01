@@ -1,0 +1,64 @@
+{
+  "id": 8149114,
+  "name": "MARTINEZ v. PENN et al.",
+  "name_abbreviation": "Martinez v. Penn",
+  "decision_date": "1943-10-01",
+  "docket_number": "No. 107",
+  "first_page": "26",
+  "last_page": "27",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 A.2d 26"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 238,
+    "char_count": 3464,
+    "ocr_confidence": 0.681,
+    "sha256": "2f4dd4b2fc4282129675302ddf27b15a767bb3c01c2642cbbf05660649928d10",
+    "simhash": "1:a1ebcb491256e96e",
+    "word_count": 586
+  },
+  "last_updated": "2023-07-14T22:37:11.184065+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "MARTINEZ v. PENN et al."
+    ],
+    "opinions": [
+      {
+        "text": "HOOD, Associate Judge.\nThe action below was brought by real estate brokers for a commission. From a judgment in their favor this appeal was taken.\nThe undisputed facts are that on August 20, 1942, the defendant listed his property for sale with the plaintiffs and gave them exclusive authority for> a period of forty-five days to sell the property on specified terms; that on September 11, the plaintiffs procured a written offer by a purchaser ready, willing and able to buy on the terms specified; and that defendant refused to accept the offer.\nThe sole defense was an alleged revocation of plaintiffs\u2019 agency prior to the submission of the offer. This was the single issue of fact.\nAccording to defendant he revoked the agency on August 24, in a telephone conversation with plaintiff Carr; that again on August 27, in a conversation with Carr, he reaffirmed such prior revocation; and that on September 4, by letter to Bowles, a salesman in plaintiffs\u2019 office, he again reiterated the revocation.\nCarr denied the oral revocations of August 24 and 27, and Bowles testified that the letter dated September 4 was not received until on or about September 18, at approximately the same time that Carr received another letter from defendant dated September IS. The letter of September IS made no reference to any previous revocation but on its face indicated that it was the first notice to plaintiffs of defendant\u2019s intention to revoke the agency. Defendant admitted he delayed mailing this letter for a few days.\nIt was contended by plaintiffs that a broker\u2019s exclusive agency for a definite time is not subject to revocation; and defendant contended such an agency is revocable at any time prior to submission of an authorized offer. The trial court, which heard the case without a jury, found it unnecessary to decide this question because it found as a fact that defendant did not revoke the agency prior to submission of the offer of purchase. Its finding in this particular was : \u201cThe evidence is, of course, conflicting, but on the whole on the point of revocation I must find as a matter of fact, as above indicated, that defendant did not revoke the listing contract prior to the submission to him of the purchasing contract of September 11, 1942.\u201d\nAppellant contends this finding is contrary to the evidence and not supported by substantial evidence; and that the court was in error in not finding as a fact \u201cfrom the fair preponderance of competent evidence\u201d that the contract of agency was revoked prior to September 11.\nWhether the oral revocations occurred was a question of fact to be determined from conflicting evidence. The time of mailing and receipt of the letter of September 4 was disputed. Inferences could be drawn from the writing of the letter of September 15, from its contents and the delay in mailing it. All these questions were for the trial court whose function was to judge the credibility of the witnesses and pass upon the weight of the evidence.\nThere was substantial evidence to support the trial court\u2019s finding and our study of the record reveals no reason for disturbing it.\nAffirmed.",
+        "type": "majority",
+        "author": "HOOD, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Stanley Worth, of Washington, D. C., for appellant.",
+      "Perry W. Howard, of Washington, D. C. (Cobb, Howard & Hayes, of Washington, D. C., on the brief), for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "MARTINEZ v. PENN et al.\nNo. 107.\nMunicipal Court of Appeals for the District of Columbia.\nOct. 1, 1943.\nStanley Worth, of Washington, D. C., for appellant.\nPerry W. Howard, of Washington, D. C. (Cobb, Howard & Hayes, of Washington, D. C., on the brief), for appellees.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0026-01",
+  "first_page_order": 72,
+  "last_page_order": 73
+}

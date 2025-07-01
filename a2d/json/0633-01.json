@@ -1,0 +1,366 @@
+{
+  "id": 8159085,
+  "name": "WILLIAMS v. AMANN",
+  "name_abbreviation": "Williams v. Amann",
+  "decision_date": "1943-08-25",
+  "docket_number": "No. 98",
+  "first_page": "633",
+  "last_page": "636",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 A.2d 633"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "55 S.E. 71",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 App.D.C. 276",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1786952
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/41/0276-01"
+      ]
+    },
+    {
+      "cite": "19 F.2d 186",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1698104
+      ],
+      "pin_cites": [
+        {
+          "page": "193"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/19/0186-01"
+      ]
+    },
+    {
+      "cite": "63 App.D.C. 113",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 F.2d 989",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        273933
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/69/0989-01"
+      ]
+    },
+    {
+      "cite": "112 Ohio St. 691",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        978507
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/112/0691-01"
+      ]
+    },
+    {
+      "cite": "148 N.E. 90",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "pin_cites": [
+        {
+          "page": "92"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 N.C. 151",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8651767
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/142/0151-01"
+      ]
+    },
+    {
+      "cite": "270 U.S. 438",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141183
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/270/0438-01"
+      ]
+    },
+    {
+      "cite": "36 Ga.App. 541",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        1432948
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/36/0541-01"
+      ]
+    },
+    {
+      "cite": "137 S.E. 102",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Mo.App. 351",
+      "category": "reporters:state",
+      "reporter": "Mo. App.",
+      "case_ids": [
+        1608735
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo-app/152/0351-01"
+      ]
+    },
+    {
+      "cite": "133 S.W. 93",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 A.L.R. 866",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 Stat. 134",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Stat. 596",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 A.L.R. 441",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Ga.App. 469",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        1281888,
+        1281565
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/13/0469-01",
+        "/ga-app/13/0469-02"
+      ]
+    },
+    {
+      "cite": "79 S.E. 366",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "68 Conn. 39",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        774669
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/68/0039-01"
+      ]
+    },
+    {
+      "cite": "35 A. 809",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 L.R.A. 360",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Ga. 342",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        589465
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/12/0342-01"
+      ]
+    },
+    {
+      "cite": "95 N.Y. 181",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2193620
+      ],
+      "year": 1938,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/95/0181-01"
+      ]
+    },
+    {
+      "cite": "47 Am.Rep. 20",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "year": 1938,
+      "opinion_index": 0
+    },
+    {
+      "cite": "136 N.Y.S. 1056",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        7661463
+      ],
+      "year": 1938,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nys/136/1056-01"
+      ]
+    },
+    {
+      "cite": "189 N.C. 502",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8654508
+      ],
+      "year": 1938,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/189/0502-01"
+      ]
+    },
+    {
+      "cite": "127 S.E. 553",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "year": 1938,
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 A.L.R. 428",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "year": 1938,
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 Pa.Super. 433",
+      "category": "reporters:state",
+      "reporter": "Pa. Super.",
+      "case_ids": [
+        703103
+      ],
+      "year": 1938,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa-super/106/0433-01"
+      ]
+    },
+    {
+      "cite": "162 A. 477",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "year": 1938,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 689,
+    "char_count": 10266,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 1.3128607154688917e-07,
+      "percentile": 0.6248424135924527
+    },
+    "sha256": "6cbf90b81e3142f99b97778f28330974ebde1fd8040115da8e8793509340c673",
+    "simhash": "1:8bf472cc92689922",
+    "word_count": 1763
+  },
+  "last_updated": "2024-02-27T20:18:50.282938+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "WILLIAMS v. AMANN."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nDuring the scholastic year of 1938-1939, while appellant was a student in the junior class at a prominent university, he was called to the dean\u2019s office and apprised of the contents of a letter received from appel-lee. This letter, dated December 30, 1938, charged appellant with being the father of her expected child,, recited his promise- of marriage, his recent letters evidencing a change of mind, and called upon the dean for aid in bringing appellant \u201cto a realization of what he has done\u201d. \u2022\nAppellant testified that on this occasion and during subsequent interviews with the dean he was informed that he would not be permitted to continue his course at the university unless he made an adjustment of the matter satisfactory to appellant.\nThe expected child was born April 30, 1939. On June 19, 1939, the parties hereto, both then represented by legal counsel, entered into a written agreement whereby appellee waived all claims growing out of. the alleged parentage of the infant, including any claims for her own support and that of the infant, and appellant agreed to pay appellee the sum of $3 per week for the support of the child until it was 14 years of age.\nAppellant thereafter returned to the university, completed his course, and received his degree. During that period and after his return to Washington he continued his payments under the contract until October, 1941. He then refused to make further payments and this suit was brought to recover accrued payments then overdue.\nAppellant testified that his tuition at the university was furnished by his sister; that when he signed the contract he required but one. more school year to graduate, and felt oblig\u00e1ted to complete his course; that he signed the contract in suit only because he would not otherwise have been permitted to continue at the university and obtain his degree.\nThe case was heard by the trial court without a jury. Judgment was entered for appellee and this appeal taken.\nAppellant claims (1) that the execution of the contract was obtained by duress, (2) that it was without consideration, (3) that it was void as against public policy, and (4) that appellee\u2019s relief, if any, was exclusively in the Juvenile Court of the District of Columbia and not by action on the contract in the Municipal Court.\nI. Whatever duress may have existed at the time of the execution of the contract was that which operated only upon the mind of the appellant and did not involve physical compulsion. Therefore, the contract was voidable only; not void. When the matters claimed to constitute duress ceased to exist and could no longer exert their constraining influence upon his mind, it was incumbent upon appellant to repudiate his contract or to let it stand as a valid subsisting agreement.\nWhile this rule was recognized in O\u2019Toole v. Lamson, 41 App.D.C. 276, it was held that the circumstances of duress continued when the act occurred which was relied upon as a confirmation.\nThe many cases recognizing this rule of ratification present only differences in opinion as to what acts are sufficient to justify its application. Even a single act of payment after the circumstances of duress are removed may constitute ratification.\nThe case of Guardian Trust Co. v. Meyer, 3 Cir., 19 F.2d 186, 193, may be regarded as stating the rule in a light most favorable to the appellant when it said: \u25a0\u201cThe conduct of a party who may not avail himself of this defense must consist in such a long delay, silence, or acquiescence that ratification and acceptance must be presumed, or in that he must have received benefits as a result of the contract, and therefore be estopped to reject the burdens. In other words, there must have been some change of position brought about by operation of time, or by the acceptance of advantages, the retention of which would operate to the disadvantage of the other party. Some element of this nature must intervene before a contract which lacks on one part free will and consent can be enforced.\u201d\nUnder our statute (Act of June 18, 1912, Code 1929, Title 18, Sections 281-287) a proceeding to determine the parentage of an illegitimate child and to fix' the responsibility upon the father for its support must be instituted by the mother within two years after its birth. Thereafter the Juvenile Court of the District of Columbia, which has exclusive jurisdiction of such actions, may not entertain' her complaint.\nAppellant continued his payments until shortly after the appellee\u2019s sole remedy had expired. Whether this was intentional or a mere coincidence, the fact is that thereby he has caused the mother to forfeit her legal remedies. No acts of ratification could be more potent than those which accomplish a result so disastrous. It is unthinkable that appellant should be permitted to maintain his defense of duress in this case after he has thus attained immunity from legal action in the Juvenile Court.\nII. It is also claimed by appellant that the contract was without consideration. Where, as here, the mother has agreed not to assert a statutory right of action for maintenance of the infant, the courts have uniformly held this a sufficient consideration. The mother is a proper plaintiff in a suit on the contract, and it has been held that she alone is entitled to bring the action.\nIII. Appellant further argues that the contract is void under the rule of public policy which condemns contracts grounded on promises to withhold the bringing or prosecution of criminal offenses.\nSince the law confers upon the mother of an illegitimate child the right to enforce maintenance by the father, there is no reason in public policy which would require the avoidance of his contract to do what the law may require him to do. The rule of the common law exempting the father of an illegitimate child from responsibility for its maintenance has been here, as in many of the states, supplanted by a statute founded upon a more reasonable conception of social justice. Juridic and social grounds upon which such contracts are sustained have been fully considered and applied by the various state courts in jurisdictions where statutes have thus altered the common law. Because the question is largely one of public policy and because of the absence of decisions on the point in this jurisdiction we feel it proper to state the basis of our opinion.\nIn Peak v. Calhoun, 63 App.D.C. 113, 69 F.2d 989, a bastardy proceeding under the Act of 1912, supra, was described as of \u201cquasi criminal\u201d character. Of a similar proceeding under the Ohio statute, the court in Dimmitt v. State ex rel. Milburn, 112 Ohio St. 691, 148 N.E. 90, 92, said: \u201cThe action is therefore criminal in form, but the relief sought and ultimate end to be attained are clearly of a civil nature.\u201d See also Van Epps v. Redfield (cited in Note 6).\nWhile we might base our decision on the non-criminal character of the proceeding the mother promised to forego, we are in entire accord with and approve what was said in Burgen v. Straughan (cited in Note 6): \u201cNor can we perceive how it can be unlawful or immoral, or inconsistent with the policy of the law, for the mother of a bastard to agree with the father that, if he will co-operate in the maintenance of their child, she will not proceed under the bastardy act, to degrade and compel him, and thereby also expose herself to unnecessary humiliation. Such a contract is not incompatible with any civil or social duty. It should not be deemed injurious to the community or county. It is not the public duty of the mother of an illegitimate child to assert her statutory right. Her voluntary forbearance is no breach of any moral or civil obligation. Her child may become a burthen to her county; but this might happen, and would, perhaps, be more likely to occur, if such contracts as that we are now considering should be declared illegal and void. Many, in her condition, might prefer all the wretchedness of destitution and poverty, to a voluntary promulgation, in a county court, of all the circumstances necessary to coerce contributions under the bastardy act. * * In that way she may have effected an end, the accomplishment of which she never would have attempted in any other mode, and may thus have attained all the benefits secured to her by the statute.\u201d\nIV. The contention that our statute gives the Juvenile Court exclusive jurisdiction over cases involving parentage and the support of illegitimate children, and that the Municipal Court had no jurisdiction of the subject matter of the present suit, is without merit. We agree with the answer to this same contention tersely given in Burton v. Belvin, 142 N.C. 151, 55 S.E. 71, 72: \u201cThis is not a bastardy proceeding, but it is an action for damages from a breach of a promise made upon good and valid consideration\u201d.\nAffirmed.\nBarnette v. Wells Fargo Nevada Nat. Bank, 270 U.S. 438, 46 S.Ct. 326, 70 L.Ed. 669.\nAugusta Motor Sales Co. v. King, 36 Ga.App. 541, 137 S.E. 102; Brown v. Worthington, 152 Mo.App. 351, 133 S.W. 93; Annotation 35 A.L.R. 866.\nThe Act of Congress of June 18, 1012, 37 Stat. 134, appearing as Sections 281\u2014 287 of Title IS, Code of 1929, is in force in the District of Columbia although omitted from the 1940 Code which is a compilation and not a statutory code. Section 11\u2014907(c) of the 1940 Code does not correctly reproduce Section 6(c) of the Juvenile Court Act of June 1, 1938, 52 Stat. 596, requiring reference to the original statute for existing law.\nAnnotation, 39 A.L.R. 441.\nFranklin v. Ford, 13 Ga.App. 469, 79 S.E. 366.\nVan Epps v. Redfield, 68 Conn. 39, 35 A. 809, 34 L.R.A. 360; Hargroves v. Freeman, 12 Ga. 342; Burgen v. Straughan, 7 J.J.Marsh, Ky., 583, 585; Todd v. Weber, 95 N.Y. 181, 47 Am.Rep. 20; Flint v. Pierce, Sup., 136 N.Y.S. 1056; Thayer v. Thayer, 189 N.C. 502, 127 S.E. 553, 39 A.L.R. 428; Commonwealth v. Patterson, 106 Pa.Super. 433, 162 A. 477; 7 Am.Jur. 677; Williston on Contracts (Rev.Ed., 1938) Sec. 1718.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Albert Lyman, of Washington, D. C., for appellant.",
+      "David Hornstein, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "WILLIAMS v. AMANN.\nNo. 98.\nMunicipal Court of Appeals for the District of Columbia.\nAug. 25, 1943.\nAlbert Lyman, of Washington, D. C., for appellant.\nDavid Hornstein, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0633-01",
+  "first_page_order": 681,
+  "last_page_order": 684
+}

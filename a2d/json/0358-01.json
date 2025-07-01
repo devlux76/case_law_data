@@ -1,0 +1,100 @@
+{
+  "id": 8152878,
+  "name": "SHAY et ux. v. RANDALL H. HAGNER & CO.",
+  "name_abbreviation": "Shay v. Randall H. Hagner & Co.",
+  "decision_date": "1943-11-04",
+  "docket_number": "No. 119",
+  "first_page": "358",
+  "last_page": "359",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 A.2d 358"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "295 F. 973",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3633118
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/295/0973-01"
+      ]
+    },
+    {
+      "cite": "54 App.D.C. 152",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 A.2d 864",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8156126
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0864-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 277,
+    "char_count": 3592,
+    "ocr_confidence": 0.724,
+    "pagerank": {
+      "raw": 1.3764726080248455e-07,
+      "percentile": 0.6396372915949926
+    },
+    "sha256": "b7335dba964dcf2852e60677e834b5dffbdc3de8af2e6b61f4acd06abdeb8bff",
+    "simhash": "1:c4321067e05129de",
+    "word_count": 612
+  },
+  "last_updated": "2024-02-27T23:44:59.089938+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "SHAY et ux. v. RANDALL H. HAGNER & CO."
+    ],
+    "opinions": [
+      {
+        "text": "CAYTON, Associate Judge.\nDefendants appeal from a judgment entered against them for possession of an apartment in a downtown apartment building.\nTheir lease prohibited keeping a dog in the apartment. It also provided that \u201cno waiver of any breach of any covenant herein shall be construed to be a waiver of the covenant itself or of any subsequent breach thereof or of this agreement.\u201d\nWhen defendants first took possession they had no dog in the apartment. Four or five months later they brought one in. The resident manager told Mrs. Shay that because this was the first dog in a court apartment (which theirs was) the dog would have to be removed if there were any complaints. Some ten months later, in February, 1943, acting on complaints made by other tenants, landlord wrote to defendants and to five other tenants who had dogs to remove them from the building. Subsequently all complied except these defendants. They agreed to remove the dog by March 1; but despite the promise and despite two additional demands, they had not done so up to April 15 when suit was filed in the trial court. The showing just recited was made entirely by plaintiff and was uncontradicted; defendants offered no evidence.\nThey have brought the case here for review, contending that the fact the dog had been kept in the apartment over a period of several months with the knowledge of the landlord, constituted a waiver of- the covenant against keeping such a pet.\nIn Mee v. Marlyn Apartment Co., D.C.Mun.App., 31 A.2d 864, we held that in the face of such a covenant the landlord might grant or withhold permission to keep a dog; and that such permission was subject to withdrawal at any time. Here the permission was granted conditionally and defendants were informed that it would be withdrawn if other tenants complained. When those complaints arose and plaintiff acted upon them, it was defendants\u2019 duty to remove the dog from the apartment. Their continued refusal to do so constituted a breach of the lease, entitling plaintiff to possession.\nWe see no force in the contention that the landlord has waived its rights under the covenant. So long as the landlord permitted defendants to keep the dog, there was no breach at all. Their refusal to remove the dog after the permission was withdrawn created the breach. This was not a single disconnected act, but in its very nature became a continuing breach. Even if there had been a prior waiver it would not operate to forgive subsequent breaches, for as we have pointed out above, the lease expressly prohibited such a construction. Merritt v. Kay, 54 App.D.C. 152, 295 F. 973; Mee v. Marlyn Apartment Co., supra.\nWe are far from insensitive to the plight of those who are compelled to part with their dogs; but we cannot overlook that those who share buildings with dog-owners have rights, too. They are entitled not to be disturbed in their health, quiet, and peace of mind. These defendants therefore cannot complain when they are called upon to perform the express provisions of their lease. It is one of the disadvantages of living in a modern-day apartment, which a tenant must accept, along with the advantages, and which the courts cannot alter.\nAffirmed.",
+        "type": "majority",
+        "author": "CAYTON, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "James J. Laughlin, of Washington, D. C., for appellants.",
+      "E. B. Miller, of Washington, D. C., (King & Nordlinger, of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "SHAY et ux. v. RANDALL H. HAGNER & CO.\nNo. 119.\nMunicipal Court of Appeals for the District of Columbia.\nNov. 4, 1943.\nRehearing Denied Nov. 15, 1943.\nJames J. Laughlin, of Washington, D. C., for appellants.\nE. B. Miller, of Washington, D. C., (King & Nordlinger, of Washington, D. C., on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0358-01",
+  "first_page_order": 404,
+  "last_page_order": 405
+}

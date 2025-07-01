@@ -1,0 +1,153 @@
+{
+  "id": 8156562,
+  "name": "FABIANICH v. HART et al.",
+  "name_abbreviation": "Fabianich v. Hart",
+  "decision_date": "1943-02-02",
+  "docket_number": "No. 33",
+  "first_page": "881",
+  "last_page": "883",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 881"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "106 U.S. 183",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3497587
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/106/0183-01"
+      ]
+    },
+    {
+      "cite": "56 Stat. 190",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Stat. 788",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 U.S.C.A. \u00a7 836",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Stat. 85",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 F.2d 399",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        986407
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/99/0399-01"
+      ]
+    },
+    {
+      "cite": "69 App.D.C. 166",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "304 U.S. 375",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10628
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "967"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/304/0375-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 482,
+    "char_count": 9324,
+    "ocr_confidence": 0.67,
+    "pagerank": {
+      "raw": 3.430838947755393e-07,
+      "percentile": 0.8791365828664143
+    },
+    "sha256": "2279ac21cdd615b434cd8cab759d75447ede109e8b9d0001d4ed865c154defcc",
+    "simhash": "1:b3a6ad65bed5cdef",
+    "word_count": 1531
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "FABIANICH v. HART et al."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nThis appeal is taken from the decision of the Municipal Court for the District of Columbia sitting as a three judge court in the hearing of an application for the review of an order of the Administrator of Rent Control for the District of Columbia, a proceeding authorized by the District of Columbia Emergency Rent Act of December 2, 1941. That court held that the application for review was premature, dismissed the appeal, and remanded the case to the Administrator for further proceedings.\nThe petition for review was filed by appellant, who is the owner of an apartment building located in the District of Columbia. The respondents are two of the tenants. The building contains six substantially identical housing units.\nIn February, 1942 appellant initiated proceedings before the Administrator under Sections 4(a) and 4(b) of said Act against certain of the tenants in said building, including the respondents. These petitions were consolidated for hearing and referred to an examiner as provided by Section 8 of the Rent Act. The petitions were heard by the examiner. He recommended orders fixing maximum rent ceilings, which were served upon the parties as provided by Paragraph (c) of Section 8. We do not pass upon the question argued on this appeal whether the examiner made findings of fact as that is immaterial to our decision.\nSection 8 provides that any party may within five days after service of the recommended order request its review by the Administrator. If no such request is made within five days the order automatically becomes the order of the Administrator with the reservation that the Administrator may on his own motion review the proceedings at any time within ten days after such service.\nIt is admitted that these respondents did not request a review of the examiner\u2019s order within five days from the service thereof, and that the Administrator did not review the proceedings within ten days as authorized by this section. However, certain other tenants against whom the petitions under Section 4 had been filed, which petitions were heard by the examiner with those filed against the respondents, did within five days request a review by the Administrator of the recommended order as it affected their cases.\nThereupon the Administrator on June 24, 1942 issued an order for the rehearing of all cases, including those affecting the respondents. This is the order sought to be reviewed.\nIt is urged by counsel for the appellees and counsel for the Administrator appearing as amicus curiae that the Municipal Court for the District of Columbia lacked jurisdiction to review this order. In that we concur.\nSection 9(a) of the Rent Control Act provides that: \u201cWithin ten days after issuance of an order of the Administrator under section 4 [section 45-1604], any party may file a petition to review such\u2019 action in the municipal court of the District of Columbia * *\nThis section must be read in conjunction with Section 9(c) which provides: \u201cThe municipal court of the District of Columbia is hereby granted exclusive jurisdiction to review any order of the Administrator made pursuant to section 4 of this Act [section 45-1604].\u201d\nSection 4 contains five sub-sections lettered (a) through (e), which authorize the Administrator to adjust maximum rent ceilings and minimum service facilities. Each of these sub-sections authorizes a petition by the landlord, or by the tenant, or in sub-section (a) by either, upon specifically stated grounds. This part of each sub-section terminates with a semicolon. Each sub-section then continues with the statement \u2014 \u201cwhereupon the Administrator may by order adjust\u201d etc. The only orders specifically authorized to be entered by the Administrator in Section 4 are these orders definitely determining and fixing, pursuant to the proceedings therein prescribed, new rent ceilings or adjusted minimum service requirements. Such orders are in their nature final, and under the requirements of Section 8 must be made after hearing testimony by an examiner.\nThe only other orders specifically provided for in the act are those made under Section 3, and procedural orders under Section 7(b) giving authority \u201cto issue such orders as may be deemed necessary or proper to carry out the purposes and provisions of this Act [chapter] or to prevent the circumvention or evasion thereof.\u201d\nThe initial question for our consideration is whether the authorization to the Municipal Court to review orders of the Administrator applies to any order made in the course of proceedings under Section 4, or is limited to the final orders therein particularly specified.\nIf Section 9(a) giving the right to file a petition for review \u201cof an order of the Administrator under [Section 4]\u201d could be considered as applicable to any order issued by the Administrator in the course of a proceeding under Section 4, it is controlled and limited by the specific jurisdictional grant to the Municipal Court contained in Section 9(c). This limits the review to an order of the Administrator \u201cmade pursuant to Section 4 of this Act [section 45-1604]\u201d. The expressions \u201cpursuant to\u201d or \u201cin pursuance of\u201d have a restrictive interpretation. They have been regarded as equivalent to \u201cin conformity with\u201d and imply that what is done is in accordance with an instruction or direction.\nW.e interpret the language of Section 9(c) as referable to the orders specifically provided for in Section 4.\nThe reviewability of procedural orders of administrative bodies has frequently been the subject of discussion in recent cases where Congress has authorized various courts to assume revisory power. The subject was discussed at length in Federal Power Commission v. Metropolitan Edison Company, 304 U.S. 375, 58 S.Ct. 963, 967, 82 L.Ed. 1408. Referring to the provision for the review of \u201cany order\u201d of the Interstate Commerce Commission, the court said: \u201cThere are many orders of the Commission which are not judicially reviewable under (this) provision.\u201d Again it said: \u201cWith respect to other regulatory bodies, it has been held that mere preliminary or procedural orders are not within the statutes providing for review by the Circuit Court of Appeals.\u201d\nIn Mallory Coal Co. v. National Bituminous Coal Commission, 69 App.D.C. 166, 99 F.2d 399, the court construed the following language of Section 6(b) of the Act of April 26, 1937, 50 Stat. 85, 15 U.S.C.A. \u00a7 836(b): \u201cAny person aggrieved by an order issued' by the Commission in a proceeding to which said person is a party may obtain a review of such order * * *.\u201d\nIn that case the court declined to entertain the appeal from an order of the Commission after a thorough consideration of the cases holding that the right of appeal is limited to such orders as are final or definitive in character. It cited with approval the statement of the Supreme Court in Federal Power Commission v. Metropolitan Edison Company, supra, that\n\u201cSuch a construction, affording opportunity for constant delays in the course of the administrative proceeding for the phr-pose of reviewing mere procedural requirements or interlocutory directions, would do violence to the manifest purpose of the provision. * * *\n\u201cThe provision for review thus relates to orders of a definitive character dealing with the merits of a proceeding before the Commission and resulting from a hearing upon evidence and supported by findings appropriate to the case.\u201d\nWe regard the order directing a rehearing in the instant case as not such an order pursuant to Section 4 of the Act as the Municipal Court is authorized to review.\nThe decision of the Municipal Court is therefore affirmed.\nAffirmed.\nAct of December 2, 1941, Public Law 327, Chapter 553, 77th Congress, 1st Session, 55 Stat. 788, D.C.Code 1940, \u00a7 45 \u2014 1601 et seq.\nThis order was as follows:\n\u201cAfter reasonable notice to the parties herein, and upon consideration of the entire record, objections and argument of counsel, and it appearing to the satisfaction of the Administrator that a rehearing is essential to a complete and final determination of the issues herein involved, it is, this 24th day of June, 1942, under authority conferred by Seetion 7(b) and Section 9(a) of the District of Columbia Emergency Rent Act,\n\u201cOrdered, that the above entitled cases be set down for a full rehearing on the merits before an Examiner on the 8th day of July, 1942.\n\u201cAnd it is further ordered, that the Recommended Order entered herein on May 18, 1942, shall remain in full force and effect until further order of the Administrator.\u201d\nBy Act of April 1, 1942, 56 Stat. 190, establishing the Municipal Court for the District of Columbia it succeeded to the jurisdiction of the Municipal Court of the District of Columbia.\nIndependent School-District v. Stone, 106 U.S. 183, 1 S.Ct. 84, 87, 27 L.Ed. 90.\nNew Century Dictionary.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Raymond M. Hudson, of Washington, D.C., for appellant.",
+      "William H. Ramsey, of Washington, D. C., for appellees Hart and Marsh.",
+      "Ernest F. Henry, Gen. Counsel, and James A. Crooks, Asst. Gen. Counsel, both of Washington, D. C., for Administrator of Rent Control, amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "FABIANICH v. HART et al.\nNo. 33.\nMunicipal Court of Appeals for the District of Columbia.\nFeb. 2, 1943.\nRehearing Denied Feb. 12, 1943.\nRaymond M. Hudson, of Washington, D.C., for appellant.\nWilliam H. Ramsey, of Washington, D. C., for appellees Hart and Marsh.\nErnest F. Henry, Gen. Counsel, and James A. Crooks, Asst. Gen. Counsel, both of Washington, D. C., for Administrator of Rent Control, amicus curiae.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0881-01",
+  "first_page_order": 929,
+  "last_page_order": 931
+}

@@ -1,0 +1,125 @@
+{
+  "id": 8156004,
+  "name": "CROWLEY et al. v. WOOD",
+  "name_abbreviation": "Crowley v. Wood",
+  "decision_date": "1942-12-28",
+  "docket_number": "No. 37",
+  "first_page": "861",
+  "last_page": "862",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 861"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "132 F.2d 569",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1265979
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/132/0569-01"
+      ]
+    },
+    {
+      "cite": "317 U. S. 144",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        304046
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/317/0144-01"
+      ]
+    },
+    {
+      "cite": "203 U.S. 141",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8291109
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/203/0141-01"
+      ]
+    },
+    {
+      "cite": "70 App.D.C. 262",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 App.D.C. 541",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1347836
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/20/0541-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 224,
+    "char_count": 2382,
+    "ocr_confidence": 0.698,
+    "pagerank": {
+      "raw": 1.2610691573304184e-07,
+      "percentile": 0.6124665955428289
+    },
+    "sha256": "8c5d68f3c6241fb3241c05063598a4612a4e9308ca7e2858ad20540d454393d9",
+    "simhash": "1:836f42615938bbf9",
+    "word_count": 409
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "CROWLEY et al. v. WOOD."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nOn September 8, 1942 plaintiff below obtained a judgment for possession of real estate. No appeal was taken from that judgment, but on October 12, 1942, defendant below filed a motion to set aside the judgment and grant a new trial. On November 5, 1942 an order was entered denying that motion, and on November 12, 1942 defendant filed notice of appeal from that order.\nAp-pellee (plaintiff below) filed a motion to dismiss the appeal. We heard oral argument on this motion.\nWe have before us the complete record on appeal and are in a position to decide the fundamental question presented by ap-pellee\u2019s motion. The record discloses that the motion to set aside the judgment and grant a new trial is predicated upon alleged errors occurring at the trial of the case, does not involve subsequently occurring or later discovered facts, and makes no charge that the judgment was entered as a result of fraud, accident or mistake. In other words, all matters sought to be raised by the motion could have been reviewed by timely appeal from the original judgment, had one been noted.\nUnder such conditions, an appeal will not lie to review the action of the trial court on such a motion as was filed below. When the right of appeal has been lost, the unsuccessful party cannot reinvest himself with that right by filing a motion of this nature.\nThe prohibition of Rule 27(p) against enlarging the period of time for taking an appeal is absolute.\nThe order denying the motion to vacate judgment and grant a new trial, under the circumstances of this case, was not appeal-able. The appeal is dismissed.\nTubman v. Baltimore & O. R. Co., 20 App.D.C. 541, approved in Consolidated Radio Artists, Inc., v. Washington Section, National Council of Jewish Juniors, 70 App.D.C. 262, 105 E.2d 785; Conboy v. First National Bank, 203 U.S. 141, 27 S.Ct. 50, 51 L.Ed. 128; Pfister v. Northern Illinois Finance Corporation, 317 U. S. 144, 63 S.Ct. 133, 87 L.Ed. \u2014, decided November 16, 1942.\nHill v. Hawes, App.D.C., 132 F.2d 569, decided October 12, 1942.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "Jacob N. Halper, of Washington, D. G, for appellant.",
+      "Michael M. Doyle, of Washington, D. G (S. Albert Mickler, of Washington, D. G, on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "CROWLEY et al. v. WOOD.\nNo. 37.\nMunicipal Court of Appeals for District of Columbia.\nDec. 28, 1942.\nJacob N. Halper, of Washington, D. G, for appellant.\nMichael M. Doyle, of Washington, D. G (S. Albert Mickler, of Washington, D. G, on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0861-01",
+  "first_page_order": 909,
+  "last_page_order": 910
+}

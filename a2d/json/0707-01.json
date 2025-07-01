@@ -1,0 +1,163 @@
+{
+  "id": 8157314,
+  "name": "HALL v. HENRY J. ROBB, Inc.",
+  "name_abbreviation": "Hall v. Henry J. Robb, Inc.",
+  "decision_date": "1943-06-30",
+  "docket_number": "No. 82",
+  "first_page": "707",
+  "last_page": "709",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 A.2d 707"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "296 F. 1011",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3633703
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/296/1011-01"
+      ]
+    },
+    {
+      "cite": "54 App.D.C. 264",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 A.2d 867",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8156239
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0867-01"
+      ]
+    },
+    {
+      "cite": "295 F. 973",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3633118
+      ],
+      "pin_cites": [
+        {
+          "page": "977"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/295/0973-01"
+      ]
+    },
+    {
+      "cite": "54 App.D.C. 152",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 App.D.C. 416",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1775732
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/48/0416-01"
+      ]
+    },
+    {
+      "cite": "25 App.D.C. 72",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1329261
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/25/0072-01"
+      ]
+    },
+    {
+      "cite": "32 A.2d 247",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8150551
+      ],
+      "pin_cites": [
+        {
+          "page": "248"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/32/0247-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 389,
+    "char_count": 6074,
+    "ocr_confidence": 0.69,
+    "pagerank": {
+      "raw": 3.6193215042886705e-07,
+      "percentile": 0.8885967869169207
+    },
+    "sha256": "42c35c11892921588109d5503c132055d91b86e225a179eb7f9298b75d9e0728",
+    "simhash": "1:ac33c85a8b01b9c6",
+    "word_count": 1053
+  },
+  "last_updated": "2024-02-27T17:57:23.606146+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "HALL v. HENRY J. ROBB, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "CAYTON, Associate Judge.\nDefendant appeals from a judgment rendered in favor of plaintiff in a landlord and tenant action based upon a charge of subletting.\nThe case comes here on an agreed statement of facts. The important recitals are these: Defendant had been occupying the property for about five years under an original yearly lease and renewals thereof. The last renewal expired in March, 1941. Thereafter defendant continued in possession without a lease. The lease contained a prohibition against subletting in whole or in part and also provided that no waiver of one breach shall be construed a waiver of the covenants of the lease.\nIn February, 1942 tenant filed with the Administrator of Rent Control a petition for adjustment of rent or service, charging that the service supplied by the landlord was less than that required under the minimum service standards for housing accommodations.\nSoon thereafter lessor filed with the Administrator his petition claiming an increase of the monthly rental from $45 to $50, and claiming that the lessee had sublet \u201csome or most\u201d of the premises.\nThe Administrator ordered both cases consolidated and on June 2, 1942 ordered an increase of the monthly rental to $47.50 and required certain repairs to be made. Thereafter, as a result of a disagreement between the parties as to the scope of the Administrator\u2019s order, tenant filed a petition requesting an interpretation thereof. The interpretation was made by the Administrator in an order entered December 17, 1942 in which he set forth in detail the repairs required to be made. At the hearing on said later petition it developed that lessee had removed from the property and was subletting it in its entirety. Lessor\u2019s testimony was that at said hearing in April, 1942 it had knowledge that defendant was subletting part of the premises ; but that not until December 17, 1942 (when it was disclosed at the second hearing before the Administrator) did he learn that lessee had removed from the premises and accomplished a complete subletting.\nOn February 23, 1943 plaintiff filed this action for possession, under Section 5 of the District of Columbia Emergency Rent Act, basing it upon the charge of subletting. The complaint also charged that the notice to quit had been specifically waived in writing and of this there is no denial in the record. The first rental payment after knowledge of the subletting came due on January 1, 1943, and was not paid until February 9. The next payment became due on February 1. It was paid and received on February 26, three days after the filing of the suit and ten days before the return day of the action. Counsel have stipulated that March rent has not been tendered and that if tendered it would have been refused.\nWe must answer two questions: (1) did the subletting constitute a breach of the lease and if so (2) was the breach waived by the acceptance of rent.\n(1) Whatever may be said about the subletting of part of the premises in the period before December, 1942, we think it is clear that tenant\u2019s action in removing himself from the property and subletting it in its entirety was contrary to the terms of the lease. This was as much a violation after the lease had expired andTessee was holding over, as it was during the life of the lease. As we said in Hampton v. Mott Motors, D.C.Mun.App., 32 A.2d 247, 248, \u201cthe holding over is subject to all the covenants and terms of the original lease applicable to the new situation.\u201d\nMaking full and sympathetic allowance for the acute housing shortage which has made partial subletting a wide-spread practice, we cannot approve the action of a tenant who in violation of the terms of his tenancy removes himself from his landlord\u2019s property and places it completely in charge of persons who are not in privity with the lessor, and whom the lessor has had no opportunity to accept or reject. A tenant may not usurp the power of his landlord, substitute another person for himself, yield possession to him and create such a new and unauthorized tenancy. The Rent Act protects actual tenants and not mere middlemen.\n(2) We next examine the question of waiver. If there was a waiver it was accomplished by the payment and acceptance of January or February rent, or both. But the January rent was not paid until February 9. That was merely an acceptance of rent already in arrears and did not constitute a waiver. Byrne v. Morrison, 25 App.D.C. 72; Edwards v. Totten, 48 App.D.C. 416.\nThat was the status of the matter . when the suit was filed on February 23, 1943 and that date is largely controlling here. \u201cWhether there was a constructive waiver of the covenant of subletting must be determined as of the date when the action was commenced.\u201d Merritt v. Kay, 54 App.D.C. 152, 295 F. 973, 977.\nBut did the acceptance of February rent on February 26, while.the suit was pending, constitute a waiver? We think not. Defendant already owed for all of February except two days; and ten days remained before the case could be heard. The landlord might have joined in the complaint his claim for rent, Code 1940, \u00a7 16\u2014 512, or might have claimed it in a separate action. In paying the rent, defendant was only doing that which he'was required to do and the landlord in accepting it was waiving no rights, but was simply accepting that which was his due.\nWe do not say that if there had been an acceptance of rent for the following month of March it would not have been a waiver. But that is not the situation here. We therefore conclude that there was a breach of the tenancy, and that such breach was not waived by the landlord.\nAffirmed.\nCode 1940, \u00a7 45 \u2014 1001.\nGould v. Butler, D.C.Mun.App., 31 A.2d 867, and cases there cited.\nShipley v. American Sec. & Trust Co., 54 App.D.C. 264, 296 F. 1011.",
+        "type": "majority",
+        "author": "CAYTON, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "J. Benj. Simmons, of Washington, D. C., for appellant.",
+      "Thos. X. Dunn, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "HALL v. HENRY J. ROBB, Inc.\nNo. 82.\nMunicipal Court of Appeals for the District of Columbia.\nJune 30, 1943.\nJ. Benj. Simmons, of Washington, D. C., for appellant.\nThos. X. Dunn, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0707-01",
+  "first_page_order": 755,
+  "last_page_order": 757
+}

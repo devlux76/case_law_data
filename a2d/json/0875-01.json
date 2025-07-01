@@ -1,0 +1,136 @@
+{
+  "id": 8156414,
+  "name": "LADY et al. v. REALTY ASSOCIATES, Inc.",
+  "name_abbreviation": "Lady v. Realty Associates, Inc.",
+  "decision_date": "1943-03-12",
+  "docket_number": "No. 44",
+  "first_page": "875",
+  "last_page": "877",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 875"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "30 App.D.C. 553",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1822942
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/30/0553-01"
+      ]
+    },
+    {
+      "cite": "46 App.D.C. 206",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1779596
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/46/0206-01"
+      ]
+    },
+    {
+      "cite": "42 App.D.C. 287",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1785434
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/42/0287-01"
+      ]
+    },
+    {
+      "cite": "42 App.D.C. 263",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1785442
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/42/0263-01"
+      ]
+    },
+    {
+      "cite": "31 App.D.C. 1",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1356040
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/31/0001-01"
+      ]
+    },
+    {
+      "cite": "3 App.D.C. 180",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 390,
+    "char_count": 6203,
+    "ocr_confidence": 0.72,
+    "pagerank": {
+      "raw": 2.795495150479681e-07,
+      "percentile": 0.8363522352075352
+    },
+    "sha256": "894b6b3e4ca458270307a6e360f35dde087a8b13d4e7a7841a8f9dd9a3477478",
+    "simhash": "1:29fc40fd1d22ad23",
+    "word_count": 1023
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD., Associate Judges."
+    ],
+    "parties": [
+      "LADY et al. v. REALTY ASSOCIATES, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nSuit was brought by Realty Associates, Inc., a licensed real estate broker, claiming a commission for the sale of a house. The case was tried by the court without a jury, resulting in a judgment for the plaintiff for $462.50, a full commission at the usual rate.\nDefendants have appealed. The only error assigned is the finding of the trial court that plaintiff was the procuring cause of the sale.\nOn January 26, 1942, defendants appointed plaintiff exclusive agent for the sale of their house, No. 3355 Denver Street, N. E. This appointment was limited to March 3, 1942, and contained the fol'owing provision: \u201cThe purchaser is to arrange his own financing.\u201d\nPlaintiff advertised the property for sale and on March 2 submitted to defendants a written offer of one Obergh. This contained a condition that plaintiff should obtain an additional loan on property Obergh then owned and occupied and should also procure an increased loan on defendants\u2019 property. It also provided: \u201cDeposit to be refunded if financing is not obtained by Realty Associates, Inc.\u201d\nWhen this proposed contract was submitted to defendants on March 2, it was accepted subj ect to the following: \u201cAcceptance by purchaser and all financing conditions to be decided by March 6, 1942.\u201d\nOn the same day the purchaser endorsed his acceptance on the contract.\nPlaintiff immediately had the purchaser sign applications for the required loans, and on March 6th, commitments for each loan were made by building associations of unquestioned financial ability.\nOn Friday, March 6th, before it was known to- plaintiff or defendants that the financing had then been committed, in an interview between an agent of the plaintiff and the purchaser, the latter demanded the return of his check for the $200 deposit, because, he said, the financing had not been obtained, and he had decided to call the deal off and remain in his own house. Plaintiff\u2019s agent then handed the check to the purchaser.\nPlaintiff immediately notified defendants of this and asked permission to advertise the property over the week-end, which was granted, and the advertisement inserted.\nOn the following morning, Saturday, March 7th, plaintiff requested permission to have its salesman on the premises, but was informed by defendant John E. Lady that the property had been sold. A representative of the plaintiff went to the premises to obtain its sign. In response to his inquiry as to the purchaser he was informed by said defendant that the sale had been made to a person from New York brought to him by a neighbor. This was not the fact. The purchaser was actually Obergh, who had, on the day following the withdrawal of his deposit, entered into a new contract with defendants at a price $450 less than that named in their former contract, on which plaintiff\u2019s commission would have been $485.\nObergh, called by defendants, testified that he had not become interested in the purchase of the house until after he- had seen plaintiff\u2019s advertisement and had been shown through the house by plaintiff\u2019s agent. He admitted that while the sale was pending he had told plaintiff\u2019s representative he did not know defendants\u2019 new address, which was not true. Correspondence between defendant John E. Lady and Obergh during the period required to close the sale reveals an understanding between them that plaintiff was not to be informed of the identity of the purchaser or of the Richmond address to which defendants had moved.\nThe trial court determined that the return of the deposit by Obergh was procured by him with intent to defeat the plaintiff\u2019s right to a commission and to secure the advantage of a reduction in price which might be accomplished by delaying the transaction beyond March 6th.\nThe only issue before us is whether the trial court was right in deciding that plaintiff\u2019s services were the procuring cause of the sale.\nThe United States Court of Appeals for this District has repeatedly held that where a purchaser is interested by a broker in a particular property and thereafter becomes the purchaser by completing negotiations directly with the owner, the broker must be regarded as the procuring cause of the sale. Here, the purchaser testified that he became interested in the purchase of the property by seeing the plaintiff\u2019s advertisement and being shown through the property by plaintiff\u2019s agent. As there was no independent intervening cause the case comes very clearly within the recognized rule.\nNor does the evidence show an abandonment by the agent so as to defeat recovery within the meaning of Bryan v. Abert, 3 App.D.C. 180 or Sechrist v. Atkinson, 31 App.D.C. 1. The return of the deposit to Obergh on March 6th, certainly did not constitute an abandonment under the circumstances recited. There can be no valid abandonment by an act induced entirely by misrepresentation and fraud. The trial court found, and we approve its finding, that the return of the deposit was secured by misrepresentation and with the intent to avoid payment of the commission. Although the defendants may have been innocent of participation therein on March 6th, they undoubtedly realized the true situation when less than twenty-four hours later Obergh came to them to purchase the property. They were certainly put upon notice and the circumstances of concealment and misrepresentation to plaintiff of the identity of the purchaser would indicate that there was actual notice, or at least such constructive notice as the law imposes upon one who is confronted with a situation which would put any reasonable person on inquiry.\nWe, therefore, hold that the judgment of the trial court was correct.\nAffirmed.\nSimms v. Booth, 42 App.D.C. 263; DuPerow v. Groomes, 42 App.D.C. 287; Shoemaker v. Digges, 46 App.D.C. 206; Clark v. Morris, 30 App.D.C. 553.\nSimms v. Booth, supra.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Joseph A. Nacrelli, of Washington, D. C., for appellants.",
+      "H. Max Ammerman, of Washington, D. C. (Louis Ottenberg, of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "LADY et al. v. REALTY ASSOCIATES, Inc.\nNo. 44.\nMunicipal Court of Appeals for the District of Columbia.\nMarch 12, 1943.\nJoseph A. Nacrelli, of Washington, D. C., for appellants.\nH. Max Ammerman, of Washington, D. C. (Louis Ottenberg, of Washington, D. C., on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD., Associate Judges."
+  },
+  "file_name": "0875-01",
+  "first_page_order": 923,
+  "last_page_order": 925
+}

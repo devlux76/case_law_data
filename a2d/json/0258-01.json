@@ -1,0 +1,212 @@
+{
+  "id": 8150719,
+  "name": "LOHSE et al. v. COFFEY",
+  "name_abbreviation": "Lohse v. Coffey",
+  "decision_date": "1943-05-21",
+  "docket_number": "No. 60",
+  "first_page": "258",
+  "last_page": "261",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 A.2d 258"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "160 P. 14",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Wash. 48",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        630215
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/93/0048-01"
+      ]
+    },
+    {
+      "cite": "9 A.2d 572",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "177 Md. 393",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2268016
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/177/0393-01"
+      ]
+    },
+    {
+      "cite": "3 N.E.2d 415",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 Ohio St. 501",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        1013312
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/131/0501-01"
+      ]
+    },
+    {
+      "cite": "130 A.L.R. 616",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "40 F.2d 803",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1792857
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/40/0803-01"
+      ]
+    },
+    {
+      "cite": "59 App.D.C. 291",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 A.L.R. 1023",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "82 F.2d 864",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        935056
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/82/0864-01"
+      ]
+    },
+    {
+      "cite": "65 App.D.C, 258",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "124 F.2d 825",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3558382,
+        1090182
+      ],
+      "pin_cites": [
+        {
+          "page": "827"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/124/0825-01"
+      ]
+    },
+    {
+      "cite": "75 U.S.App.D.C. 133",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "case_ids": [
+        3558382
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "281 U.S. 90",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3917630
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/281/0090-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 738,
+    "char_count": 11984,
+    "ocr_confidence": 0.67,
+    "pagerank": {
+      "raw": 2.3679807033757322e-07,
+      "percentile": 0.7950575496872597
+    },
+    "sha256": "b445142371ebd710ee102bf962203b433158bdce043ef202d27d833ef7adc7c5",
+    "simhash": "1:568e2b9b9d56a99e",
+    "word_count": 2039
+  },
+  "last_updated": "2024-02-27T17:57:23.606146+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, CAYTON, Associate Judge, and SCOTT, Judge of the Municipal Court for the District of Columbia, sitting by designation."
+    ],
+    "parties": [
+      "LOHSE et al. v. COFFEY."
+    ],
+    "opinions": [
+      {
+        "text": "CAYTON, Associate Judge.\nThis is an appeal from a judgment entered on the verdict of a jury in an action for personal injuries resulting from alleged food poisoning.\nWe are called upon to review only one ruling, namely, the refusal of the trial judge to direct a verdict for defendant upon the whole evidence. The trial was reported stenographically and we have examined the transcript with care, not of course to weigh the evidence factually as a jury would do, or to assay the testimony for preponderance, but to determine its legal sufficiency and whether it was sub-' stantial enough to be submitted to a jury.-\nIn deciding this question we are applying the well established rule that on a motion for a peremptory instruction \u201cthe' court assumes that the evidence for the opposing party proves all that it reasonably may be found sufficient to establish, and that from such facts there should be drawn in favor of the latter all the inferences that fairly are deducible from them.\u201d Gunning v. Cooley, 281 U.S. 90, SO S.Ct. 231, 233, 74 L.Ed. 720.\nLikewise we have kept carefully in mind the recent decision of the United States Court of Appeals for this District in Christie v. Callahan, 75 U.S.App.D.C. 133, 124 F.2d 825, 827. There Mr. Justice Rutledge (now a member of the Supreme Court) describing the manner in which evidence is to be tested for purposes of this kind, said:\n\u201cThe danger to be guarded against is a too obvious and gross miscarriage of justice, a departure too far from established lines of liability. Facts are primarily within the jury\u2019s function. Hence it must be given wide latitude, or trial by jury becomes trial by court. But the jury is not absolute in the realm of fact. Like judges, jurors have weaknesses of emotion and judgment. Unlike judges, they seldom have a background of decision experience against which to check them. Our tradition supplies this through judicial controls. Exclusion of evidence is one. When one side\u2019s case is thin, determining its \u2018legal sufficiency\u2019 is another. This, really means weighing it factually, not for conviction, but for -doubt as to the outcome. The verdict sustained therefore represents the jurors\u2019 conviction that it is right, and the judge\u2019s that it may be right.\u201d\nThis, in essence, was the case: Plaintiff, an official of the Federal Bureau of Investigation, entered the \u201cbuffet-luncheon\u201d of defendants on a warm day in May, 1942 at about 12:30 p. m. and ordered and consumed a frankfurter-on-roll sandwich, a slice of Boston cream pie, and a glass of iced tea. About 4 p. m. that day he became violently ill. He was given emergency treatment by two nurses in his office building and by his physician. He was removed in an ambulance to a hospital where he remained for four days and was ill at home for a week more.\nAt about the same time a Mr. James L. Monarch, an attorney in the Department of Justice, but previously unacquainted with plaintiff, was in the restaurant of defendants, and had the same food (but drank milk instead of iced tea). He too became ill at about the same time that plaintiff was stricken, suffered substantially the same symptoms and remained ill for one week.\nDr. James E. Nolan who treated plaintiff testified that he diagnosed the case as one of acute gastro-intestinal disturbance and that although he did not then commit himself as to the cause, he felt that possibly the food disturbance should be con-' sidered. Responding to a hypothetical question he testified that if the Boston cream pie was contaminated or unwholesome it was a competent producing cause of plaintiff\u2019s illness. He further testified that the cream would make a good culture medium for bacteria and that warm temperature would naturally increase the growth of organisms present.\nOther witnesses, fellow employees of plaintiff, testified concerning his physical manifestations during the onset of the illness.\nDefendants\u2019 manager, Mr. Arthur Davis, testified that on the day in question he received seventy-five or more pounds of frankfurters from a well-known manufacturer and immediately placed them in a refrigerator which was kept at a temperature of 38-42 degrees; that early that day he purchased from a local pie company one Boston cream pie; that it was cut into seven slices and not placed under refrigeration but on a pie shelf back of the counter; that the restaurant itself was air conditioned to a temperature of 70-75 degrees ; that he noticed nothing wrong with the frankfurters on that day and that there was nothing wrong with the appearance, odor or taste of the Boston cream pie; that he personally ate a piece of the pie with no ill effects and sold the remaining four slices to other customers and had received no complaint from any of them.\nDr. Lester Neuman testified in behalf of defendants that unless careful laboratory studies are made in cases of food poisoning it is not definitely possible to establish the cause; that it is a fallacy to blame the last food consumed and that any food taken within 36 to 48 hours of the time of the illness can be the causative factor; that in any case of food poisoning there is a period of incubation which can be anywhere from two to forty-eight hours. On being acquainted with the symptoms exhibited by plaintiff and the witness Monarch he could not give an opinion as to what particular food they ate in the preceding two days caused the trouble.\nThe standard of a restaurant\u2019s liability has been recently \u2014 and quite clearly \u2014 fixed by the United States Court of Appeals for this District in Cushing v. Rodman, 65 App.D.C, 258, 82 F.2d 864, 104 A.L.R. 1023. There in an exhaustive opinion by Mr. Justice Stephens, the court held that plaintiffs in cases of this type are not required to establish negligence, but that liability arises out of a warranty, implied by law, that foodstuffs sold by restaurant keepers are fit for human consumption and contain no foreign or deleterious substance. Thus this plaintiff was relieved of any obligation to establish want of care in the selection, purchase, preservation or ultimate vending of the food involved. , He was only required to prove the purchase of the food, its unwholesomeness and resulting injury.\nPlaintiff proved the purchase and consumption of the food and that illness followed. He also proved that another person who consumed the same foods at the same time (though with a different beverage) also became ill. He did not prove by direct testimony that the food was contaminated. He did, however, adduce testimony that if there was unwholesomeness in the food it was a competent producing cause of the injury.\nAppellants contend that this was not sufficient to take the case to the jury and that the resulting verdict was necessarily predicated upon the inference that unwholesome food caused the injury and that this inference was in turn based upon the other inference that the food was unwholesome. If appellants\u2019 view is correct, cases of this type can only be made out by meeting a stricter requirement than is demanded even in negligence cases. Again we look to Christie v. Callahan, cited above:\n\u201cA burden so heavy is not required either by the general law of negligence or by the Sweeney case. Generally speaking, direct and positive testimony to specific acts of negligence is not required to establish it. Circumstantial evidence is sufficient, either alone or in combination with dir'ect evidence. Circumstantial evidence may contradict and overcome direct and positive testimony. The limitation on its use is that the inferences drawn must be reasonable. But there is no requirement that the circumstances, to justify the inferences sottght, negative every other positive or possible conclusion. The law is not so exacting that it requires proof of negligence or causation by testimony so clear that it excludes every other speculative theory.\u201d (Emphasis supplied.)\nThis situation is like that in Gunning v. Cooley, supra. There plaintiff\u2019s claim was that the defendant-physician had put drops of acid in her ears. Although there was a complete absence of direct proof that this had been done, and express contradiction by defendant, the Supreme Court said: \u201cBut plaintiff was not required specifically to show what defendant did put in her ear or that the treatment destroyed either of her eardrums or made her deaf. If the evidence was sufficient to justify a finding that defendant negligently put a harmful fluid in her ears causing her pain and injury, the motion was properly denied.\u201d\nThe two cases just cited were based on negligence. In each the plaintiff was required to prove affirmatively an act of omission or commission causing injury. Here, where the claim rests upon implied warranty, plaintiff needed to prove (as we have pointed out above) only that he suffered an injury as a result of a breach of such warranty; in other words his case was easier to prove. For the purpose of this discussion there can be no question that he proved the injury. But did he prove the first element in his case \u2014 that the food was tainted? The fact that Monarch, who ate the same solids also became ill was evidence of such taint. His physician\u2019s testimony that if the food was tainted it \u201cwas a competent producing cause\u201d of the trouble, was also clearly acceptable proof. The two taken together supply a firm footing for the verdict. Nor is this basing inference upon inference, for the only element not proven factually (or by opinion evidence) was that the food was tainted. This the jury was entitled to infer from the other evidence.\nWe do not say that plaintiff made out a perfect, unassailable case, or one which was proven to a scientific demonstration. Nor was he required to do so in order to get to the jury.\nOnly the most litigious plaintiff would have had the presence of mind, in the throes of intermittent attacks of vomiting and diarrhea to arrange for laboratory tests and chemical analyses of his vomitus and excreta to be brought into court to prove his case. A man can hardly be expected to prepare a lawsuit while writhing on an ambulance stretcher or a hospital bed.\nFinally, we cannot test the correctness of the ruling below by merely determining whether the case was a convincing one or otherwise, nor by weighing the two factual theories one against the other and attempting to say which was the stronger or supported by a higher quality of testimony. \u201cIt is in just such cases that courts are required to keep hands off the jury\u2019s business. We must do so here.\u201d The judgment should be affirmed.\nAffirmed.\nDescribed as two layers of sponge cake with a layer of a sort of cream custard in between. \u25a0\nPicard v. Smith, 59 App.D.C. 291, 40 F.2d 803. A number of cases to the same effect are set out in an annotation in 130 A.L.R. 616.\nGreat Atlantic & Pacific Tea Co. v. Hughes, 131 Ohio St. 501, 3 N.E.2d 415.\nThere were two medical opinions presented for the consideration of the jury: Plaintiff\u2019s expert said the pie could have caused the trouble; defendants\u2019 expert said any food eaten within a 36-48 hour period may have been responsible. The difference between these opinions was not really great, and both are consistent with liability. Even if this were not so and the medical opinions differed, such difference would be one of the questions to be submitted to the jury. Armour & Co. v. Leasure, 177 Md. 393, 9 A.2d 572, Flessher v. Carstens Packing Co., 93 Wash. 48, 160 P. 14.\nChristie v. Callahan, supra.",
+        "type": "majority",
+        "author": "CAYTON, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Edwin A. Swingle, of Washington, D. C. (Ernest A. Swingle and Allan C. Swin-gle, both of Washington, D. C., on the brief), for appellants.",
+      "Neil Burkinshaw, of Washington, D. C. (Daniel B. Maher and Dennis Collins, both of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "LOHSE et al. v. COFFEY.\nNo. 60.\nMunicipal Court of Appeals for the District of Columbia.\nMay 21, 1943.\nEdwin A. Swingle, of Washington, D. C. (Ernest A. Swingle and Allan C. Swin-gle, both of Washington, D. C., on the brief), for appellants.\nNeil Burkinshaw, of Washington, D. C. (Daniel B. Maher and Dennis Collins, both of Washington, D. C., on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, CAYTON, Associate Judge, and SCOTT, Judge of the Municipal Court for the District of Columbia, sitting by designation."
+  },
+  "file_name": "0258-01",
+  "first_page_order": 306,
+  "last_page_order": 309
+}

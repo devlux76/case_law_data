@@ -1,0 +1,199 @@
+{
+  "id": 8152725,
+  "name": "KLEIN v. FIELDS et ux.",
+  "name_abbreviation": "Klein v. Fields",
+  "decision_date": "1943-06-08",
+  "docket_number": "No. 75",
+  "first_page": "398",
+  "last_page": "399",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 A.2d 398"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "44 App.D.C. 39",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1783560
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/44/0039-01"
+      ]
+    },
+    {
+      "cite": "289 U.S. 620",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3916427
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/289/0620-01"
+      ]
+    },
+    {
+      "cite": "266 U.S. 236",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6140313
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/266/0236-01"
+      ]
+    },
+    {
+      "cite": "14 N.W. 682",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Mich. 20",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1393701
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/50/0020-01"
+      ]
+    },
+    {
+      "cite": "316 U.S. 149",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        368284
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/316/0149-01"
+      ]
+    },
+    {
+      "cite": "94 U.S. 351",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5646801
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/94/0351-01"
+      ]
+    },
+    {
+      "cite": "25 App.D.C. 72",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1329261
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/25/0072-01"
+      ]
+    },
+    {
+      "cite": "31 A.2d 867",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8156239
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0867-01"
+      ]
+    },
+    {
+      "cite": "31 A.2d 866",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8156188
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0866-01"
+      ]
+    },
+    {
+      "cite": "31 A.2d 690",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8153042
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0690-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 323,
+    "char_count": 3841,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 1.3581388422409387e-07,
+      "percentile": 0.6349389481780598
+    },
+    "sha256": "e10d0180266ea08067ba5f95dab06f9a7b9005c4a6477d31594f27829f1840b8",
+    "simhash": "1:15ce1fc7bb21268b",
+    "word_count": 662
+  },
+  "last_updated": "2024-02-27T17:57:23.606146+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "KLEIN v. FIELDS et ux."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nThis appeal is from a judgment for possession of residential property in an action brought by the appellees as owners under Section 5(b) (2) of the District of Columbia Emergency Rent Act. Appellees claimed, and the court found, that they sought the possession of the property in good faith for their immediate use and occupancy as a dwelling.\nAppellee, Roland Fields, testified that he and his wife were living in a furnished room in a rooming house. They recently purchased the premises involved, which they desired to occupy as a -dwelling for themselves, their daughter and two grandchildren. After they moved into the house they would rent any unneeded rooms to others.\nThe house is described as a six room residence having three rooms each on the first and second floors. Appellant subrents these rooms and three additional rooms in the basement; he does not personally occupy any part of the premises.\nAt the trial of the case appellant moved to dismiss and offered in evidence the record in a prior case between the same parties filed November 20, 1942, decided December 3, 1942, in which there had been a finding and judgment in his favor. The transcript of record shows that when this was introduced in evidence the attorney for appellees stated to the court that this finding was based upon the fact that the thirty day notice to quit required by law to be served upon the appellant to terminate his tenancy had been invalidated by the acceptance of rent by appellees\u2019 rental agent for a period extending beyond the expiration date of the notice. This was not denied.\nThe motion to dismiss was properly overruled. The original action between these parties arose upon the service of the notice to quit required by our statute to terminate a tenancy by sufferance. Suit based on that notice being ineffectual, appellant retained possession and appellees served a second notice. The present suit was brought after the expiration date of this later notice; the gravamen of the action was the failure to surrender possession within the time designated in this second notice. This presented a new cause of action and the former judgment was a bar only to the retrial of those issues actually determined in the prior suit. It was, therefore, incumbent upon the appellant to supplement his offer of the judgment record, which did not disclose the evidence* or the basis of the findings, to show by evidence aliunde that a material issue of the present suit had theretofore been determined. This he did not do.\nThe right of an owner of property to obtain possession of it for his own occupancy under the District of Columbia Emergency Rent Act has been considered by this court in Shaffer v. Bowes, 31 A.2d 690; Colwell v. Stonebraker, 31 A.2d 866, and Gould v. Butler, 31 A.2d 867.\nThe instant finding was supported by competent testimony. The fact that appellees desire their married daughter and her two children to live with them, and that if they find rooms available after they take possession they will rent these rooms to others, does not impugn their good faith.\nAffirmed.\nCode 1940, \u00a7 45 \u2014 1605.\nCode 1940, \u00a7 45-904.\nByrne v. Morrison, 25 App.D.C. 72.\nCromwell v. Sac County, 94 U.S. 351, 24 L.Ed. 195; Federal Trade Commission v. Raladam Co., 316 U.S. 149, 62 S. Ct. 966, 86 L.Ed. 1336; Hart v. Lindley, 50 Mich. 20, 14 N.W. 682.\nUnited States v. Moser, 266 U.S. 236, 45 S.Ct. 66, 69 L.Ed. 262; Tait v. Western Maryland R. Co., 289 U.S. 620, 53 S.Ct. 706, 77 L.Ed. 1405.\nCarmody v. Simpson-Sullivan Co., 44 App.D.C. 39.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Edward A. Aaronson, of Washington, D. C., for appellant.",
+      "John Paul Jones, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "KLEIN v. FIELDS et ux.\nNo. 75.\nMunicipal Court of Appeals for the District of Columbia.\nJune 8, 1943.\nEdward A. Aaronson, of Washington, D. C., for appellant.\nJohn Paul Jones, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0398-01",
+  "first_page_order": 446,
+  "last_page_order": 447
+}

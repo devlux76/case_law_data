@@ -1,0 +1,105 @@
+{
+  "id": 8152653,
+  "name": "RAAEN v. SOUTHERN HOTEL SUPPLY CO., Inc.",
+  "name_abbreviation": "Raaen v. Southern Hotel Supply Co.",
+  "decision_date": "1942-11-30",
+  "docket_number": "No. 10",
+  "first_page": "659",
+  "last_page": "660",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 659"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "22 F.2d 718",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1709575
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/22/0718-01"
+      ]
+    },
+    {
+      "cite": "57 App.D.C. 290",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 F.2d 991",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1824816
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/50/0991-01"
+      ]
+    },
+    {
+      "cite": "60 App.D.C. 226",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 357,
+    "char_count": 5325,
+    "ocr_confidence": 0.698,
+    "pagerank": {
+      "raw": 2.0758606896502696e-07,
+      "percentile": 0.7583862997417996
+    },
+    "sha256": "49929b9c5b992639b5e5144a84784bcd767d4b322a9ed59d901b779b63b881d8",
+    "simhash": "1:cd896fe83b506131",
+    "word_count": 912
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "RAAEN v. SOUTHERN HOTEL SUPPLY CO., Inc."
+    ],
+    "opinions": [
+      {
+        "text": "CAYTON, Associate Judge.\nThis was a suit for damages resulting from an automobile collision. From a finding for defendant, plaintiff appeals.\nPlaintiff was traveling west on Washington Drive, a two-lane, one-way street. She was in the right-hand lane. She was confronted by a stop sign at the intersection of 12th Street. She stopped at the stop sign and a bus drew up on her left, stopped momentarily, and proceeded into 12th Street. She, likewise, proceeded into the intersection, almost simultaneously with the bus. There was testimony that when plaintiff was at the stop sign the defendant\u2019s truck (along with other traffic) was at the center of the next southerly intersection, heading north, but the record does not disclose how far away that was. The truck was traveling about in the center of the lanes for northbound traffic. Plaintiff claims the truck was traveling about 30 miles per hour, while defendant\u2019s testimony was that it was 20 to 25 miles per hour. Sensing the danger, the bus driver stopped when the front of the bus was about six feet east of the center lane of 12th Street. When the truck was about fifteen feet away from the stopped bus, it swung to the left and crossed about one foot over on the wrong side of the street. Plaintiff, in the meantime, had not stopped but proceeded to pass the bus on the right, and so was in the path of the oncoming truck which struck her car at the left front fender and on the left side. Plaintiff claimed to have looked both ways before entering the intersection and that everything was clear. Her testimony does not indicate that she saw the defendant\u2019s truck at any time before the actual collision.\nUpon this showing the trial judge ruled that there was contributory negligence on the part of the plaintiff, and ordered a finding for defendant. Appellant claims this was error and relies upon Bland v. Hershey, 1931, 60 App.D.C. 226, 50 F.2d 991. In that case the plaintiff was the only witness, and there was a finding for the defendant, based upon a construction of the right of way regulation which was then in force. The finding was reversed. A different regulation governs in this case, namely, Article 6, Section 28b, which reads: \u201cAt any point at which an official \u2018Stop\u2019 sign has been erected all vehicles shall come to a complete stop and shall yield to other vehicles within the intersection or approaching so closely thereto as to constitute an immediate hazard, but said driver having so yielded may proceed and other vehicles approaching the intersection shall yield to the vehicle so proceeding into or across said intersection.\u201d We do not suggest that this regulation creates an absolute right of way. It, like the regulation involved in Bland v. Hershey, supra, is relative only and must be construed reasonably and applied according to the circumstances of each case. It created certain favored boulevard \u2022streets, and declared that traffic thereon is entitled 'to priority. It did not, however, give defendant\u2019s driver the privilege of driving blindly down 12th Street, nor to brazen his way through traffic simply be\u2022cause he was on a boulevard street.\nBut the duty of care which rested \u2022upon the plaintiff was no small one. To facilitate the flow of traffic and reduce danger, the framers of the regulation prescribed an inferior right of way for the street she was in. There arose a correspondingly greater demand for care on her part. She was required not only to come to a complete stop, but also to \u201cyield to \u25a0other vehicles within the intersection or approaching so closely thereto as to constitute an immediate hazard.\u201d There seems to be no question that she did stop. There is serious question, however, as to whether she exercised care from that point on. In our opinion there was ample basis for the holding below that she was guilty of contributory negligence in any one or all of these respects: (1) in failing to keep a proper lookout; (2) in continuing into the boulevard intersection past the stopped bus and in such a manner as to meet, rather than avoid, oncoming traffic from her left; (3) in failing to see the defendant\u2019s truck, which the driver on her left did see and avoid, and which obviously did \u201cconstitute an immediate hazard.\u201d\nOther traffic regulations were received in evidence and their effect argued in the trial court as well as here, but they are general in nature and do not change the legal picture nor indicate error on the part of the trial judge in ruling that the plaintiff, by her own negligence, contributed to her damage.\nAffirmed.\nPar. \u201ce\u201d, See. 2, art. II: \u201cA vehicle approaching a street intersection shall slow down and be kept under such control as to avoid colliding with pedestrians or vehicles. Operators of vohicles approaching a street intersection shall give right of way to vehicles approaching from their right; provided, that a vehicle making a right or left hand turn shall give the right of way to through traffic.\u201d\nFaucett v. Bergmann et al., 1927, 57 App.D.C. 290, 22 F.2d 718.",
+        "type": "majority",
+        "author": "CAYTON, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Samuel W. McCart, of Washington, D. C., for appellant.",
+      "Paul J. Sedgwick, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "RAAEN v. SOUTHERN HOTEL SUPPLY CO., Inc.\nNo. 10.\nMunicipal Court of Appeals for tlie District of Columbia.\nNov. 30, 1942.\nSamuel W. McCart, of Washington, D. C., for appellant.\nPaul J. Sedgwick, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0659-01",
+  "first_page_order": 707,
+  "last_page_order": 708
+}

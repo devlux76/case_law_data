@@ -1,0 +1,224 @@
+{
+  "id": 8150684,
+  "name": "IPPOLITO v. UNITED STATES",
+  "name_abbreviation": "Ippolito v. United States",
+  "decision_date": "1943-03-08",
+  "docket_number": "No. 52",
+  "first_page": "256",
+  "last_page": "258",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 A.2d 256"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "75 F. 2d 65",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        961226
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/75/0065-01"
+      ]
+    },
+    {
+      "cite": "31 A.2d 856",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8155877
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0856-01"
+      ]
+    },
+    {
+      "cite": "129 F. 2d 57",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1158700
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/129/0057-01"
+      ]
+    },
+    {
+      "cite": "89 F.2d 863",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1270558
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/89/0863-01"
+      ]
+    },
+    {
+      "cite": "67 App.D.C. 119",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "266 F. 1018",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6738133
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/266/1018-01"
+      ]
+    },
+    {
+      "cite": "49 App.D.C. 398",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 S. Ct. 103",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        303994,
+        303799
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/317/0102-01",
+        "/us/317/0134-01"
+      ]
+    },
+    {
+      "cite": "317 U.S. 134",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        303799
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/317/0134-01"
+      ]
+    },
+    {
+      "cite": "133 F.2d 408",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3646902
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/133/0408-01"
+      ]
+    },
+    {
+      "cite": "141 A.L.R. 1318",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 F.2d 265",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3558761,
+        10697610
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/128/0265-01"
+      ]
+    },
+    {
+      "cite": "126 F.2d 633",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3559467,
+        1081595
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/126/0633-01"
+      ]
+    },
+    {
+      "cite": "317 U.S. 269",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        303755
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/317/0269-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 412,
+    "char_count": 5684,
+    "ocr_confidence": 0.694,
+    "pagerank": {
+      "raw": 5.973126083369309e-08,
+      "percentile": 0.37171105342435024
+    },
+    "sha256": "af8bad4b1da27abdfb2e25c0a28558619670abd120e7f96d87cbe89d449b322d",
+    "simhash": "1:ad5eb714763aa0db",
+    "word_count": 997
+  },
+  "last_updated": "2024-02-27T17:57:23.606146+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "IPPOLITO v. UNITED STATES."
+    ],
+    "opinions": [
+      {
+        "text": "CAYTON, Associate Judge.\nAppeal from a judgment of conviction entered upon pleas of guilty in two cases charging violations of the \u201cBad Check Law\u201d. Following is the complete statement of proceedings and evidence as consented to by defendant and approved by the trial judge:\n\u201cThe defendant, Anthony T. Ippolitto, was charged with two violations of Section 22 \u2014 1410, District of Columbia Code (1940), in informations Nos. 425 720 and 425 721, filed on November 5, 1942, by John B. Diamond, Assistant United States Attorney. The amount of the check in information No. 425 720 was $15.00 and the complaining witness was one Isadore May. The amount of the check in information No. 425 721 was $10.00 and the complaining witness was one Quong Wah.\n\u201cOn November 5, 1942, defendant appeared in Police Court represented by his attorney, Milton I. Lewis and entered a plea of not guilty, and demanded a jury trial. Bond was set at $500.00 in each case and the case was continued to November 18, 1942. On November 18, defendant appeared, represented by his attorney, Milton I. Lewis, withdrew his plea of not guilty and his demand for a jury trial and entered a plea of guilty. The Court sentenced defendant forthwith to serve 180 days and pay $200.00 fine or serve an additional 180 days in each case; said senT fences to run consecutively. Defendant was committed on the same day, November 18. Motion for a new trial was made on November 18, 1942 and was denied on November 28, 1942.\n\u201cAt the same time the Court imposed sentence it had before it for consideration the criminal record of the defendant including convictions for forgery and uttering. ' Said convictions were had in Criminal Nos. 69 870, 69 871, 69 872 and 69 873 on January 26, 1942 in the United States District Court for the District of Columbia and the judgment entered in each case was that the defendant serve 8 months to 2 years on each of two counts, all of said sentences to run concurrently, and the defendant ha'd been placed on probation in said cases.\u201d\nThe statement of errors claimed is general in nature and charges that the trial court committed error (1) in not fully advising defendant in advance as to the consequences of his plea of guilty and (2) in overruling the motion for new trial.\nWe have carefully studied the case in the , light of these assigned errors in order to detennine whether defendant\u2019s rights have been protected in accordance with the comprehensive rules laid down for the guidance of trial courts in a number of recent cases which we cite in the margin.\nThese things seem plain: that the defendant was represented by counsel at the original arraignment at which he pleaded not guilty and made a demand for trial by jury; that thirteen days later he again appeared in court with his same counsel, withdrew his jury demand and voluntarily changed his plea from not guilty to guilty and was thereupon sentenced; that on the day of his sentence he engaged new counsel (who also represents him here) who filed in his behalf the motion for new trial.\nConcerning the first general assignment of error we can find no basis for ruling that there was any invasion of defendant\u2019s rights, or any confusion on his part concerning the plea of guilty or its effect. We cannot go beyond the record, and where the record as presented fails to make any affirmative showing of prejudicial error we must affirm.\nThe motion for new trial was based upon the following grounds: \u2022 that the verdict was contrary to the evidence and to the weight of the evidence and that there was error in the admission of evidence. These grounds were obviously without foundation because no evidence had been offered or received. In the motion defendant complained that he had not had sufficient time in which to prepare his defense or to produce witnesses. But the record shows it hat he was represented by-counsel during all of the time between his first arraignment and his ultimate plea of guilty, and that no application was made for a second continuance, for that or any other purpose. Finally in the motion defendant complains that he was not advised that he was entitled to demand a jury trial. This last ground seems a bit strange in view of the fact that he had actually made such a demand and later voluntarily withdrew it. Nor can he complain of an abuse of discretion in overruling the motion for a new trial when there is nothing in the record to indicate that he presented any substantial reasons in law or fact upon which the court might have predicated an exercise of' discretion.\nThe record is devoid of anything that would justify us in disturbing the conviction and it must therefore be affirmed.\nAdams v. United States, 317 U.S. 269, 63 S.Ct. 236, 87 L.Ed. \u2014, decided December 21, 1942; Evans v. Hives, App. D.C., 126 F.2d 633; Wood v. U. S., App. D.C., 128 F.2d 265, 141 A.L.R. 1318; McJordan v. Huff, App.D.C., 133 F.2d 408, decided February 1, 1943.\nHughes v. Wendel, 317 U.S. 134, 63 S. Ct. 103, 87 L.Ed. -, decided Nov. 16, 1942; Davidge v. Simmons, 49 App.D.C. 398, 266 F. 1018; Harrah et al. v. Morgenthau, 67 App.D.C. 119, 89 F.2d 863; Marvin\u2019s Credit v. Hall, App.D.C., 129 F. 2d 57; Heslop v. Grahame, DiC.Mun.Ct. App., 31 A.2d 856.\nNolan v. United States, 7 Cir., 75 F. 2d 65.",
+        "type": "majority",
+        "author": "CAYTON, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Charles F. Hailer, of Washington, D. C., for appellant.",
+      "John P. Burke, Asst. U. S. Atty., of Washington, D. C. (Edward M. Curran, U. S. Atty., and Charles B. Murray, Asst. U. S. Atty., both of Washington, D. C, on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "IPPOLITO v. UNITED STATES.\nNo. 52.\nMunicipal Court of Appeals for the District of Columbia.\nMarch 8, 1943.\nCharles F. Hailer, of Washington, D. C., for appellant.\nJohn P. Burke, Asst. U. S. Atty., of Washington, D. C. (Edward M. Curran, U. S. Atty., and Charles B. Murray, Asst. U. S. Atty., both of Washington, D. C, on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0256-01",
+  "first_page_order": 304,
+  "last_page_order": 306
+}

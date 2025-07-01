@@ -1,0 +1,199 @@
+{
+  "id": 8156357,
+  "name": "SIDUR v. THALL",
+  "name_abbreviation": "Sidur v. Thall",
+  "decision_date": "1943-05-11",
+  "docket_number": "No. 65",
+  "first_page": "873",
+  "last_page": "875",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 873"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "41 F.2d 157",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1790526
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/41/0157-01"
+      ]
+    },
+    {
+      "cite": "282 U.S. 687",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6933273
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "219"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/282/0687-01"
+      ]
+    },
+    {
+      "cite": "42 App.D.C. 295",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1785457
+      ],
+      "pin_cites": [
+        {
+          "page": "298"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/app-dc/42/0295-01"
+      ]
+    },
+    {
+      "cite": "88 Am.Dec. 311",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "32 N.Y. 127",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        16244
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ny/32/0127-01"
+      ]
+    },
+    {
+      "cite": "100 U.S. 621",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        4679
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/100/0621-01"
+      ]
+    },
+    {
+      "cite": "74 A.L.R. 1154",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "236 N.W. 189",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "pin_cites": [
+        {
+          "page": "191"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "121 Neb. 140",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        4622390
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/neb/121/0140-01"
+      ]
+    },
+    {
+      "cite": "282 U.S. 687",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6933273
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "220"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/282/0687-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 465,
+    "char_count": 7546,
+    "ocr_confidence": 0.709,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.3565926044336948
+    },
+    "sha256": "7ceba4681cd1d7e6fe3b334f820999730d3f430c481649159d1495992fb953b0",
+    "simhash": "1:8b63ddc34f8539d6",
+    "word_count": 1276
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "SIDUR v. THALL."
+    ],
+    "opinions": [
+      {
+        "text": "CAYTON, Associate Judge.\nThe suit was for $676.96 representing the value of certain furniture and other personal property allegedly withheld by defendant, the former husband of plaintiff. Trial was by the court and resulted in judgment for plaintiff.\nPlaintiff testified she and defendant had been married in this District on August 4, 1941, that they separated two months thereafter and that in March, 1942 she obtained an annulment of the marriage in the state of New York. It was her claim that the property involved in this suit had been a personal gift to her from her mother. Defendant contended that the property had been given to him. Cross-examination of the plaintiff developed that she had been working in the District for more than a year preceding the marriage and that her home had been in New York City for more than six years. Pursuing the cross-examination, defendant\u2019s counsel attempted to question her with reference to an affidavit she executed in order to file the annulment suit in Monticello, New York, and attempted to show that Monticello is about 100 miles from her home; he also sought to examine her as to her having sworn falsely in the affidavit filed as a basis for the annulment proceeding, and also to statements made to the court at the hearing of the annulment proceeding. The trial court ruled that all such cross-examination was improper, \u201cthat it was a collateral matter and not admissible in this suit\u201d. On this single ground we are required to reverse. This we do on the authority of Alford v. United States, 282 U.S. 687, 51 S.Ct. 218, 219, 75 L. Ed. 624. In that case the Supreme Court reversed the decision of the Circuit Court of Appeals for the Ninth Circuit, 41 F.2d 157, which had affirmed a judgment of the District Court of the United States for the Southern District of California. The reversal was based entirely on the refusal to require an answer to a single question which had been put to a witness: \u201cWhere do you live?\u201d\nIt happened that the question was not responsive to anything developed in the direct examination; but the Supreme Court pointed out that cross-examination of a witness is a matter of right \u201cand that facts may be brought out tending to discredit the witness by showing that his testimony in chief was untrue or biased\u201d. Speaking for the Court, Mr. Justice Stone said: \u201cCounsel often cannot know in advance what pertinent facts may be elicited on cross-examination. For that reason it is necessarily exploratory; and the rule that the examiner must indicate the purpose of his inquiry does not, in general, apply. [Citing cases] It is the essence of a fair trial that reasonable latitude be given the cross-examiner, even though he is unable to state to the court what facts a reasonable cross-examination might develop. Prejudice ensues from a denial of the opportunity to place the witness in his proper setting and put the weight of his testimony and his credibility to a test, without which the jury cannot fairly appraise them. [Citing cases] To say that prejudice can be established only by showing that the cross-examination, if pursued, would necessarily have brought out facts tending to discredit the testimony in chief, is to deny a substantial right and withdraw one of the safeguards essential to a fair trial. [Citing cases.]\u201d\nIn the case cited the cross-examination of a mere witness was involved. Here it was directed to the plaintiff herself. Her testimony was directly contrary to that of defendant and the case turned upon an issue of fact. That issue was directly connected with the marriage and the marital status. Also involved was the annulment suit which the plaintiff had brought in New York, seemingly in a city and county other than her own home. It was to the circumstances of the filing and prosecution of that suit that the cross-examination was directed. Whether plaintiff could have explained it satisfactorily and what effect the explanation would have had on the final result we have no way of knowing. Such cross-examination was necessarily exploratory and the examiner was not required to reveal the purpose of the inquiry, though in fact he did so. And it is plain that the cross-examination was not \u201cmerely to harass, annoy or humiliate\u201d the plaintiff.\nThis is not a case where a series of questions and answers indicated a situation that required the exercise of discretion in limiting further cross-examination. The scope of the inquiry was clear enough, and its propriety equally clear. But, as in the Alford case, \u201cThe trial court cut off in limine all inquiry on a subject with respect to which the defense was entitled to a reasonable cross-examination. This was an abuse of discretion and prejudicial error.\u201d\nThe judgment must be reversed with instructions to award a new trial.\nReversed.",
+        "type": "majority",
+        "author": "CAYTON, Associate Judge."
+      },
+      {
+        "text": "RICHARDSON, Chief Judge\n(dissenting).\nI am not able to accept the construction placed by the majority upon the opinion in Alford v. United States, 282 U.S. 687, 51 S.Ct. 218, 220, 75 L.Ed. 624.\n\u25a0 The question \u201cWhere do you live?\u201d to which the trial court had sustained an objection in that case, it was stated by the Supreme Court, was \u201can essential step in identifying the witness with his environment, to which cross-examination may always 'be directed\u201d and its purpose was \u201cnot, as the trial court seemed to think, to discredit the witness by showing that he was charged with crime, but to show by such facts as proper cross-examination might develop, that his testimony was biased because given under promise or expectation of immunity, or under the coercive effect of his detention by officers of the United States\u201d. Here the object is \u201cto discredit the witness\u201d by showing that she had given false testimony in a collateral proceeding.\nOne may always show bias of a witness by cross-examination as to any collateral fact or circumstance evidencing his state of mind. The rule applicable \u201cis entirely distinct from impeachment, which is governed by its own rules of evidence\u201d. Vassar v. Chicago, B. & Q. R. Co., 121 Neb. 140, 236 N.W. 189, 191, 74 A.L.R. 1154 and annotation.\nThe proposed cross-examination had no relation to any issue in the present case and was clearly a collateral matter. \u201cThe test of whether a fact inquired of in cross-examination is collateral is this: Would the cross-examining party be entitled to prove it as part of his case, tending to establish his plea ?\u201d\nI do not regard Alford v. United States, supra, as changing or modifying, but as in thorough accord with prior cases defining the limits of proper cross-examination. It did not overrule Wills v. Russell, 100 U.S. 621, 25 L.Ed. 607. In citing with approval President, etc., of Third Great Western Turnpike Road Co. v. Loomis, 32 N.Y. 127, 88 Am.Dec. 311, where the court of its own motion denied the right to cross-examine a witness as to alleged misappropriation of his employer\u2019s funds for the purpose of discrediting his testimony, it stated, \u201cBut no such case is presented here.\u201d\nI think defendant had no right to cross-examine plaintiff as to the truth of her testimony in a collateral suit, and that the judgment should have been affirmed.\nCrawford v. United States, 30 App.D.C. Co., 42 App.D.C. 295, 298. 1, 25; Fountaine v. Washington R. & E.",
+        "type": "dissent",
+        "author": "RICHARDSON, Chief Judge"
+      }
+    ],
+    "attorneys": [
+      "Joseph M. Bonuso, of Washington, D. C., for appellant.",
+      "Morris Benson and Edward J. Lynch, both of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "SIDUR v. THALL.\nNo. 65.\nMunicipal Court of Appeals for the District of Columbia.\nMay 11, 1943.\nJoseph M. Bonuso, of Washington, D. C., for appellant.\nMorris Benson and Edward J. Lynch, both of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0873-01",
+  "first_page_order": 921,
+  "last_page_order": 923
+}

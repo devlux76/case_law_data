@@ -1,0 +1,324 @@
+{
+  "id": 8155589,
+  "name": "BETTER BUSINESS BUREAU OF WASHINGTON, D. C., Inc., v. DISTRICT UNEMPLOYMENT COMPENSATION BOARD",
+  "name_abbreviation": "Better Business Bureau of Washington, D. C., Inc. v. District Unemployment Compensation Board",
+  "decision_date": "1943-11-16",
+  "docket_number": "No. 126",
+  "first_page": "614",
+  "last_page": "616",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 A.2d 614"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "135 P.2d 89",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 S.E.2d 390",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Va. 202",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        1978153
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/179/0202-01"
+      ]
+    },
+    {
+      "cite": "37 N.Y.S.2d 98",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "264 App. Div. 971",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2692136,
+        2692634,
+        2694683
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/264/0971-02",
+        "/ad/264/0971-03",
+        "/ad/264/0971-01"
+      ]
+    },
+    {
+      "cite": "22 N.Y.S.2d 993",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "260 App.Div. 433",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        2459956
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/260/0433-01"
+      ]
+    },
+    {
+      "cite": "24 A.2d 390",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "128 N.J.L. 95",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        129819
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/njl/128/0095-01"
+      ]
+    },
+    {
+      "cite": "136 A.L.R. 1461",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "348 Mo. 753",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        1323706
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/348/0753-01"
+      ]
+    },
+    {
+      "cite": "16 A,2d 252",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "137 Me. 154",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        494975
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/137/0154-01"
+      ]
+    },
+    {
+      "cite": "10 S.E.2d 412",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Ga.App. 130",
+      "category": "reporters:state",
+      "reporter": "Ga. App.",
+      "case_ids": [
+        1504508
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga-app/63/0130-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C.A. \u00a7 1011",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "123 F.2d 767",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1093459
+      ],
+      "pin_cites": [
+        {
+          "page": "769"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/123/0767-01"
+      ]
+    },
+    {
+      "cite": "34 F. Supp. 573",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4188687
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/34/0573-01"
+      ]
+    },
+    {
+      "cite": "296 U.S. 369",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5727564
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/296/0369-01"
+      ]
+    },
+    {
+      "cite": "119 A.L.R. 1002",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "99 F.2d 355",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        986434
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/99/0355-01"
+      ]
+    },
+    {
+      "cite": "69 App.D.C. 122",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "134 F.2d 524",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3650717
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/134/0524-01"
+      ]
+    },
+    {
+      "cite": "77 U.S. App.D.C. 296",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "131 F.2d 337",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1150416
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/131/0337-01"
+      ]
+    },
+    {
+      "cite": "76 U.S.App.D.C. 282",
+      "category": "reporters:state",
+      "reporter": "U.S. App. D.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 538,
+    "char_count": 8891,
+    "ocr_confidence": 0.691,
+    "pagerank": {
+      "raw": 1.2829708258417626e-07,
+      "percentile": 0.6180700110315311
+    },
+    "sha256": "37ede9aa44fe1de705af5d2e9991b9fdd1240344b735826a3acc47b8e91b2685",
+    "simhash": "1:2f731e7d9ba5b58d",
+    "word_count": 1388
+  },
+  "last_updated": "2024-02-27T23:44:59.089938+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "-Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "BETTER BUSINESS BUREAU OF WASHINGTON, D. C., Inc., v. DISTRICT UNEMPLOYMENT COMPENSATION BOARD."
+    ],
+    "opinions": [
+      {
+        "text": "HOOD, Associate Judge.\nAppellant sought to recover back taxes paid under the District of Columbia Unemployment Compensation Act, on the ground it was exempt from payment of such taxes. Appellee by its answer denied the claimed exemption and thereafter moved for judgment on the pleadings. That motion was granted and this appeal taken.\nAppellant\u2019s claim to exemption is based upon the provision of the Act exempting from its operation \u201cservice performed in the employ of a corporation, community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes.\u201d Appellant says it comes within the classification of \u201cscientific\u201d and- \u201ceducational\u201d. In brief and argument its scientific features are not stressed but it is earnestly argued that its purpose and activities are exclusively and strictly, in the broad sense of the word, educational.\nIn International Reform Federation v. District Unemployment Compensation Board, 76 U.S.App.D.C. 282, 131 F.2d 337, and National Rifle Ass\u2019n v. Young, 77 U.S. App.D.C. 296, 134 F.2d 524, claims for exemption were made under this same provision. The Reform Federation\u2019s primary purpose was found to be \u201cthe establishment of higher codes of morality and manners throughout the world,\u201d and it was held exempt as being within the charitable or educational (perhaps both) classification. The Rifle Association was found not to have been organized exclusively for purposes exempted by the statute.\nObviously every case of claimed exemption must depend on its own particular facts and neither of the above cases can be decisive of the present one. However, from those cases we find certain principles of general application. First, that to come within the exemption the corporation must be both organized and operated exclusively for one or more of the named purposes; and though its primary purpose is within the exemption, it cannot have the benefit thereof if it has other purposes beyond the scope of the exemption. Second, that in order to ascertain the purpose for which a corporation was organized, recourse must be had to its charter. Third, that the contributions required by the Unemployment Compensation Act are taxes; and exemptions from taxation in general, and from these taxes in particular, are strictly construed.\nApplication of the foregoing principles to the instant case, we think, conclusively establishes a lack of exemption for appellant. Its purposes of organization were set forth in its articles of incorporation as follows: \u201c* * * the object for which it is formed is for the mutual welfare, protection and improvement of business methods among merchants and other persons engaged in any and all business or professions and occupations of every description whatsoever that deal directly or indirectly with the public at large, and for the educational and scientific advancements of business methods among persons, corporations or associations engaged in business in the District of Columbia so that the public can obtain a proper, clean, honest and fair treatment in its dealings or transactions with such merchants, tradesmen, corporations, associations or persons following a profession and at the same time protecting the interest of the latter classes of businesses to enable such as are engaged in the same to successfully and profitably conduct their business and for the further purpose of endeavoring to obtain the proper, just, fair and effective enforcement of the Act of Congress approved May 29th, 1916, otherwise known as \u2018An Act to prevent fraudulent advertising in the District of Columbia.\u2019 \u201d By the exact wording of its charter, appellant\u2019s object, in part, is \u201cfor the mutual welfare, protection and improvement of business methods among merchants\u201d and for \u201cprotecting the interest\u201d of certain classes of businesses to \u201cenable such as are engaged in the same to successfully and profitably conduct their business.\u201d Regardless of its other purposes, we think it is plain appellant was not organized exclusively for educational purposes in any usual or normal meaning of \u201ceducation\u201d; and, even if its purposes were to be accomplished by educational methods, a chief purpose was protecting and advancing the interests of merchants who deal honestly and fairly with the public. However worthy and desirable may be the objects sought, they nevertheless are not exclusively educational. If we may consider the corporate name adopted by appellant, we think it is another indication that \u201cbetter business\u201d and not education was the primary object.\nAppellant was organized under Code, Section 29 \u2014 601, relating to benevolent, charitable, educational and similar corporations. In ascertaining the purposes for which organized we should consider the statute under which appellant obtained its charter; but the statute cannot be conclusive in the face of specific objects selected by appellant for inclusion in its charter. Cf. White v. Central Dispensary and Emergency Hospital, 69 App.D.C. 122, 99 F.2d 355, 119 A.L.R. 1002. A corporation will not be permitted to deny its purposes are those set forth in its charter. Helvering v. Coleman-Gilbert Associates, 296 U.S. 369, 56 S.Ct. 285, 80 L.Ed. 278.\nAppellant relies heavily upon the case of Better Business Bureau of Oklahoma City, Inc., v. Jones, Collector, D.C., 34 F. Supp. 573, affirmed in Jones, Collector v. Better Business Bureau of Oklahoma City, Inc., 10 Cir., 123 F.2d 767, 769. In that case, plaintiff claimed exemption from payment of Social Security taxes under an exemption provision identical with the one here involved. Though the Better Business Bureau of Oklahoma City and appellant are both engaged in kindred work, their corporate charters are noticeably different. It was held from a reading of the charter of the Oklahoma Bureau that its purpose was \u201cto educate the public,\u201d and that it was within the exemption provided by the Social Security Act, 42 U.S.C.A. \u00a7 1011(b) (8). The different language of the two charters distinguishes that case from the present one; but, aside from that difference, the Circuit Court of Appeals ruled that the exemption provision should be given a liberal construction, saying: \u25a0 \u201cWhile the general rule is that tax-exempt statutes are to be construed strictly in favor of the government, the rule does not apply to exemption statutes of the character here involved.\u201d\nAs previously pointed out in this opinion, the United States Court of Appeals for this District, in the National Rifle Association case, has distinctly held that the strict rule of construction must be applied to the exemption provisi\u00f3n of the statute under consideration. Appellant\u2019s claim for exemption could be allowed only by extremely liberal construction.\nIn our opinion appellant was not organized exclusively for educational or scientific purposes within the meaning of the statute and, therefore, is subject to payment of the taxes.\nAffirmed.\nCode 1940, \u00a7 46-301.\nSee dissenting opinion in the International Reform Federation case.\nThis is in accord with decisions of other jurisdictions dealing with unemployment compensation statutes. It is held that such laws should be liberally construed to accomplish their purposes and extend their coverage, with a consequent strict construction of exemption provisions. Young v. Bureau of Unemployment Compensation, 63 Ga.App. 130, 10 S.E.2d 412; Maine Unemployment Compensation Commission v. Androscoggin Junior, Inc., 137 Me. 154, 16 A,2d 252; Murphy v. Concordia Pub. House, 348 Mo. 753, 155 S.W.2d 122, 136 A.L.R. 1461; Consumers\u2019 Research v. Evans et al., 128 N.J.L. 95, 24 A.2d 390; Mohawk Mills Ass\u2019n v. Miller, 260 App.Div. 433, 22 N.Y.S.2d 993; In re American Agriculturist, Inc., 264 App. Div. 971, 37 N.Y.S.2d 98; Unemployment Compensation Commission v. Harvey, 179 Va. 202, 18 S.E.2d 390; Unemployment Compensation Department v. Hunt, Wash., 135 P.2d 89.",
+        "type": "majority",
+        "author": "HOOD, Associate Judge."
+      },
+      {
+        "text": "RICHARDSON, Chief Judge\n(concurring).\nI concur upon the ground that one specific object stated in appellant\u2019s charter, the securing of an effective enforcement of the Act of May 29, 1916, D.C.Code 1940, \u00a7 22 \u2014 1411 et seq. to prevent fraudulent advertising, does not come within any recognized definition of the term \u201ceducational\u201d or \u201cscientific\u201d. Although highly beneficial to the public I cannot regard assistance in the enforcement of a penal statute as \u201ccharitable\u201d.",
+        "type": "concurrence",
+        "author": "RICHARDSON, Chief Judge"
+      }
+    ],
+    "attorneys": [
+      "R. B. H. Lyon, of Washington, D. C. (Lyon & Lyon, of Washington, D. C., on the brief), for appellant.",
+      "James A. Purcell, Jr., of Washington, D. C., (John A. Weil and Joseph Notes both of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "BETTER BUSINESS BUREAU OF WASHINGTON, D. C., Inc., v. DISTRICT UNEMPLOYMENT COMPENSATION BOARD.\nNo. 126.\nMunicipal Court of Appeals for the District of Columbia.\nNov. 16, 1943.\nR. B. H. Lyon, of Washington, D. C. (Lyon & Lyon, of Washington, D. C., on the brief), for appellant.\nJames A. Purcell, Jr., of Washington, D. C., (John A. Weil and Joseph Notes both of Washington, D. C., on the brief), for appellee.\n-Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0614-01",
+  "first_page_order": 660,
+  "last_page_order": 662
+}

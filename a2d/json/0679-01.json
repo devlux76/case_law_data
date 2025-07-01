@@ -1,0 +1,68 @@
+{
+  "id": 8152889,
+  "name": "WERTH et al. v. NOLAN",
+  "name_abbreviation": "Werth v. Nolan",
+  "decision_date": "1942-12-02",
+  "docket_number": "No. 19",
+  "first_page": "679",
+  "last_page": "679",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 679"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 142,
+    "char_count": 1677,
+    "ocr_confidence": 0.714,
+    "pagerank": {
+      "raw": 9.630202327013341e-08,
+      "percentile": 0.527437313912896
+    },
+    "sha256": "8339c85ce5d67b5ce5803168e3f2afd045408c341c305da0a0252a9af4d802bf",
+    "simhash": "1:9a7abe1541f9bca0",
+    "word_count": 280
+  },
+  "last_updated": "2023-07-14T15:08:13.669495+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "WERTH et al. v. NOLAN."
+    ],
+    "opinions": [
+      {
+        "text": "PER CURIAM.\nApplication by appellants for extension of time for filing brief. The time for filing said brief originally expired on November 6, 1942. Within that time (on November 6, 1942), they filed a motion, supported by affidavit and consented to by appellee, for an extension of time for its filing. The extension was granted until November 12, 1942. The brief was not filed, nor was any further extension sought within that period. Accordingly, the time expired on November 12, 1942. On\nNovember 27, 1942, fifteen days after default, the present motion was filed. The reason given for the default is that \u201ccounsel states that he had been engaged in other court work, including the preparation of a Memorandum Brief in Justice McGuire\u2019s court, and other legal practice to such extent that he has not had sufficient time to prepare and brief the brief herein.\u201d\nThis does not constitute sufficient cause for failure to file the brief within the time limited by our rules (and extended by our order of November 6, 1942), and certainly does not justify failure to seek an extension of time within the prescribed period. Appellee has consented to this motion, but it is obvious that counsel cannot by their consent render our rules inoperative, or fix new limitations, of time not contemplated by our rules or specifically sanctioned by our orders.\nMotion denied.",
+        "type": "majority",
+        "author": "PER CURIAM."
+      }
+    ],
+    "attorneys": [
+      "John L. Fowler, of Washington, D. G, for appellants.",
+      "Nicholas J. Chase, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "WERTH et al. v. NOLAN.\nNo. 19.\n(Municipal Court of Appeals for the District of Columbia.\nDec. 2, 1942.\nRehearing Denied Mar. 12, 1943.\nJohn L. Fowler, of Washington, D. G, for appellants.\nNicholas J. Chase, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0679-01",
+  "first_page_order": 727,
+  "last_page_order": 727
+}

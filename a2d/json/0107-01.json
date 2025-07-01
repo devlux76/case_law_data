@@ -1,0 +1,220 @@
+{
+  "id": 8149453,
+  "name": "CUMMINGS v. UNITED CLAY PRODUCTS CO.",
+  "name_abbreviation": "Cummings v. United Clay Products Co.",
+  "decision_date": "1943-04-06",
+  "docket_number": "No. 61",
+  "first_page": "107",
+  "last_page": "108",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 A.2d 107"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "87 N.E. 734",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "172 Ind. 62",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1646705
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/172/0062-01"
+      ]
+    },
+    {
+      "cite": "22 N. E. 1",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 Ind. 503",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1309215
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/119/0503-01"
+      ]
+    },
+    {
+      "cite": "89 A. 204",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Conn. 711",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        494509
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/87/0711-01"
+      ]
+    },
+    {
+      "cite": "92 S.E. 110",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "79 W.Va. 661",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        8632374
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/w-va/79/0661-01"
+      ]
+    },
+    {
+      "cite": "76 A. 18",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "227 Pa. 308",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1008576
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/227/0308-01"
+      ]
+    },
+    {
+      "cite": "63 F.2d 275",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        905315
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/63/0275-01"
+      ]
+    },
+    {
+      "cite": "103 P. 427",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 F. 838",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6752279
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/92/0838-01"
+      ]
+    },
+    {
+      "cite": "19 P. 567",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 App. D.C. 440",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        6099546
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/8/0440-01"
+      ]
+    },
+    {
+      "cite": "16 Wall. 1",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        411267
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/83/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 387,
+    "char_count": 5622,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.3478364954868025
+    },
+    "sha256": "904d48464c4ed1053bdee210269d82389c198d3c2bc22f0bb29202f8fc914a13",
+    "simhash": "1:8df1d3f81a52b165",
+    "word_count": 944
+  },
+  "last_updated": "2024-02-27T17:57:23.606146+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYT'ON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "CUMMINGS v. UNITED CLAY PRODUCTS CO."
+    ],
+    "opinions": [
+      {
+        "text": "HOOD, Associate Judge.\nO. R. Snow, trading as D. C. Plastering Company, by written agreement purchased from United Clay Products Company certain building material at the price of $356.-37. In the body of the agreement appeared the following;\n\u201cWe hereby guarantee full payment of the account of D. C. Plastering Co. for all materials delivered by you to the above job in accordance with the terms shown below.\n\u201cSigned James Cummings\n\u201cSigned-\n\u201c1830 Columbia Road, N. W., \u201cWashington, D. C.\u201d\nSnow failed to make payment and United Clay Products Company sued both Snow and Cummings. Service was not obtained upon Snow and the action went to trial against Cummings alone. Trial was without a jury.\n\u25a0 At the trial the agreement of purchase was introduced in evidence and if was stipulated that the material was sold and delivered as claimed, that Cummings had signed the guaranty provision of the agreement, and that payment for the material had never been made. This was the substance of plaintiff\u2019s testimony.\nCummings testified that Snow had asked his help in getting some material from plaintiff by guaranteeing Snow\u2019s account; that a few days thereafter one Evans, an agent of plaintiff, met with Snow, Cummings and one Katz and discussed the proposed sale of material to Snow, and as the result of this conversation it was agreed by Evans, Cummings and Katz that both Cummings and Katz would sign a contract guaranteeing payment of the account; that it was agreed Evans should prepare the contract and present it to Cummings and Katz for their signatures; that several days later Evans brought to Cummings\u2019 place of business a contract he had prepared, which was the contract offered in evidence; that at this time Katz was not present, and Cummings stated to Evans that he understood Katz was to sign and asked Evans if he, Cummings, should obtain Katz\u2019s signature; that Evans replied he would secure Katz\u2019s signature and thereupon Cummings signed the contract and delivered it to Evans reminding him to get Katz\u2019s signature, and Evans specifically agreed to do so.\nWhen Cummings\u2019 direct testimony was completed, the court, stating cross-examination of Cummings was not necessary, asked if defendant had other witnesses. Katz thereupon testified substantially the same as Cummings regarding the agreement reached between himself, Cummings and Evans, and testified that the contract was never .presented to him for signature and consequently he had never signed. Upon completion of the direct testimony of Katz, the court, stating cross-examination of Katz was unnecessary, announced it was ready to find in favor of the plaintiff. Such finding was made and judgment entered thereon and from that judgment defendant has appealed.\nIt is the contention of defendant that he signed the contract of guaranty on the condition that Katz should likewise sign and that because of plaintiff\u2019s failure to secure the signature of Katz, as agreed, he never became bound.\nIn Brandt, Suretyship and Guaranty, 3rd Ed., \u00a7 450, it is stated: \u201cIf the surety signs the obligation upon the condition that another shall also sign it as surety before it shall be binding on him, and this condition is agreed to by the creditor, or is known to him when he takes the obligation, the surety is not generally liable unless the condition is complied with.\u201d\nThe foregoing principle has been recognized in many cases and the question here is whether that principle applies to the state of facts of the present case. We do not have here the question so often raised in cases of this nature as to the obligee\u2019s notice or knowledge of the agreement between the guarantors. It is uncontradicted that Evans, plaintiff\u2019s agent, knew of and was a party to the agreement that both Katz and Cummings would sign. Indeed, Evans prepared the contract for both signatures.\nWhile the mere belief or expectation that others will sign is not sufficient to make signing by one surety conditional on others signing, yet a signing and delivery may be conditional without the use of express words to that effect. Whether the signing by Cummings was conditional upon Katz also signing, and whether that was the agreement between parties concerned, is a. conclusion to be drawn from all the circumstances which properly form a part of the entire transaction. We think the uncontradicted testimony of the defendant and his witness was sufficient to require the plaintiff to present testimony regarding the negotiations leading to the execution of the written agreement and explaining its failure to secure the signature of Katz.\nAccordingly the judgment is reversed with instructions to award a new trial.\nReversed.\nDair v. United States, 16 Wall. 1, 21 L.Ed. 491; United States v. Boyd, 8 App. D.C. 440; United States v. O\u2019Neill, C.C. Wis., 19 P. 567; Joyce v. Cockrill, 6 Oil., 92 F. 838; Rice v. Fidelity & Deposit Co., 8 Cir., 103 P. 427; Hale County v. American Indemnity Co., 5 Cir., 63 F.2d 275; Columbia Avenue Trust Co. v. King, 227 Pa. 308, 76 A. 18; Raleigh County Court v. Cottle, 79 W.Va. 661, 92 S.E. 110, Ann. Cas.1918D, 510.\nUnion Pacific Tea Co. v. Dick, 87 Conn. 711, 89 A. 204; State ex rel. McClamrock v. Gregory, 119 Ind. 503, 22 N. E. 1.\nHunter v. First National Bank, 172 Ind. 62, 87 N.E. 734.",
+        "type": "majority",
+        "author": "HOOD, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Peter G. Chaconas, of Washington, D. C., for appellant.",
+      "P. J. J. Nicolaides, of Washington, D. C. (William F. Kelly, of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "CUMMINGS v. UNITED CLAY PRODUCTS CO.\nNo. 61.\nMunicipal Court of Appeals for the District of Columbia.\nApril 6, 1943.\nPeter G. Chaconas, of Washington, D. C., for appellant.\nP. J. J. Nicolaides, of Washington, D. C. (William F. Kelly, of Washington, D. C., on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYT'ON and HOOD, Associate Judges."
+  },
+  "file_name": "0107-01",
+  "first_page_order": 155,
+  "last_page_order": 156
+}

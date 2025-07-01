@@ -1,0 +1,333 @@
+{
+  "id": 8152634,
+  "name": "MEYER v. CAPITAL TRANSIT CO. (two cases)",
+  "name_abbreviation": "Meyer v. Capital Transit Co.",
+  "decision_date": "1943-05-21",
+  "docket_number": "Nos. 71, 72",
+  "first_page": "392",
+  "last_page": "394",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 A.2d 392"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "31 A.2d 657",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8152570,
+        8152606
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0657-01",
+        "/a2d/31/0657-02"
+      ]
+    },
+    {
+      "cite": "93 F.2d 56",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1010611,
+        1011020
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/93/0056-02",
+        "/f2d/93/0056-01"
+      ]
+    },
+    {
+      "cite": "68 App.D.C. 43",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "pin_cites": [
+        {
+          "page": "52"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 F.2d 484",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10702758
+      ],
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/114/0484-01"
+      ]
+    },
+    {
+      "cite": "72 App.D.C. 323",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 S.Ct. 561",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        364255
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/318/0236-01"
+      ]
+    },
+    {
+      "cite": "2 A. L.R. 1057",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 N.E. 880",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Mass. 421",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3457601
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/229/0421-01"
+      ]
+    },
+    {
+      "cite": "295 U.S. 78",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        333750
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/295/0078-01"
+      ]
+    },
+    {
+      "cite": "279 U.S. 310",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3906048
+      ],
+      "weight": 6,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/279/0310-01"
+      ]
+    },
+    {
+      "cite": "53 App.D.C. 67",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 App.D.C. 423",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1325281
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/9/0423-01"
+      ]
+    },
+    {
+      "cite": "7 App.D.C. 507",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1326939
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/7/0507-01"
+      ]
+    },
+    {
+      "cite": "32 App.D.C. 480",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1357721
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/32/0480-01"
+      ]
+    },
+    {
+      "cite": "284 F. 731",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3597366
+      ],
+      "pin_cites": [
+        {
+          "page": "733"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/284/0731-01"
+      ]
+    },
+    {
+      "cite": "52 App.D.C. 137",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "pin_cites": [
+        {
+          "page": "139"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 A.L.R. 395",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 F.2d 836",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        922229
+      ],
+      "pin_cites": [
+        {
+          "page": "848"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/86/0836-01"
+      ]
+    },
+    {
+      "cite": "66 App.D.C. 280",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "pin_cites": [
+        {
+          "page": "292"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "165 U.S. 486",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8298732
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "498"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/165/0486-01"
+      ]
+    },
+    {
+      "cite": "26 App.D.C. 268",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1336006
+      ],
+      "pin_cites": [
+        {
+          "page": "277"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/26/0268-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 534,
+    "char_count": 7969,
+    "ocr_confidence": 0.706,
+    "pagerank": {
+      "raw": 4.930257228139523e-07,
+      "percentile": 0.9344567965159358
+    },
+    "sha256": "91fcd3e97561e26662996c25af3959a062a12883c1adc8840270f9cb1a3aa795",
+    "simhash": "1:8b8bcb81bf311184",
+    "word_count": 1356
+  },
+  "last_updated": "2024-02-27T17:57:23.606146+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, . Associate Judges."
+    ],
+    "parties": [
+      "MEYER v. CAPITAL TRANSIT CO. (two cases)."
+    ],
+    "opinions": [
+      {
+        "text": "HOOD, Associate Judge.\nThe actions below were for personal injuries and property damage caused by a street car striking an automobile owned and operated by the adult appellant with whom was riding her small child, the infant appellant. The cases were tried together before a jury and resulted in a verdict for the Transit Company in each case.\nThe main point urged on appeal is the alleged improper remarks of appellee\u2019s counsel in his argument to the jury. Those remarks were: \u201cWe, the Capital Transit Company, do not want to cause injury to anyone. Accidents are unavoidable. Do you, members of the jury, for one moment think we would be here today if the Capital Transit Company thought there was any liability in the case?\u201d\nAppellants say that by those remarks counsel for appellee \u201cinferred and meant to infer and convey to the jury that the Capital Transit Company always settled its claims where there was any liability, and that in these cases, therefore, there was no liability on its part.\u201d\nWe do not think that the remarks in their implication went as far as appellants contend, though unmistakably they tended to convey the impression that the Transit Company settles those claims against it in which it thinks there is liability. . .\nThe policy of the Transit Company in settling or defending claims was not in issue. There was no evidence before the jury on .this question and had such evidence been offered it would have been rejected. While counsel are allowed a wide latitude in drawing deductions from the evidence, arguments must be based on the evidence or that which may be properly inferred from the evidence. If the argument was based on counsel\u2019s own personal experience, it was improper for that reason. If this argument were permitted then appellants\u2019 counsel might reply by giving his opinion of the Company\u2019s willingness or lack of willingness to settle what he considered valid claims. Obviously such statements would be of no aid to the jurors in determining the issues before them. Counsel should not state facts of his own knowledge or insinuate that he has knowledge of such facts. Statements not supported by admitted evidence tend to mislead the jury and are not to be commended.\nHowever, not every improper argument necessarily requires a reversal. In Bradford v. National Benefit Association, 26 App.D.C. 268, 277, the court, quoting from Dunlop v. United States, 165 U.S. 486, 498, 17 S.Ct. 375, 41 L.Ed. 799, said: \u201cIf every remark made by counsel outside of the testimony were ground for a reversal, comparatively few verdicts would stand, since in the ardor of advocacy and in the excitement of trial, even the most experienced counsel are occasionally carried away by this temptation.\u201d\nWhen the argument was made counsel for appellants objected, and the trial court instructed the jury they were bound only by the evidence and testimony and that remarks made by counsel in' argument should not be considered as any part of the evidence. This we think effectively removed any prejudice created by the remarks.\nWe recognize that language which plainly tends to excite prejudice is ground for reversal, and especially so when it is persistently repeated or goes to the jury with the approval of the court; but the language here was not of an inflammatory nature, was not repeated and was immediately followed by the trial court\u2019s admonition that the case was to be decided on the evidence and that counsel\u2019s remarks were no part of such evidence.\nApparently counsel for appellants did not consider the remarks fatal to a fair trial because, though objecting, he did not ask the court to declare a mistri\u00e1l. If he thought the remarks required a retrial before a new panel of jurors he should have asked for it then. One cannot take his chance on a favorable verdict, reserving a right to impeach it if it happens to go the other way. We are aware of the rule that language can be so inflammatory and so prejudicial that an appellate court should in fairness order a new trial regardless of objection or particularization of objection, but this is plainly not a case of that nature.\nAppellants argue that the objectionable remarks must be considered in the light of what took place at the examination of prospective jurors on their voir dire. At that time counsel for appellee asked if any prospective juror or member of his family had ever had a claim against the Transit Company. One juror answered that he had presented such a claim and it was settled to his satisfaction without the necessity of legal action. Neither party objected to him and he was sworn as a member of the jury in this case. In view of the experience of this juror, together with the fact the jury returned verdicts for appellee within fifteen minutes, appellants say it is demonstrated that the obj ectionable argument was directed particularly to that particular juror and was persuasive in obtaining quick and favorable verdicts for ap-pellee.\n\u2022We cannot agree that the remarks of counsel for appellee were so effective. This same contention was presented to the trial court in motions for new trials, which were denied. \u201cA trial judge who has heard comments of counsel and observed the jury at the time thereof is, from the practical standpoint, in a much better position than the appellate court to judge of their effect.\u201d Washington Times Co. v. Bonner, 66 App.D.C. 280, 292, 86 F.2d 836, 848, 110 A.L.R. 395.\nThe test which we must apply was stated in Simpson v. Stein, 52 App.D.C. 137, 139, 284 F. 731, 733, as follows: \u201cIn order to reverse the case on the third assignment of error, we must be satisfied from the record: First, that the plaintiff\u2019s attorney, in his argument to the jury, was guilty of misconduct which was likely to mislead, improperly influence, or prejudice the jury against the defendant; second, that, after objection, the court, by failing to apply appropriate disciplinary measures or to give suitable instructions, left the jurors with wrong or erroneous impressions, which were likely to mislead, improperly influence, or prejudice them to the disadvantage of the defendant.\u201d\nApplying that test we are of opinion that any prejudice to appellants from improper argument was removed by the court\u2019s instruction.\nAppellants also argue that the verdicts of the jury were against the weight of the evidence. It is not the function of an appellate court to weigh the evidence, and there being substantial evidence to support the verdicts we cannot disturb them on this ground.\nAffirmed.\nBickford v. Hudson, 32 App.D.C. 480.\nWashington & 6. R. Co. v. Dashiell, 7 App.D.C. 507; Washington & 6. R. Co. v. Patterson, 9 App.D.C. 423.\nWashington, etc., R. Co. V; Dulany, 53 App.D.C. 67, 288 E. 421..\nNew York Cent. R. Co. v. Johnson, 279 U.S. 310, 49 S.Ct. 300, 73 L.Ed. 706.\nBerger v. United States, 295 U.S. 78, 55 S.Ct. 629, 79 L.Ed. 1314.\nPickford v. Hudson, 32 App.D.C. 480.\nHarrington v. Boston Elevated R. Co., 229 Mass. 421, 118 N.E. 880, 2 A. L.R. 1057.\nNew York Central R. Co. v. Johnson, 279 U.S. 310, 49 S.Ct. 300, 73 L.Ed. 706; Viereck v. United States, 63 S.Ct. 561, 87 L.Ed. \u2014, decided March 1, 1943. -\nSee Perry v. District Amusement Corp., 72 App.D.C. 323, 114 F.2d 484, 485, where defendant\u2019s counsel in argument to the jury stated that if plaintiff \u201chad not been unreasonable in her demands the case would not have been in court\u201d. This argument was held not prejudicial.\nOperative Plasterers\u2019, etc., v. Case, 68 App.D.C. 43, 52, 93 F.2d 56.\nBrooks v. District of Columbia, D. C.Mun.App., 31 A.2d 657.",
+        "type": "majority",
+        "author": "HOOD, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Harry S. Wender, of Washington, D. C. (H. Nathaniel Blaustein, of Washington, D. C., on the brief), for appellants.",
+      "R. E. Lee Goff, of Washington, D. C. (H. W. Kelly, of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "MEYER v. CAPITAL TRANSIT CO. (two cases).\nNos. 71, 72.\nMunicipal Court of Appeals for the District of Columbia.\nMay 21, 1943.\nHarry S. Wender, of Washington, D. C. (H. Nathaniel Blaustein, of Washington, D. C., on the brief), for appellants.\nR. E. Lee Goff, of Washington, D. C. (H. W. Kelly, of Washington, D. C., on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, . Associate Judges."
+  },
+  "file_name": "0392-01",
+  "first_page_order": 440,
+  "last_page_order": 442
+}

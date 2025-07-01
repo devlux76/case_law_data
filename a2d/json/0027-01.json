@@ -1,0 +1,211 @@
+{
+  "id": 8149146,
+  "name": "COSBY v. SHOEMAKER",
+  "name_abbreviation": "Cosby v. Shoemaker",
+  "decision_date": "1943-10-01",
+  "docket_number": "No. 105",
+  "first_page": "27",
+  "last_page": "29",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 A.2d 27"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "305 U.S. 424",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6142355
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/305/0424-01"
+      ]
+    },
+    {
+      "cite": "133 F.2d 43",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3646132
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/133/0043-01"
+      ]
+    },
+    {
+      "cite": "81 F.2d 414",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        938771
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/81/0414-01"
+      ]
+    },
+    {
+      "cite": "65 App.D.C. 150",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "269 P. 678",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 App.D.C. 162",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 App.D.C. 440",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1347882
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/20/0440-01"
+      ]
+    },
+    {
+      "cite": "85 L.Ed. 330",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 A.2d 690",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8153042
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/31/0690-01"
+      ]
+    },
+    {
+      "cite": "134 F.2d 417",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3651616
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/134/0417-01"
+      ]
+    },
+    {
+      "cite": "61 S.Ct. 347",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6142323,
+        6142556
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/311/0538-01",
+        "/us/311/0578-01"
+      ]
+    },
+    {
+      "cite": "311 U.S. 538",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6142323
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/311/0538-01"
+      ]
+    },
+    {
+      "cite": "318 U.S. 73",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        364322
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "469"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/318/0073-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 455,
+    "char_count": 6230,
+    "ocr_confidence": 0.666,
+    "pagerank": {
+      "raw": 4.973535110096472e-08,
+      "percentile": 0.3127508592199777
+    },
+    "sha256": "a1318665ca4a30b69d6120db4155d6236d07062456c8c366623576ac9ce51850",
+    "simhash": "1:47c6d30f1fc8a7a2",
+    "word_count": 1069
+  },
+  "last_updated": "2024-02-27T23:44:59.089938+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "COSBY v. SHOEMAKER."
+    ],
+    "opinions": [
+      {
+        "text": "CAYTON, Associate Judge.\nDefendant appeals from a judgment for possession entered against her in a landlord-tenant action.\nThe complaint charged that the tenant was violating an obligation of her tenancy and was using the premises for an unlawful purpose, in that the premises had been and were being operated in violation of the local Fire Escape Act, Code 1940, \u00a7 5' \u2014 -301. Said Act provided that where a building three or more stories in height was used for certain purposes (including that of a rooming house) and sleeping quarters for ten or more persons are provided above the first floor, the owner was required to provide and cause to be erected certain fire escapes.\nThe evidence established that defendant had leased the property for use as a \u201cguest house and tearoom\u201d and had permitted the premises above the first floor to be occupied by more than ten persons, as sleeping quarters; and that because of such occupancy the Commissioners of the District of Columbia had officially notified the owner to install fire escapes, and to provide certain metal coverings, fire proof enclosures, a fire alarm system and fire extinguishers.\nBecause of war conditions the owner was unable to make such installations and called upon defendant to bring her use of the premises within the provisions of the. Fire Escape Act. He offered to work out a new arrangement for the reduction of rent in line with the reduction of the number of defendant\u2019s roomers. Defendant took no action in that direction and did not reduce the number of roomers. Some months later this possessory action was commenced.\nThe property in suit, being used for dwelling purposes, was subject to the-Emergency Rent Control Act of December 2, 1941 and the landlord was not entitled to possession unless he could establish that the tenant had violated one of the four provisions of Section 5(b) of the Act. In view of what we say hereafter, it is not necessary that we decide and we do not hereby intend to decide whether the tenant was guilty of such a violation. For the law has been changed since the time of the alleged violation and after the filing of the suit. Such change came about by an Act of Congress approved December 24, 1942, Code 1940, \u00a7 5\u2014317. The effect of the new act was to relax the rigid provisions of the older statute and to vest in the Commissioners of the District of Columbia discretionary power to promulgate regulations concerning fire-prevention equipment and appliances. Pursuant to such Congressional authority, and after public hearing, the Commissioners on May 28, 1943 by official' order expressly modified the Building Code and provided that during the period of the existing emergency and not to exceed six months thereafter, in buildings of this type and height \u201cexisting exits shall be considered as sufficient and suitable means of egress, and no fire protective appliances will be required.\u201d\nAppellant relies, on that change in the law as having created a new legal situation and having rendered the litigation moot. We do not agree that the case is moot in the ordinary sense; for a controversy as to the right to possession still exists and will only be settled by our judgment and that ultimately entered in the trial court. But we do agree that a new legal situation has arisen and that the defendant is entitled to the protection of the new law! We rule that that law and the Commissioners\u2019 ordinance promulgated thereunder have by their curative effect rendered lawful and proper the occupancy which the trial court held unlawful.\nIn such a situation \u201ca change in the law between a nisi prius and an appellate decision requires the appellate court to apply the changed law.\u201d Ziffrin v. United States, 318 U.S. 73, 63 S.Ct. 465, 469, 87 L.Ed. \u2014, citing and following Vandenbark v. Owens-Illinois Glass Co., 311 U.S. 538, 61 S.Ct. 347, 85 L.Ed. 327.\nWe grant that there may be exceptions to the rule and also that the rule has not been uniformly followed ; but we feel it our duty to follow the two decisions just cited, representing as they do the latest expressions of the Supreme Court upon the subject. In doing so we also follow the rule as announced in four decisions of the United States Court of Appeals for this. District.\nWe think the rule is clearly applicable here for . the alleged violation had. not injured the physical property, the estate or the purse of the landlord; it had not permanently altered the status of the parties and the property is still being used for the very purpose contemplated under the-original letting. If the number of roomers- and the consequent demand by the District, for the installation of fire escapes gave rise-to the right to claim a forfeiture, such, right was dissolved by the new law.\nIn fairness to the trial judge we mention that there is nothing in the record to indicate that the new Act was relied upon by appellant at the trial or on her motion for a new trial; we mention also that the Commissioners\u2019 ordinance, above referred to, was not adopted until some eighteen days after judgment was ordered.\nNevertheless, on the authority of the cases cited, and in the circumstances here presented, we must apply the law as it is today. By doing so we prevent a forfeiture, and give effect to the purposes of the Emergency Rent Act.\nCosts here and in the trial court will be taxed against appellant.\nReversed and remanded for further proceedings consistent with this opinion.\nCode 1940, \u00a7 45\u20141601 et seq.\nMyers v. H. L. Rust, U.S.App.D.C., 134 F.2d 417; Shaffer v. Bowes, D.C.Mun.App., 31 A.2d 690.\nThe cases pro and con are collected in an annotation to the Vandenbark case, 85 L.Ed. 330.\nDabney v. Dabney, 20 App.D.C. 440; Payne v. Hearst, 50 App.D.C. 162, 269 P. 678; Ames & Co. v. Wallace, 65 App.D.C. 150, 81 F.2d 414; District of Columbia v. American Pharmacentical Ass\u2019n, U.S.App.D.C., 133 F.2d 43.\nSee Socony-Vacuum Oil Co. v. Smith, 305 U.S. 424, 59 S.Ct. 262, 83 L.Ed. 265.",
+        "type": "majority",
+        "author": "CAYTON, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Abraham Chaifetz, of Washington, D. C., for appellant.",
+      "Joseph T. Sherier, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "COSBY v. SHOEMAKER.\nNo. 105.\nMunicipal Court of Appeals for the District of Columbia.\nOct. 1, 1943.\nAbraham Chaifetz, of Washington, D. C., for appellant.\nJoseph T. Sherier, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0027-01",
+  "first_page_order": 73,
+  "last_page_order": 75
+}

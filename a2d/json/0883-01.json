@@ -1,0 +1,136 @@
+{
+  "id": 8156600,
+  "name": "WALSH v. COOPER",
+  "name_abbreviation": "Walsh v. Cooper",
+  "decision_date": "1943-02-02",
+  "docket_number": "No. 36",
+  "first_page": "883",
+  "last_page": "885",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 883"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "41 Stat. 297",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 A.L.R. 1238",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "267 F. 614",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3544722
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/267/0614-01"
+      ]
+    },
+    {
+      "cite": "50 App.D.C. 56",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 A.L.R. 165",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "256 U.S. 135",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3678585
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/256/0135-01"
+      ]
+    },
+    {
+      "cite": "295 F. 973",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3633118
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/295/0973-01"
+      ]
+    },
+    {
+      "cite": "54 App.D.C. 152",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 314,
+    "char_count": 3748,
+    "ocr_confidence": 0.683,
+    "pagerank": {
+      "raw": 2.1247826086310224e-07,
+      "percentile": 0.7650144854005002
+    },
+    "sha256": "3ad1f8ee0aebd990b383365463437fb7778345e28054f994a44e90945e818415",
+    "simhash": "1:634082753c8730b8",
+    "word_count": 638
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "WALSH v. COOPER."
+    ],
+    "opinions": [
+      {
+        "text": "CAYTON, Associate Judge.\nDefendant rented premises 21 K Street, Southeast from one Thomas P. Brown in 1936. Plaintiff purchased the property from Brown in May, 1942, and received an assignment of the rental contract. The following month he called upon defendant to (1) vacate the premises or (2) pay an increased rental or (3) purchase the property. When defendant failed to do any of these things, plaintiff served him with a thirty-day notice to quit, and upon said notice predicated the possessory action from which this appeal arose. In the complaint it is recited that the tenancy has been terminated by reason of a breach of covenant not to sublet. In the rental contract from Brown to the defendant there was a provision against subletting and against carrying on any business in the premises other than that of a dwelling. It also provides: \u201cthat if, under the provisions of this agreement, default be made and a compromise or settlement shall be made thereupon it shall not constitute a waiver of any covenant herein contained.\u201d\nDefendant does not personally occupy the house but has furnished it, and sublets to two families, each of whom pays him approximately $4.70 per week. He in turn pays the landlord $15 per month under the terms of his rental contract.\nIt is clear from the record that plaintiff accepted rent from the defendant with full knowledge that defendant was subletting the house to others. Indeed plaintiff had collected part of rentals due from sub-tenants and applied it toward rent due from defendant. The record does not reveal that plaintiff objected to the subletting at any time before commencing the ouster proceedings. Upon this showing the trial judge refused to evict the defendant and those who held under him and ordered judgment for defendant. On the authority of Merritt v. Kay, 54 App.D.C. 152, 295 F. 973, we hold that the trial judge ruled correctly. Here, as there, there was an acceptance of rent with full knowledge of the subletting. Moreover, it was clear that from the inception of the tenancy it was not for the personal occupancy of defendant, but for the express purpose of subletting. That was the established arrangement between defendant and original less- or. That was the state of the tenancy when plaintiff acquired the property and the assignment of the rental contract. He accepted the tenancy as he found it and approved defendant\u2019s status. He cannot now be permitted to assert a claim which he has so clearly waived.\nAppellant contends that it was error to have admitted or considered the evidence relating to the attempt of plaintiff to raise the rent or force the defendant to buy the property. We think the evidence was clearly admissible, for it had a direct bearing on the question of waiver.\nPlaintiff questions the constitutionality of section 5(b) of the Emergency Rent Control Act. He claims that it violates the Fifth Amendment to the Constitution. While our decision does not depend upon that or any other section of the Act, we direct attention to the fact that the constitutional question has been settled by the Supreme Court in Block v. Hirsh, 256 U.S. 135, 41 S.Ct. 458, 65 L.Ed. 865, 16 A.L.R. 165 (reversing the decision in 50 App.D.C. 56, 267 F. 614, 11 A.L.R. 1238) in construing the Ball Rent Act, which was enacted to meet an earlier war emergency in this District\nAffirmed. -\nAct of December 2, 1941, Public Law 327 \u2014 77th Congress. D.C.Code 1940, \u00a7 45\u2014 1605(b).\n41 Stat. 297, 298, 301.",
+        "type": "majority",
+        "author": "CAYTON, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "James T. Barbour, Jr. of Washington, D. G, for appellant.",
+      "Ben Lindas, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "WALSH v. COOPER.\nNo. 36.\nMunicipal Court of Appeals for the District of Columbia.\nFeb. 2, 1943.\nJames T. Barbour, Jr. of Washington, D. G, for appellant.\nBen Lindas, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0883-01",
+  "first_page_order": 931,
+  "last_page_order": 933
+}

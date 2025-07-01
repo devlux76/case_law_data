@@ -1,0 +1,75 @@
+{
+  "id": 8152688,
+  "name": "MAZO v. ED. L. STOCK, Inc.",
+  "name_abbreviation": "Mazo v. Ed. L. Stock, Inc.",
+  "decision_date": "1942-12-16",
+  "docket_number": "No. 12",
+  "first_page": "660",
+  "last_page": "662",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 660"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "56 Stat. 192",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 279,
+    "char_count": 4636,
+    "ocr_confidence": 0.714,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.6032218480691345
+    },
+    "sha256": "6465d4a92be61110914ec2be4f11f3ed04d35bfa3eedee5370692e90e9afb2c4",
+    "simhash": "1:693ec00fa490ec87",
+    "word_count": 773
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "MAZO v. ED. L. STOCK, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "HOOD, Associate Judge.\nPrior to December 31, 1940, Ed. L. Stock, Inc., a corporation, appellee herein, secured a judgment in the United States District Court for the District of Columbia against one Lepley, and thereafter filed a creditor\u2019s bill against Lepley seeking discovery and collection of that judgment. In consideration of the discontinuance of the creditor\u2019s suit, Louis Miller executed and delivered his promissory note in the sum of $300.00, dated December 31, 1940, with interest at 6% per annum, payable in monthly in-stalments of not less than $50.00 and interest. This note was made payable to the order of Edw. L. Stock, the president and chief stockholder of Ed. L. Stock, Inc. The note was executed by Miller as an accommodation for Lepley and was given as collateral security for the payment of the Lepley judgment and in consideration of the discontinuance of the creditor\u2019s suit.\nThereafter appellee brought two actions upon the Miller note for collection of unpaid instalments. The first of such suits was settled and dismissed upon payment by Lepley in the presence of Miller of $53.00, $50.00 of which was applied to principal and $3.00 to interest. In the second suit, judgment was taken against Miller by default. The $53.00 payment, besides being credited on the Miller note, was likewise credited on the Lepley judgment.\nMiller having died, the present action was brought below against the administrator of his estate for the collection of the unpaid balance of the note. Jurisdiction of the lower court to entertain suit against an administrator is given by Section 4(a) of the Municipal Court Act of April 1, 1942.\nThe trial court awarded judgment in favor of the plaintiff for the unpaid balance of the note and from that judgment this appeal was taken. The case was submitted on briefs without argument.\nAppellant makes two main contentions, namely, (1) that appellee was not entitled to maintain this suit, and (2) absence of consideration for the note. In view of the two former suits, it is doubtful that either contention is timely made, but we shall nevertheless consider them.\nThe note was made payable to Edw. L. Stock and bore two indorsements, one \u201cFor Collection Account of Edward L. Stock,\u201d and the other \u201cWithout recourse to me. Edw. L. Stock.\u201d The indorsements were not dated and it is not evident from the note or the record which indorsement was first made. Appellant argues that the indorsements show the note to be the personal property of Edward L. Stock and that the corporation, therefore, had no right to bring suit upon the note. However, the corporation had possession of the note and had previously brought two actions upon it, and there was positive testimony that the note was its property. If the indorsement \u201cWithout recourse to me\u201d is accepted as the controlling indorsement, appellee undoubtedly had a right to bring suit, for a note indorsed in blank may be negotiated by delivery. On the other hand, if we accept the indorsement \u201cFor Collection Account of Edward L. Stock\u201d as the controlling indorsement, it constituted a restrictive indorsement, conferring upon the indorsee the right to bring any action that the indorser could bring. Under either indorsement appellee is plainly entitled to maintain the suit.\nWith respect to the contention of absence of consideration, appellant argues that since the note was payable to Stock personally and it was the corporation which dismissed its suit, no consideration existed for the giving of the note to Stock personally. In view of the fact that the note was executed by Miller in consideration of the dismissal of the suit against Lepley, it is not material whom the corporation designated as payee. The corporation could have taken the note payable to itself, to its agent or even to a total stranger, and likewise could have taken the note payable to itself and then indorsed it to anyone it pleased. The . consideration \u2014 the discontinuance of the creditor\u2019s suit \u2014 remained the same.\nWe have examined the other points raised in appellant\u2019s brief and find them to be without merit. The judgment of the lower court was correct and is therefore affirmed.\nAffirmed.\nPublic Law No. 512, 77tb Congress, 2d Sess., 56 Stat. 192.\nD.C.Code (1940) tit. 28, sec. 305.\nD.C.Code (1940) tit. 28, sec. 308.",
+        "type": "majority",
+        "author": "HOOD, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "William Mazo and Morris Abrams, both of Washington, D. C., for appellant.",
+      "James F. Bird and H. G. Warburton, both of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "MAZO v. ED. L. STOCK, Inc.\nNo. 12.\nMunicipal Court of Appeals for the District of Columbia.\nDec. 16, 1942.\nWilliam Mazo and Morris Abrams, both of Washington, D. C., for appellant.\nJames F. Bird and H. G. Warburton, both of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0660-01",
+  "first_page_order": 708,
+  "last_page_order": 710
+}

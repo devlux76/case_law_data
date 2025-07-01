@@ -1,0 +1,216 @@
+{
+  "id": 8155877,
+  "name": "HESLOP v. ROBERT A. GRAHAME, Inc.",
+  "name_abbreviation": "Heslop v. Robert A. Grahame, Inc.",
+  "decision_date": "1942-11-23",
+  "docket_number": "No. 11",
+  "first_page": "856",
+  "last_page": "857",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 856"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "9 App.D.C. 392",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1325278
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/9/0392-01"
+      ]
+    },
+    {
+      "cite": "44 L.Ed. 163",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1239493
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0281-01"
+      ]
+    },
+    {
+      "cite": "20 S.Ct. 115",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1250823
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0574-01"
+      ]
+    },
+    {
+      "cite": "175 U.S. 281",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1239493,
+        1250823
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0281-01",
+        "/alaska-fed/1/0574-01"
+      ]
+    },
+    {
+      "cite": "148 U.S. 245",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3567743
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/148/0245-01"
+      ]
+    },
+    {
+      "cite": "129 F.2d 57",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1158700
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/129/0057-01"
+      ]
+    },
+    {
+      "cite": "89 F.2d 863",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1270558
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/89/0863-01"
+      ]
+    },
+    {
+      "cite": "67 App.D.C. 119",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "266 F. 1018",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6738133
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/266/1018-01"
+      ]
+    },
+    {
+      "cite": "49 App.D.C. 398",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 F.2d 554",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1014556
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/92/0554-01"
+      ]
+    },
+    {
+      "cite": "68 App.D.C. 5",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "299 F. 886",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        1273580
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/299/0886-01"
+      ]
+    },
+    {
+      "cite": "55 App.D.C. 21",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 266,
+    "char_count": 3392,
+    "ocr_confidence": 0.72,
+    "pagerank": {
+      "raw": 3.7458613743135855e-07,
+      "percentile": 0.8949950363901524
+    },
+    "sha256": "f0ad92ede28240668afd714a56dea9a9389f83fe38dd7a446a37f907a551cf55",
+    "simhash": "1:076bd6657d261adf",
+    "word_count": 580
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "HESLOP v. ROBERT A. GRAHAME, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "HOOD, Associate Judge.\nAppellant brought suit below on an open account. Trial was had before the court without a jury, resulting in a finding and judgment for the defendant.\nThe record on appeal contains two statements of proceedings and evidence, one being entitled \u201cPlaintiff\u2019s Statement of Proceedings and Evidence,\u201d and the other \u201cDefendant\u2019s Statement of Proceedings and Evidence.\u201d The two statements are in conflict as to the proceedings had and evidence received at the trial, yet both were approved by the trial judge. This situation is accounted for by appellant in his brief with the statement that \u201cthe trial judge did not sufficiently recall the evidence at that date to pass upon the contentions of opposing counsel, so by agreement of counsel he approved and sent up contentions of both sides which are in conflict.\u201d\nRule 25 of this court requires all statements of proceedings and evidence to be submitted to and approved by the trial court.\nBy Rule 27(g), (i) and (j) appellant'is required to file and submit to the trial judge a statement of proceedings and evidence; appellee is permitted to file objections to that statement; and the trial judge is required to settle and approve the statement.\nA statement of proceedings and evidence properly settled and approved by the trial judge must be accepted by this court as correct (Graziani v. Arundell et al., 55 App.D.C. 21, 299 F. 886; Klingstein v. Thomas Circle Cafe, 68 App.D.C. 5, 92 F.2d 554), and this court can consider only what the record discloses. Davidge v. Simmons, 49 App.D.C. 398, 266 F. 1018; Harrah et al. v. Morgenthau, 67 App.D.C. 119, 89 F.2d 863. See, also, Marvin\u2019s Credit, Inc. v. Hall, App.D.C., 129 F.2d 57.\nIn the instant case the trial judge did not settle the statement, but instead approved two conflicting statements. We have neither power nor means of determining what actually occurred at the trial; that is to be settled and determined by the trial court.\nArgument at the hearing was limited to the question of our right to hear the appeal in this state of the record. Consideration of the question and examination of the record convinces us it would be both improper and useless to attempt to pass upon the merits without a record which we can accept as conclusive.\nThis case is remanded to the trial court to settle the differences existing as to what occurred at the trial, and to approve and send to this court one correct statement of proceedings and evidence. If it is impossible for the trial judge to settle the statement of proceedings and evidence, he should set aside the judgment and order a new trial (Hume v. Bowie, Adm\u2019r, 148 U.S. 245, 13 S.Ct. 582, 37 L.Ed. 438; Malony v. Adsit, 175 U.S. 281, 20 S.Ct. 115, 44 L.Ed. 163; Evans v. Humphreys, 9 App.D.C. 392), but since this would deprive appel-lee of the benefit of a judgment already obtained, it is hoped that the trial judge will again make an earnest effort to determine what occurred at the trial and to embody such determination in a single ' approved statement.\nRemanded for further proceedings in accordance with this opinion.",
+        "type": "majority",
+        "author": "HOOD, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Vivian O. Hill, of Washington, D. C., for appellant.",
+      "Douglas A. Clark, of Washington, D. Cv for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "HESLOP v. ROBERT A. GRAHAME, Inc.\nNo. 11.\nMunicipal Court of Appeals for the District of Columbia.\nNov. 23, 1942.\nVivian O. Hill, of Washington, D. C., for appellant.\nDouglas A. Clark, of Washington, D. Cv for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0856-01",
+  "first_page_order": 904,
+  "last_page_order": 905
+}

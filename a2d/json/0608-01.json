@@ -1,0 +1,165 @@
+{
+  "id": 8155473,
+  "name": "DOGGETT v. KING, for Use of FIDELITY PHOENIX FIRE INS. CO.",
+  "name_abbreviation": "Doggett v. King ex rel. Fidelity Phoenix Fire Ins.",
+  "decision_date": "1943-11-16",
+  "docket_number": "No. 136",
+  "first_page": "608",
+  "last_page": "609",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "34 A.2d 608"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "48 App.D.C. 54",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1775758
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/48/0054-01"
+      ]
+    },
+    {
+      "cite": "94 A. 288",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 Conn. 353",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        1626805
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/89/0353-01"
+      ]
+    },
+    {
+      "cite": "147 N.W. 577",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "180 Mich. 609",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1655835
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/180/0609-01"
+      ]
+    },
+    {
+      "cite": "67 F.2d 482",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        284990
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/67/0482-01"
+      ]
+    },
+    {
+      "cite": "6 F.2d 711",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1674017,
+        4067979
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/6/0711-01"
+      ]
+    },
+    {
+      "cite": "56 App.D.C. 13",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        4067979
+      ],
+      "opinion_index": 0,
+      "case_paths": []
+    },
+    {
+      "cite": "34 A. 2d 259",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8151526
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/34/0259-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 369,
+    "char_count": 5304,
+    "ocr_confidence": 0.684,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.6032193382703007
+    },
+    "sha256": "b4051eb7d655594b2730100059e88fb719e9b7ecf44714b92dc8566d2d6366d4",
+    "simhash": "1:bb63d9c73c90036d",
+    "word_count": 917
+  },
+  "last_updated": "2024-02-27T23:44:59.089938+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "DOGGETT v. KING, for Use of FIDELITY PHOENIX FIRE INS. CO."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nThis action was for damages to appellee\u2019s automobile stolen from a parking lot operated by appellant. Plaintiff had judgment in a trial by the court, from which defendant has appealed.\nPlaintiff had parked his car on defendant\u2019s lot for about five years. He had signed an \u201cAutomobile Storage Agreement\u201d, terminable on notice, the pertinent parts of which follow:\n\u201c1. Storage space shall be provided between the hours of 8 :00 A. M. and 6 :30 P. M. daily, except Sundays and Holidays.\u201d\n\u201c3. It is understood and agreed that the lessor assumed no liability whatsoever for any loss to any car covered by this agreement after the hour of 6:30 P. M., when the lot is unattended.\u201d\nThis agreement provided for a monthly payment of $6, which rate continued throughout the entire period.\nThe parking lot was extensive in area, with entrances on three streets. Lot attendants were assigned to different sections. Plaintiff was allotted space in a section in charge of one Kover. It was necessary for the attendants to move cars during the day, and customers, including plaintiff, were on instruction of defendant requested by attendants to leave ignition keys in their cars.\nAt various times during the five-year period plaintiff brought his car to the lot before 8 o\u2019clock. Sometimes when this occurred Kover was present to receive the car, and at other times no one was in attendance. Plaintiff was told by Kover to leave his car on the lot, placing the key over the sun visor, if no one was in charge when he arrived.\nLater a change in plaintiff\u2019s office hours required him to park his car regularly before 8 o\u2019clock, and he was then again told by Kover to place it on the lot, leaving the key over the sun visor.\nOn the morning of March 10, 1943, at 7:45 o\u2019clock, plaintiff left his car on the lot as directed. No attendant was present. Kover arrived at 8:30 or 8:45 o\u2019clock and does not recall seeing plaintiff\u2019s car on that day. He testified that another attendant was present when he arrived. That afternoon it was discovered that plaintiff\u2019s car was missing. It had been stolen and was recovered a few days later in a damaged condition.\nThere was no evidence indicating when the theft occurred. The attendant present when Kover arrived was not identified or called as a witness. It does not appear, except by inference, what were Kover\u2019s hours of employment or authority.\nThe trial court found that the relation of bailor and bailee had been established, and that the theft resulted from defendant\u2019s negligence.\nIf the deposit of plaintiff\u2019s car on the lot before 8 o\u2019clock in the absence of attendants may be regarded as delivery to defendant, then the relationship of the parties was that of bailor and bailee, and defendant\u2019s liability would follow, subject to affirmative evidence on his part to rebut the presumption of negligence.\nThe critical point is whether, notwithstanding the written agreement between the parties, Kover was authorized to direct plaintiff to leave his car on the lot at an earlier hour than 8 A. M. Unless such authority may be implied from the fact that he was defendant\u2019s employee in charge of that section of the parking lot, there is no basis in the record for determining his authority. It was not shown that he fixed or collected fees for transient or monthly parking. It was not shown that the lot was open for parking, or that other cars were parked, or that any attendants were regularly present before 8 o\u2019clock. Nor was it shown that defendant knew of any general custom, or special practice in regard to plaintiff, of permitting parking on his lot before 8 o\u2019clock, or that he had actual knowledge that plaintiff or others did so park, or that by his acquiescence he may have ratified that practice. He had other business and was at this lot a part of each day.\nOrdinarily an employee hired to receive and park cars is not a general agent. His duties are not of a nature authorizing a court to imply broader powers. The burden of proof rested on plaintiff to show delivery to defendant as bailee before a presumption of negligence would result from the failure to return, and this required plaintiff to produce evidence of authority in Kover or to show ratification by defendant of an otherwise unauthorized practice.\nIn the absence of evidence that the car was stolen after defendant\u2019s employees had assumed custody of it, or evidence that defendant had authorized the car to be left unattended in the absence of his employees, the judgment must be reversed.\nReversed and remanded for new trial.\nQuinn v. Milner, D.C.Mun.App., 34 A. 2d 259.\nQuinn v. Milner, supra; Medes v. Hornbach, 56 App.D.C. 13, 6 F.2d 711.\nChesapeake & Ohio R. Co. v. Ringstaff, 6 Cir., 67 F.2d 482; Reinforced Concrete Co. v. Boyes, 180 Mich. 609, 147 N.W. 577; Quint v. O\u2019Connell, 89 Conn. 353, 94 A. 288; Longworth v. Conwell, 2 Blackf., Ind., 469; 2 C.J.S., Agency, \u00a7 96, p. 1214. See also Crane v. Postal Telegraph Cable Co., 48 App.D.C. 54.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Arthur C. Katims, of Washington, D. C., for appellant.",
+      "Stuart H. Robeson, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "DOGGETT v. KING, for Use of FIDELITY PHOENIX FIRE INS. CO.\nNo. 136.\nMunicipal Court of Appeals for the District of Columbia.\nNov. 16, 1943.\nArthur C. Katims, of Washington, D. C., for appellant.\nStuart H. Robeson, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0608-01",
+  "first_page_order": 654,
+  "last_page_order": 655
+}

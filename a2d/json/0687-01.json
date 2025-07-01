@@ -1,0 +1,201 @@
+{
+  "id": 8153003,
+  "name": "ROSASCO v. SOWDER et al.",
+  "name_abbreviation": "Rosasco v. Sowder",
+  "decision_date": "1943-02-05",
+  "docket_number": "No. 39",
+  "first_page": "687",
+  "last_page": "690",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 687"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "77 A.L.R. 582",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Wyo. 233",
+      "category": "reporters:state",
+      "reporter": "Wyo.",
+      "case_ids": [
+        11263009
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wyo/43/0233-01"
+      ]
+    },
+    {
+      "cite": "131 A. 350",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "351"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "149 Md. 281",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2276493
+      ],
+      "pin_cites": [
+        {
+          "page": "285"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/149/0281-01"
+      ]
+    },
+    {
+      "cite": "104 A.L.R. 54",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "231 Ala. 497",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3654112
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/231/0497-01"
+      ]
+    },
+    {
+      "cite": "4 F.Supp. 25",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4129427
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/4/0025-01"
+      ]
+    },
+    {
+      "cite": "99 N.E. 1051",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "213 Mass. 182",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        839819
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/213/0182-01"
+      ]
+    },
+    {
+      "cite": "40 App.D.C. 480",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1773838
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/40/0480-01"
+      ]
+    },
+    {
+      "cite": "97 N.E. 920",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "pin_cites": [
+        {
+          "page": "921"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "211 Mass. 156",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        476933
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/211/0156-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 492,
+    "char_count": 7871,
+    "ocr_confidence": 0.703,
+    "pagerank": {
+      "raw": 1.0873401050065135e-07,
+      "percentile": 0.5644452630249872
+    },
+    "sha256": "3ae78fc456cd70a73fa07d3494fec75ce49874ff9432b1d42fa04097047d250f",
+    "simhash": "1:ae8cd5c6a92d4604",
+    "word_count": 1349
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "ROSASCO v. SOWDER et al."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nThis suit was for damages to appellants\u2019 trees and shrubbery caused by the intrusion of appellee Sowder\u2019s automobile into appellants\u2019 front yard. Defendants in the suit were appellee Sowder and appellee W. H. Hessick & Sons, Inc.\nA second suit, not before us on this appeal, was filed by Sowder against Hes-sick for damage to the Sowder car.\nBoth suits resulted from a collision of automobiles of the respective appellees at the intersection of Reno Road and Davenport Street, on the southwest corner of which appellants\u2019 residence is located. The Sowder car, going west on Davenport Street, was deflected from its course by the impact of the Hessick car, going south on Reno Road, resulting in the invasion of appellants\u2019 premises.\nThe negligence of the Hessick driver was an issue in both cases. Having in common this issue of fact, the two cases were consolidated for trial and heard by the court without a jury.\nAppellants, as plaintiffs, offered evidence showing the presence of the Sowder car on their premises and the extent of the damage caused by it. At the conclusion of their evidence, the appellee Hessick moved for the entry of a finding in his favor in appellants\u2019 action upon the ground that no evidence of negligence in the operation of his car had been offered. The court ruled that it would defer action on the motion \u201cuntil the other case is in.\u201d\nThereupon Sowder produced testimony directed to the issue of negligence of the driver of the Hessick car, and Hessick offered evidence in rebuttal.\nThis evidence may be briefly summarized. The two streets at the intersection of which the collision occurred are of equal width. Reno Road is a boulevard street, traffic on which is given preference. On Davenport Street, twelve feet back of the intersection and facing westbound traffic, is a \u201cStop\u201d sign. From this point an automobile on Reno Road approaching from the right is visible for about one hundred feet from the intersection.\nThe collision occurred about 7:30 o\u2019clock on the evening of December 13, 1941. At the time it was foggy, visibility was poor, and the streets were wet.\nThe driver of the Sowder car stopped three feet back of the traffic sign, looked to right and left, did not see approaching traffic, and proceeded across the intersection. She testified that she did not see the Hessick car until it was about ten feet away, a second before the impact of its front against the right front door of her car. She did not say whether she looked again for approaching traffic after starting from the point three feet back of the sign. She was unable to say whether the lights on her car were the bright, dim, or parking lights.\nThe driver of the Hessick car testified that his speed was twenty-five miles per hour; that he did not see the Sowder car until its front fender came into the radius of his headlights, and it was then impossible to avoid the collision. He states that the only lights showing on the Sowder car were those on the dashboard and the parking light. A neighbor, hearing the crash, arrived at the scene when the driver of the Sowder car was being lifted out of her seat. He testified that the headlights of the Sowder car were not on at that time and that later he saw another neighbor turn off the dash and parking lights.\nAt the conclusion of the evidence the trial judge stated that in his opinion the driver of the Sowder car was not \u201ccareful enough in entering that intersection\u201d and \u201cproceeded on without being able to take proper precaution\u201d; that on the other 'hand, the driver of the Hessick car \u201cwas going too fast into that intersection at twenty-five, miles per hour.\u201d But he concluded that neither driver was negligent and entered findings for both defendants.\nAppellee Hessick claims that his motion for a finding should have been granted at the conclusion of the evidence submitted by appellants, or at the conclusion of the whole case upon consideration of appellants\u2019 evidence. He insists that the finding should have been predicated upon appellants\u2019 evidence alone, and that the evidence adduced by the other parties should not have been considered. In taking this stand, however, he fails to recognize the realities presented when cases of this kind are consolidated for trial and heard together.\nThe objects of such consolidations are to save the repetition of testimony,and the delays and expense incident to several trials of a common issue of fact. This is well illustrated in the case of Burke v. Hodge, 211 Mass. 156, 97 N.E. 920, 921, Ann.Cas.1913B, 381, where three workmen were injured by the falling of a wall. Each sued separately his employer and the contractor. The six suits were consolidated for trial. In approving this action of the presiding judge the court stated that \u201cin the interest of economy of time and expense\u201d the practice of consolidating actions \u201cdepending in great degree upon the same evidence\u201d had been recognized for many years. No useful purpose would have been served if any one case had been required to stand alone upon its own evidence.\nIn our opinion the effect of a consolidation of cases for trial is to dispose of a common issue in one hearing, thereby avoiding several trials. Parties asserting the affirmative of the common issue are in legal effect united as plaintiffs. The issue is to be determined upon consideration of the evidence as a whole of those holding the affirmative, and the court cannot segregrate the evidence and, as to one plaintiff, decide the common issue as to him upon his evidence alone. We think the court was right in postponing consideration of the motion for a finding in favor of the appellee Hessick until Sowder\u2019s evidence had been submitted.\nThe alleged error relied upon by appellants involves (1) an apparent inconsistency between the findings of the trial court and its conclusions, and (2) whether the ultimate finding was justified by the evidence.\nThis ultimate finding of the trial judge was that the collision was an unavoidable accident.\nThe usual definition of \u201cunavoidable accident\u201d is stated by Judge Urner of the Maryland Court of Appeals as follows : \u201cAn unavoidable accident, as a subject of judicial inquiry, is one which could not have been obviated by the exercise of legally requisite care by any of the persons whose responsibility for the occurrence is asserted or denied. If either the plaintiff or defendant could have averted the accident by proper care, it could not 'be said to have been unavoidable.\u201d\nIn view of the specific findings of lack of care on the part of both appellees, based upon substantial evidence, the ultimate conclusion was obviously in error, unless as to one or the other the court had further found that their negligence was not a contributing cause of the collision. Apparently the latter was not considered by the trial court and we cannot determine it on this appeal.\nThe judgment is reversed and the case remanded with instructions to grant a new trial.\nReversed.\nFirst Nat. Bank v. Fox, 40 App.D.C. 480; Lumiansky v. Tessier, 213 Mass. 182, 99 N.E. 1051, Ann.Cas.1913E, 1049; National Union Fire Insurance Co. v. Chesapeake & Ohio R. Co., D.C., 4 F.Supp. 25; Ex parte Ashton, 231 Ala. 497, 165 So. 773, 104 A.L.R. 54.\nDwyer v. Chew, 149 Md. 281, 285, 131 A. 350, 351.\nO\u2019Hally v. Eagan, 43 Wyo. 233, 2 P.2d 1063, 77 A.L.R. 582.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "H. Max Ammerman, of Washington, D. C., (Louis Ottenberg, of Washington, D. C., on the brief), for appellants.",
+      "Stephen G. Ingham, of Washington, D. C., for appellee Edwin M. Sowder.",
+      "Ward B. McCarthy, of Washington, D. C., (Leonard J. Ganse and Carl F. Bauersfeld, both of Washington, D. C., on the brief), for appellee W. H. Hessick & Sons, Inc."
+    ],
+    "corrections": "",
+    "head_matter": "ROSASCO v. SOWDER et al.\nNo. 39.\nMunicipal Court of Appeals for the District of Columbia.\nFeb. 5, 1943.\nH. Max Ammerman, of Washington, D. C., (Louis Ottenberg, of Washington, D. C., on the brief), for appellants.\nStephen G. Ingham, of Washington, D. C., for appellee Edwin M. Sowder.\nWard B. McCarthy, of Washington, D. C., (Leonard J. Ganse and Carl F. Bauersfeld, both of Washington, D. C., on the brief), for appellee W. H. Hessick & Sons, Inc.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0687-01",
+  "first_page_order": 735,
+  "last_page_order": 738
+}

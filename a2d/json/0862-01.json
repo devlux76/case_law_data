@@ -1,0 +1,171 @@
+{
+  "id": 8156063,
+  "name": "MacDONALD, to Use of EMMCO INS. CO., Inc., v. CAPITAL TRANSIT CO.",
+  "name_abbreviation": "MacDonald ex rel. Emmco Ins. Co. v. Capital Transit Co.",
+  "decision_date": "1943-05-11",
+  "docket_number": "No. 66",
+  "first_page": "862",
+  "last_page": "864",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 862"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "39 App.D.C. 316",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1820452
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/39/0316-01"
+      ]
+    },
+    {
+      "cite": "42 App.D.C. 532",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1785453
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/42/0532-01"
+      ]
+    },
+    {
+      "cite": "99 F.2d 380",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        986272
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/99/0380-01"
+      ]
+    },
+    {
+      "cite": "69 App.D.C. 147",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 App.D.C. 169",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1362811
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/35/0169-01"
+      ]
+    },
+    {
+      "cite": "76 F.2d 985",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        958189
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/76/0985-01"
+      ]
+    },
+    {
+      "cite": "64 App.D.C. 215",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 App.D.C. 332",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1359528
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/33/0332-01"
+      ]
+    },
+    {
+      "cite": "34 App.D.C. 559",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1361000
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/34/0559-01"
+      ]
+    },
+    {
+      "cite": "56 Stat. 196",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 379,
+    "char_count": 5842,
+    "ocr_confidence": 0.715,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.603221461946237
+    },
+    "sha256": "b3c51babb71b7010040c6f0c5b11bdb7d1c94fde6ebfbb3a52287ba1707bd8e8",
+    "simhash": "1:2157a3c91e2118e4",
+    "word_count": 1014
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "MacDONALD, to Use of EMMCO INS. CO., Inc., v. CAPITAL TRANSIT CO."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nSuit was brought by the owner of an automobile for damages caused to it by the alleged negligent operation of a street car of the- defendant Transit Company. The case was tried by the court without a jury. Judgment was for defendant upon a finding that the car colliding with plaintiff\u2019s automobile was not negligently operated by defendant\u2019s motorman. Plaintiff has appealed. As the question on this appeal is whether the trial court\u2019s finding \u201cis plainly wrong or without evidence to support it\u201d a statement of the pertinent facts will be necessary.\nOn the morning of September 8, 1942, plaintiff was operating his automobile in an easterly direction on Rhode Island Avenue, N. E. Several blocks west of the underpass beneath the tracks of the Baltimore & Ohio Railroad, he had passed defendant\u2019s street car and had then preceded it along that portion of the street occupied by the car tracks through and to a point 200 feet beyond the underpass.\nAs he emerged from the underpass, plaintiff observed an automobile on the car tracks approximately 200 feet ahead. This automobile driven by one Albright had come from the opposite direction; had made a left turn to cross the tracks, and had been unable to proceed further because of the line of traffic eastbound between the tracks and the curb. A westbound street car was then approaching that automobile, which clearing the westbound track, and unable to advance further, had come to a stop on the eastbound tracks.\nPlaintiff, who was travelling at a speed of 15 to 20 miles per hour as he came from the underpass and became aware of this situation, began to slow his automobile by applying its brakes, until he reached a point close to the obstructing automobile, where he stopped. The westbound street car passed at approximately that time. A moment later his automobile was struck from the rear by the street car which followed him. He did not know where this car was when he came to a stop.\nThe foregoing facts were undisputed. In all substantial details they were corroborated by disinterested witnesses to the collision.\nThe motorman, operating the street car involved, testified as a witness for defendant. He stated that he saw plaintiff\u2019s automobile before entering the underpass, and \u201cwhen he was coming out of the underpass he saw the MacDonald automobile with brake lights on and off and that he applied his brakes.\u201d He was 30 to 40 feet behind it when it came to a stop. He threw on the emergency, but realized he could not stop in time to avoid a collision. The speed of his car was about 15 miles per hour, at which he could stop in 50 to 60 feet.\nThis covers the entire testimony of the operator of the street car. He does not state whether or not he observed the conditions before him which required plaintiff to stop. Although he saw plaintiff\u2019s brake lights flashing when he emerged from the underpass, 200 feet from the point where the collision occurred, he offers no explanation of the fact that he was going at a speed of 15 miles per hour, 30 t\u00f3 40 feet behind plaintiff when the latter came to a full stop.\nDefendant also produced the operator of its car passing on the westbound track. He testified that his car \u201chad passed the Albright automobile just as the MacDonald automobile was coming to a stop.\u201d As the Albright automobile must have cleared the westbound tracks and stopped on the eastbound tracks before this car passed, it is clear that it was not suddenly projected in front of the on-coming automobile and street car, and did not create an emergency which would have made the collision unavoidable.\nA street car company has a preferential but not the exclusive right to use that portion of the streets occupied by its tracks. That area of the street is not withdrawn from the public use. Each must exercise its right with reasonable regard for the other.\nThe United States Court of Appeals for this district has declared that this exercise of reasonable care on the part of the company requires the car operator \u201cto keep a diligent lookout ahead so that the car may be stopped in time, if possible, to avoid injury\u201d; \u201cto have his car under ready control so that it may be readily stopped when the danger is found to be imminent\u201d. It has held that the duty to avoid a collision is not postponed until the car operator has actual knowledge of the peril ahead but arises when by the exercise of reasonable care he would have realized it.\nIn our opinion the operator of defendant\u2019s car failed to observe or appreciate the very obvious situation before him and proceeded, closely following plaintiff\u2019s automobile, at a speed and to a point where a collision was inevitable, and this notwithstanding the fact that as he emerged from the underpass he had been warned of danger by the application of plaintiff\u2019s brakes.\nReversed and remanded for new trial.\nPublic Law 512 \u2014 77th Congress, Act April 1, 1942, 56 Stat. 196, \u00a7 7.\nCapital Traction Co. v. Apple, 34 App.D.C. 559; Capital Traction Co. v. Divver, 33 App.D.C. 332.\nCapital Traction Co. v. Apple (cited in Note 2); Kelly Furniture Co. v. Washington Ry. & Elec. Co., 64 App.D.C. 215, 76 F.2d 985; Capital Traction Co. v. Crump, 35 App.D.C. 169.\nCases cited in Note 3.\nJackson v. Capital Transit Co., 69 App.D.C. 147, 99 F.2d 380; Washington-Virginia R. Co. v. Himelright, 42 App.D.C. 532; Washington Ry. & Elec. Co. v. Cullember, 39 App.D.C. 316.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Samuel Barker, of Washington, D. C. (William R. Lichtenberg, of Washington, D. G, on the brief), for appellant.",
+      "R. E. Lee Goff, of Washington, D.. C. (Bowen and Kelly, of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "MacDONALD, to Use of EMMCO INS. CO., Inc., v. CAPITAL TRANSIT CO.\nNo. 66.\nMunicipal Court of Appeals for District of Columbia.\nMay 11, 1943.\nSamuel Barker, of Washington, D. C. (William R. Lichtenberg, of Washington, D. G, on the brief), for appellant.\nR. E. Lee Goff, of Washington, D.. C. (Bowen and Kelly, of Washington, D. C., on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0862-01",
+  "first_page_order": 910,
+  "last_page_order": 912
+}

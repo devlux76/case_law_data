@@ -1,0 +1,626 @@
+{
+  "id": 8155944,
+  "name": "ZWEIG v. SCHWARTZ",
+  "name_abbreviation": "Zweig v. Schwartz",
+  "decision_date": "1943-02-05",
+  "docket_number": "No. 35",
+  "first_page": "857",
+  "last_page": "861",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 857"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "317 U.S. 369",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        304055
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/317/0369-01"
+      ]
+    },
+    {
+      "cite": "156 Ala. 500",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3503594
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/156/0500-01"
+      ]
+    },
+    {
+      "cite": "56 N.Y.S. 991",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        5652523
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nys/56/0991-01"
+      ]
+    },
+    {
+      "cite": "38 App.Div. 227",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        4651503
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/38/0227-01"
+      ]
+    },
+    {
+      "cite": "50 Pa. 212",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        425165
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/50/0212-01"
+      ]
+    },
+    {
+      "cite": "260 N.Y.S. 127",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "145 Misc. 649",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        824846
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/145/0649-01"
+      ]
+    },
+    {
+      "cite": "212 Ala. 117",
+      "category": "reporters:state",
+      "reporter": "Ala.",
+      "case_ids": [
+        3580201
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ala/212/0117-01"
+      ]
+    },
+    {
+      "cite": "230 P. 914",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 Okl. 248",
+      "category": "reporters:state",
+      "reporter": "Okla.",
+      "case_ids": [
+        6369219
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/okla/104/0248-01"
+      ]
+    },
+    {
+      "cite": "146 S.E. 130",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 N.C. 512",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8627956
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/196/0512-01"
+      ]
+    },
+    {
+      "cite": "285 F. 925",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3602502
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/285/0925-01"
+      ]
+    },
+    {
+      "cite": "52 App.D.C. 191",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 F. 2d 655",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        900003
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/65/0655-01"
+      ]
+    },
+    {
+      "cite": "62 App.D.C. 161",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 App.D.C. 237",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1359466
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/33/0237-01"
+      ]
+    },
+    {
+      "cite": "46 App.D.C. 84",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1779568
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/46/0084-01"
+      ]
+    },
+    {
+      "cite": "118 U.S. 663",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3519044
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/118/0663-01"
+      ]
+    },
+    {
+      "cite": "214 U.S. 279",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3649869
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/214/0279-01"
+      ]
+    },
+    {
+      "cite": "67 F.2d 691",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        284943
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/67/0691-01"
+      ]
+    },
+    {
+      "cite": "62 App.D.C. 319",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 F.2d 1025",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1806884
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/55/1025-01"
+      ]
+    },
+    {
+      "cite": "60 App.D.C. 400",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 App.D.C. 49",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1783540
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/44/0049-01"
+      ]
+    },
+    {
+      "cite": "89 F.2d 843",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1270468
+      ],
+      "pin_cites": [
+        {
+          "page": "845"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/89/0843-01"
+      ]
+    },
+    {
+      "cite": "67 App.D. C. 99",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "223 N. W. 137",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "176 Minn. 294",
+      "category": "reporters:state",
+      "reporter": "Minn.",
+      "case_ids": [
+        265587
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/minn/176/0294-01"
+      ]
+    },
+    {
+      "cite": "82 N.Y.S. 96",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "case_ids": [
+        7667187
+      ],
+      "pin_cites": [
+        {
+          "page": "98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nys/82/0096-01"
+      ]
+    },
+    {
+      "cite": "84 App. Div. 179",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        5024700
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/84/0179-01"
+      ]
+    },
+    {
+      "cite": "21 F.2d 789",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1705747
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/21/0789-01"
+      ]
+    },
+    {
+      "cite": "100 N.E. 333",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "pin_cites": [
+        {
+          "page": "334"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "213 Mass. 210",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        839855
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/213/0210-01"
+      ]
+    },
+    {
+      "cite": "33 App.D.C. 357",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1359517
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/33/0357-01"
+      ]
+    },
+    {
+      "cite": "42 Am.Rep. 332",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 Md. 305",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1040504
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/58/0305-01"
+      ]
+    },
+    {
+      "cite": "173 N.E. 575",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "254 N.Y. 437",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        1993246
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/254/0437-01"
+      ]
+    },
+    {
+      "cite": "17 L.R.A.,N.S., 520",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 App.D.C. 391",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1356091
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/31/0391-01"
+      ]
+    },
+    {
+      "cite": "72 F. 2d 85",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        259375
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/72/0085-01"
+      ]
+    },
+    {
+      "cite": "63 App.D.C. 292",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 A. 977",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 Me. 138",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        679511
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/117/0138-01"
+      ]
+    },
+    {
+      "cite": "56 F.2d 114",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1802792
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/56/0114-01"
+      ]
+    },
+    {
+      "cite": "115 N.E. 441",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "220 N.Y. 232",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        298029
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/220/0232-01"
+      ]
+    },
+    {
+      "cite": "135 Mass. 283",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        724637
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/135/0283-01"
+      ]
+    },
+    {
+      "cite": "31 A.2d 856",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8155877
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/31/0856-01"
+      ]
+    },
+    {
+      "cite": "63 S.Ct. 103",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        303994,
+        303799
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/317/0102-01",
+        "/us/317/0134-01"
+      ]
+    },
+    {
+      "cite": "317 U.S. 134",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        303799
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/317/0134-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 854,
+    "char_count": 13512,
+    "ocr_confidence": 0.686,
+    "pagerank": {
+      "raw": 1.8268595138322063e-07,
+      "percentile": 0.7201512520614136
+    },
+    "sha256": "39dc5f640b3f11d54925e04ef2099b76b603de582a5141663e77533dc4da5c11",
+    "simhash": "1:269d84664d7a2d96",
+    "word_count": 2340
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "ZWEIG v. SCHWARTZ."
+    ],
+    "opinions": [
+      {
+        "text": "HOOD, Associate Judge.\nMrs. Helen Sacchino went to the jewelry store of Charles Schwartz & Son, the ap-pellees herein, and, representing herself to be Mrs. Evelyn Kent, obtained from ap-pellees under a conditional bill of sale a lady\u2019s diamond ring. The sale price of the ring was $400, payable in weekly instal-ments of $5. The conditional sale agreement was executed by Mrs. Sacchino who signed her name as Evelyn Kent. Mrs. Kent is the sister of Mrs. Sacchino.\nSometime thereafter Mrs. Sacchino delivered the ring to her husband in order that he might obtain money on it with which to pay their rent. Mr. Sacchino took the ring to James K. Hughes, an attorney who had represented him in several cases involving charges of false pretenses, and offered it for sale to Mr. Hughes. The latter declined to buy but offered to sell it for Sacchino. The two went to the store of Max Zweig, the appellant herein, operator of a second-hand store and a licensed junk dealer, who had been buying diamonds for many years. Sacchino did not go in the store but waited outside. Hughes went in the store and asked Zweig what he could get for the ring; Zweig examined the ring and offered Hughes $75 for it, which Hughes accepted. Hughes took the money to Sacchino and they together went to a real estate office and paid Sacchino\u2019s rent.\nThe foregoing facts are substantially uncontradicted except those relating to the Zweig transaction. With respect to it, some doubt was raised as to whether the transaction was a pawn or a sale, but Hughes stated definitely it was a sale. Zweig testified that he had known Hughes for a number of years, but denied'buying the ring in question or any other ring from Hughes. The case was tried by the court without a jury and the trial judge found as a fact that the ring in question was delivered by Hughes to Zweig. This finding is supported by substantial evidence and we accept it.\nSchwartz & Son brought the action below for the recovery of the ring or the value thereof from both Hughes and Zweig. A judgment for $314 was rendered against Zweig alone and from that judgment this appeal was taken.\nThe conditional sale agreement was not recorded, and appellant claims the benefit of Title 42, Section 103, District of Columbia Code, 1940 Ed., which provides that such conditional sale shall not be valid \u201cas against third persons acquiring title to said property from said purchaser without notice of the terms of said sale\u201d unless recorded. The trial court ruled that possession only was transferred to Mrs. Sac-chino, that by reason of her fraudulent representations she obtained no better title than a thief, and consequently failure to record the instrument would not have the effect of protecting even an innocent purchaser for value. In this we think the trial court was in error.\nThe fraud of Mrs. Sacchino, in representing herself to be another person, made the transaction voidable but not void. The weight of authority is that where a vendor of personal property intends to sell his goods to the person with whom he deals, title passes even though he is deceived as to the buyer\u2019s identity and responsibility. The cases cited go further than the present case, for in those cases the impostor represented himself to be a person of responsibility, whereas in the instant case, as far as the record discloses, the appellees did not know Mrs. Evelyn Kent and made no inquiry as to her financial responsibility. On the reverse side of the conditional sale agreement was a form of application containing spaces for information regarding the prospective purchaser, but this application was left blank. While no case in this District directly in point has been found, there are cases which we believe recognize the principle first stated. In support of the trial court\u2019s ruling, appellees cite a number of authorities, but those authorities deal with situations where possession alone was delivered and no sale intended. Here ap-pellees plainly intended to make a sale, a conditional one but nevertheless a sale. We think the transaction between the ap-pellees and Mrs. Sacchino was voidable but not void.\nWe agree with the trial court that title did not pass under the conditional sales agreement, but something more than bare possession did pass. The conditional vendee has an interest greater than a mere possession. The exact limits of that interest are not easily defined and have been variously described as \u201ca special property,\u201d or as \u201can equitable interest,\u201d or as \u201can equity.\u201d In this District the conditional vendee has been described as \u201ca bailee' for a specific purpose,\u201d and while it is well established in this jurisdiction that a conditional sale is not a mortgage and title does not pass, yet such an agreement is in the nature of a mortgage and the vendor, in substance,, retains nothing more than a lien for hfe security.\nWhile at 'common law a conditional bill of sale was valid not only as between the parties but also as to third parties, our statute requires the recording of such contracts, when the purchase price exceeds $100.00, in order that it be valid as against third persons acquiring title from the conditional vendee without notice of the terms of such contract; and unless the vendor protects his lien by recording, the vendee may convey an indefeasible title to a third party for value and without notice.\nThe appellees did not record the conditional sale agreement and it is evident they had no intention of recording it since it was not acknowledged by the vendee. They did not avail themselves of the benefit of the recording statute and must suffer the consequences if appellant was a purchaser for value and acquired title without notice of the conditional sale. Had ap-pellees recorded the instrument, they would have obtained full protection under the statute even though such instrument was executed in a fictitious name.\nUndoubtedly Zweig gave value for the ring and no contention is made that he had any actual notice of the existence of the conditional sale agreement.\n. The trial judge, while not basing his decision squarely on this point, did hold that the circumstances of the sale to Zweig were sufficient to put him upon inquiry. Those circumstances were that Hughes went to Zweig, whom he had known for several years, and asked Zweig how much money he could get for the ring, that Zweig made no inquiry as to whom the ring belonged but examined it briefly and offered $75 which Hughes accepted. According to appellees\u2019 testimony, this ring was of a value of $400, and while Zweig denied ever having seen the ring, upon a description of it being given to him, stated in his opinion it would have a value of $200. Can it be said, as a matter of law, under these circumstances, that Zweig had notice of, or should have been put upon inquiry as to, the conditional sale agreement? Zweig was a second-hand dealer and it is common knowledge that those engaged in that trade do not pay full value for articles nor do prospective sellers expect full value. Zweig, of course, expected to resell at a profit and he naturally began negotiations by making his lowest offer. This offer was promptly accepted by Hughes. Perhaps Zweig thought he was getting a bargain, but should this make him suspicious? It should be noted that this was not the instance of a total stranger offering a diamond for sale, but the offer was made by a member of the bar whom Zweig had known for several years. There is nothing in the record to indicate any reason why Zweig should suspect that Hughes would offer for sale an article which he did not have the right to sell. Indeed, the trial court found that Hughes\u2019 action was- entirely innocent.\nWhile inadequacy of price may be considered along with other circumstances in determining whether a purchaser had or should have had notice sufficient to put him upon inquiry, inadequacy alone is rarely held sufficient to constitute such notice unless the price paid is merely nominal or absurdly low. Here there' were no other suspicious circumstances. The purchase was made in the usual course of Zweig\u2019s business and from one known to him. The price paid was substantial, even though it did not approximate the amount testified as the market value of the ring. Such testimony, however, as recently said by the Supreme Court, does not reflect true value with nicety and often involves, at best, a guess by informed persons. We do not think the 'price paid u\u00f1d\u00e9r the circumstances of this case w\u00e1s so inadequate as to constitute notice to Zweig of a possible defect in the title acquired by him.\nFor the reasons stated the judgment must be reversed and the case remanded for further proceedings consistent with this opinion.\nReversed.\nEdmunds et al. v. Merchants\u2019 Despatch Transportation Co., 135 Mass. 283; Phelps v. McQuade, 220 N.Y. 232, 115 N.E. 441, L.R.A.1918B, 973; Chicago, M., St. P. & P. R. Co. v. Flanders, 8 Cir., 56 F.2d 114; Martin v. Green, 117 Me. 138, 102 A. 977; Williston on Contracts (1936 Ed.) sec. 1517; Restatement of the Law of Contracts, sec. 475.\nGeneral Motors Acceptance Corporation v. Smith, 63 App.D.C. 292, 72 F. 2d 85; Central National Bank v. National Metropolitan Bank, 31 App.D.C. 391, 17 L.R.A.,N.S., 520.\nGreen v. Wachs, 254 N.Y. 437, 173 N.E. 575; Levi v. Booth, 58 Md. 305, 42 Am.Rep. 332; Williston on Contracts (1936 Ed.) sec. 1489.\nMinnix Co. v. L. C. Smith & Bros. Typewriter Co., 33 App.D.C. 357.\nKeepers v. Fleitmann et al., 213 Mass. 210, 100 N.E. 333, 334; United States v. One Buick Automobile, D.C. Vt., 21 F.2d 789.\nFriedman v. Phillips et al., 84 App. Div. 179, 82 N.Y.S. 96, 98.\nTremont v. General Motors Acceptance Corporation, 176 Minn. 294, 223 N. W. 137.\nStern Co. v. Rosenberg, 67 App.D. C. 99, 89 F.2d 843, 845.\nBallinger v. West Publishing Co., 44 App.D.C. 49; McFadden Securities Co. v. Stoneleigh Garage, 60 App.D.C. 400, 55 F.2d 1025; Owens Motor Co. v. Williford, 62 App.D.C. 319, 67 F.2d 691.\nBryant v. Swofford Bros. Dry Goods Co., 214 U.S. 279, 29 S.Ct. 614, 53 L.Ed. 997; Harkness v. Russell, 118 U.S. 663, 7 S.Ct. 51, 30 L.Ed. 285.\nR. P. Andrews Paper Co. v. Southern Soda Fountain Co., 46 App.D.C. 84; Baum v. Wm. Knabe & Co. Mfg. Co., 33 App.D.C. 237.\nMeyer Herson Auto Sales Co. v. Faunkhauser, 62 App.D.C. 161, 65 F. 2d 655; Stern v. Drew, 52 App.D.C. 191, 285 F. 925.\nWeeks v. Adams, 196 N.C. 512, 146 S.E. 130; Farmers\u2019 State Bank v. North Oklahoma State Bank, 104 Okl. 248, 230 P. 914; Martin v. Green, 117 Me. 138, 102 A. 977.\nSpires v. Jones, 212 Ala. 117, 101 So. 753; Bankers\u2019 Commercial Security Co. v. Piercy Corp. et al., 145 Misc. 649, 260 N.Y.S. 127; 10 C.J.S., Bills and Notes, p. 824, \u00a7 327 ; 55 C.J. 611, sec. 628.\nGreen v. Humphry, 50 Pa. 212; Moyer v. Bloomingdale et al., 38 App.Div. 227, 56 N.Y.S. 991; Pelham v. Chattahoochie Grocery Co., 156 Ala. 500, 47 So. 172.\nUnited States v. Miller, 317 U.S. 369, 63 S.Ct. 276, 87 L.Ed. \u2014, decided January 4, 1943.",
+        "type": "majority",
+        "author": "HOOD, Associate Judge."
+      },
+      {
+        "text": "On Motion for Rehearing.\nAppellees have filed a motion for rehearing. The motion reargues certain questions of law covered in our opinion, and in support of one contention states: \u201cAp-pellees at the trial actually produced for the inspection of the court, besides the conditional sales agreement, the credit card of the real Mrs. Kent, with testimony as to prior dealings with her as far back as March, 1941, and her satisfactory financial responsibility.\u201d\nIn support of another contention the motion refers to District of Columbia Police Regulations, sections 1 and 2, of Article I (not cited or discussed in appellees\u2019 brief or in argument of counsel), and states: \u201cWhen Zweig was asked if he had made any such record he countered with the answer that since he had never Seen nor had possession of the ring, there was no need to make' such a record.\u201d\nNeither of the above .statements appear in the record, and appellees now, for the first time, urge us to have the record corrected. The request is plainly not in time.\nIt is the duty of parties coming to this court to bring a record complete and adequate for the purposes of all ques; tions to be argued here, for we cannot consider matter outside the 'record. If anything material to either party is omitted from the record, the omission should be called to our attention timely in order that such omission be supplied and a supplemental record, if necessary, filed. Rule 31 of this Court. The responsibility for a complete record rests primarily on the parties and not on the trial court or this court. In this case, the parties did not file a statement of proceedings and evidence- but designated, in lieu thereof, the opinion of the trial court and that .court\u2019s memorandum on the-motion for new trial. That was the record before us and on that record, our decision was based. A -suggestion by the losing party, after the case has been briefed, argued and 'decided, that there are omissions in the record, comes too late.\nThe motion for rehearing is denied.\nSee Hughes v. Wendel, 317 U.S. 134, 63 S.Ct. 103, 87 L.Ed. -, decided November 16, 1942; Heslop v. Robert A. Grahame, Inc., D.C.Mun.App., 31 A.2d 856, and eases there cited:",
+        "type": "rehearing",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "Maxwell A. Ostrow, of Washington, D.C., for appellant.",
+      "Allan Fisher, of Washington, D. C. (Wolf & Wolf and Simon Fleishman, all of Washington, D. C., on the brief), for appellees."
+    ],
+    "corrections": "",
+    "head_matter": "ZWEIG v. SCHWARTZ.\nNo. 35.\nMunicipal Court of Appeals for the District of Columbia.\nFeb. 5, 1943.\nRehearing Denied Mar. 2, 1943.\nMaxwell A. Ostrow, of Washington, D.C., for appellant.\nAllan Fisher, of Washington, D. C. (Wolf & Wolf and Simon Fleishman, all of Washington, D. C., on the brief), for appellees.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0857-01",
+  "first_page_order": 905,
+  "last_page_order": 909
+}

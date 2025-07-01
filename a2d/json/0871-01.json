@@ -1,0 +1,266 @@
+{
+  "id": 8156300,
+  "name": "FRANKLIN v. CHAS. C. SCHULMAN CO., Inc.",
+  "name_abbreviation": "Franklin v. Chas. C. Schulman Co.",
+  "decision_date": "1942-12-29",
+  "docket_number": "No. 22",
+  "first_page": "871",
+  "last_page": "873",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "31 A.2d 871"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "118 F. 2d 396",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        472874
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/118/0396-01"
+      ]
+    },
+    {
+      "cite": "73 App.D.C. 233",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "pin_cites": [
+        {
+          "page": "235"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "282 U.S. 531",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6932733
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "541"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/282/0531-01"
+      ]
+    },
+    {
+      "cite": "133 F.2d 350",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3647998
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/133/0350-01"
+      ]
+    },
+    {
+      "cite": "287 U.S. 474",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        370087
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "482"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/287/0474-01"
+      ]
+    },
+    {
+      "cite": "60 F.2d 1078",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        915176
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/60/1078-01"
+      ]
+    },
+    {
+      "cite": "61 App.D.C. 242",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 F.2d 522",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1723206,
+        1723087
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/26/0522-01",
+        "/f2d/26/0522-02"
+      ]
+    },
+    {
+      "cite": "58 App.D.C. 150",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "261 F. 1019",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3538835
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/261/1019-01"
+      ]
+    },
+    {
+      "cite": "49 App.D.C. 139",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 F.2d 657",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1030551
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/111/0657-01"
+      ]
+    },
+    {
+      "cite": "72 App.D.C. 45",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 F.2d 581",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1026941
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/112/0581-01"
+      ]
+    },
+    {
+      "cite": "72 App.D.C. 174",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 App.D.C. 455",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1777214
+      ],
+      "pin_cites": [
+        {
+          "page": "458"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/47/0455-01"
+      ]
+    },
+    {
+      "cite": "25 App.D.C. 415",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1329212
+      ],
+      "pin_cites": [
+        {
+          "page": "422"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/25/0415-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 417,
+    "char_count": 6836,
+    "ocr_confidence": 0.701,
+    "pagerank": {
+      "raw": 1.777588546896887e-07,
+      "percentile": 0.7129950433403647
+    },
+    "sha256": "c28b885cb8b8cfb1ba5e7442d77e2ac41ccd6eeaa18c2dbc3c337cf21c49dfaa",
+    "simhash": "1:aec8d0346746111f",
+    "word_count": 1164
+  },
+  "last_updated": "2024-02-27T18:54:06.352297+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "FRANKLIN v. CHAS. C. SCHULMAN CO., Inc."
+    ],
+    "opinions": [
+      {
+        "text": "HOOD, Associate Judge.\nTwo assignments of error in this case require our attention. Appellant assigns as error the action of the trial court in denying appellant\u2019s motion to strike the statement of proceedings and evidence. The facts in this regard, as disclosed by the record and conceded by counsel during the argument, are that after noting an appeal appellant\u2019s counsel prepared and presented to the trial judge on October 3, 1942 a statement of proceedings and evidence and served a copy thereof upon appellee\u2019s attorney; that on October 8, 1942 appellee filed objections to the statement of proceedings and evidence and served a copy upon appellant\u2019s attorney; that thereafter a conference was held by the trial judge with counsel for appellant and appellee for consideration of the statement and objections; that at such conference counsel were not able to agree as to the proper contents of the statement and after a discussion thereof the trial judge directed counsel for appellee to prepare a statement; that counsel for appellee prepared a statement of proceedings and evidence and on October 16, 1942 presented it to the trial judge who forthwith signed it; that no notice of presentation of this statement was given to appellant\u2019s counsel whose first notice was receipt in the next day\u2019s mail of a copy of the statement then already signed by the trial judge.\nThis procedure was, to say the least, irregular. The settling and approval of a statement of proceedings and evidence is a judicial function and an important one, for a properly authenticated statement of proceedings and evidence must be accepted by this court as conclusive. The trial judge should not delegate this duty to counsel for one of the parties.\nIf it was the intention of the trial judge that counsel for appellee should prepare a statement in accordance with instructions of the judge, so that he was imposing upon counsel merely the labor of drafting the statement and not leaving the contents thereof to discretion of counsel, it was still error, under the circumstances, to approve such statement without notice, to appellant. No step in the course of a legal controversy should be taken without notice to opposing party.\nIt was urged at the hearing that appellant was given an opportunity of making his objections to the contents of the statement after it was signed, but plainly he should have been served with a copy and permitted to make his objections pri- or to the signing. Where the statement is prepared by counsel for one of the interested parties, with or without suggestions or instructions from the trial court, counsel for the other side is entitled to be served with a copy and afforded an opportunity of making objections prior to final action thereon.\nThe other assignment of error which we consider relates to the denial of a motion for new trial on the ground of newly discovered evidence. Ordinarily the granting or denial of a motion for a new trial is within the discretion of the trial court and not subject to review on appeal unless there is shown a clear abuse of discretion; and the same rule applies where \u2018the motion for a new trial is based upon newly discovered evidence ; but under certain circumstances an appellate court may inquire into the action of the trial court on a motion for new trial. We think the circumstances of this case require our consideration of this assignment. The discretion of the trial court is a judicial discretion, not to be exercised arbitrarily or wil-fully but, instead, in the interest of justice.\nThe action below was brought to recover the purchase price of certain office furniture alleged to have been sold by plaintiff to the defendant. It was admitted that the furniture was delivered by the plaintiff at the defendant\u2019s office and was signed for by defendant, but defendant contended that the furniture was ordered on his own credit by one James Fuller, a sub-tenant of defendant, then trading as Engineers Group, Inc., and Air Defense Club, that defendant signed for the furniture in the absence of Fuller merely as an acknowledgment of delivery of the furniture to Fuller, that he never ordered the furniture, never used the furniture, and his only connection with it was the signing of the delivery receipt. Plaintiff contended that the furniture was ordered by defendant, sold to defendant, delivered to defendant and charged to defendant, and that a bill for it was sent to defendant the day following delivery. The trial court found in favor of the plaintiff.\nThe motion for a new trial, as far as it related to newly discovered evidence, set forth by affidavit that since the hearing of the case it had been discovered that the plaintiff about six weeks prior to the bringing of the instant suit had filed suit against Engineers Group, Inc., for goods, wares and merchandise in the same amount claimed herein, claiming interest from the same date from which interest was claimed in this suit, that defendant believed and expected to prove that the goods, wares and merchandise in that previous suit were the same as in the instant case, and that an affidavit of merit in the previous suit was made by H. A. Herring, the agent for the plaintiff who made the affidavit in the instant case and who was plaintiff\u2019s sole witness. This evidence was vital and material to the issues below for if, as plaintiff contended, it had sold and charged these goods to the defendant an explanation would be required as to why it had previously sued Engineers Group, Inc., for the same goods. Such evidence supported defendant\u2019s claim that he was not a party to the transaction. We think the lower court should have exercised its discretion and granted a new trial upon this showing.\nThe judgment below is reversed with instructions to award a new trial.\nReversed.\nKarrick v. Wetmore, 25 App.D.C. 415, 422; Sterrett v. Shoemaker, 47 App.D.C. 455, 458.\nEcker et al. v. Potts et al., 72 App.D.C. 174, 112 F.2d 581; Atlantic Greyhound Lines, Inc., v. Keesee, 72 App.D.C. 45, 111 F.2d 657.\nMandes v. Midgett, 49 App.D.C. 139, 261 F. 1019; Fitzgerald v. Dodson et al., 58 App.D.C. 150, 26 F.2d 522; District National Bank v. Maiatico, 61 App.D.C. 242, 60 F.2d 1078.\nFairmount Glass Works v. Cub Fork Coal Co. et al., 287 U.S. 474, 482, 53 S. Ct. 252, 77 L.Ed. 439; Freid v. McGrath, App.D.C. 133 F.2d 350, decided November 23, 1942.\nLangnes v. Green, 282 U.S. 531, 541, 51 S.Ct. 243, 75 L.Ed. 520; Cornwell v. Cornwell, 73 App.D.C. 233, 235, 118 F. 2d 396.",
+        "type": "majority",
+        "author": "HOOD, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "Turner Taliaferro Smith, of Washington, D. C., for appellant.",
+      "Jack Politz, of Washington, D. C., for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "FRANKLIN v. CHAS. C. SCHULMAN CO., Inc.\nNo. 22.\nMunicipal Court of Appeals for the District of Columbia.\nDec. 29, 1942.\nRehearing Denied Jan. 11, 1943.\nTurner Taliaferro Smith, of Washington, D. C., for appellant.\nJack Politz, of Washington, D. C., for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0871-01",
+  "first_page_order": 919,
+  "last_page_order": 921
+}

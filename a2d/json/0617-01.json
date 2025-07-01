@@ -1,0 +1,296 @@
+{
+  "id": 8158455,
+  "name": "TERMINAL WAREHOUSE & REFRIGERATION CO. v. CROSS TRANSP. CO., Inc.",
+  "name_abbreviation": "Terminal Warehouse & Refrigeration Co. v. Cross Transp. Co.",
+  "decision_date": "1943-08-03",
+  "docket_number": "No. 84",
+  "first_page": "617",
+  "last_page": "619",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "33 A.2d 617"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "36 Stat. 302",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "150 U.S. 312",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3571863
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "103"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/150/0312-01"
+      ]
+    },
+    {
+      "cite": "127 Or. 107",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2025205
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "234"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/127/0107-01"
+      ]
+    },
+    {
+      "cite": "71 Conn. 157",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        767143
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/71/0157-01"
+      ]
+    },
+    {
+      "cite": "41 A. 552",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "pin_cites": [
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "159 F. 975",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        1917670
+      ],
+      "pin_cites": [
+        {
+          "page": "977"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/159/0975-01"
+      ]
+    },
+    {
+      "cite": "243 Pa. 485",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1001634
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/243/0485-01"
+      ]
+    },
+    {
+      "cite": "90 A. 349",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "233 Mass. 91",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        3456955
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/233/0091-01"
+      ]
+    },
+    {
+      "cite": "123 N.E. 386",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "210 Mass. 188",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        5677495
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/210/0188-01"
+      ]
+    },
+    {
+      "cite": "96 N.E. 316",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "264 Mo. 581",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        1846219
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/264/0581-01"
+      ]
+    },
+    {
+      "cite": "175 S.W. 599",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 Misc. 329",
+      "category": "reporters:state",
+      "reporter": "Misc.",
+      "case_ids": [
+        735627
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc/108/0329-01"
+      ]
+    },
+    {
+      "cite": "177 N.Y.S. 591",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 N.Y. 32",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2188434
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/91/0032-01"
+      ]
+    },
+    {
+      "cite": "43 Am.Rep. 634",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 S.W. 659",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Ky.Law Rep. 242",
+      "category": "reporters:state",
+      "reporter": "Ky. L. Rptr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 U.S. 391",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3665889
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/229/0391-01"
+      ]
+    },
+    {
+      "cite": "134 F.2d 59",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3649799
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/134/0059-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 545,
+    "char_count": 9071,
+    "ocr_confidence": 0.712,
+    "pagerank": {
+      "raw": 1.0004937942104668e-07,
+      "percentile": 0.538770600139236
+    },
+    "sha256": "08b853a560af4f881bd2bc2f485dc961ddbe4de28bac797bb45b7e83458978e4",
+    "simhash": "1:190d9935ab3329fe",
+    "word_count": 1560
+  },
+  "last_updated": "2024-02-27T20:18:50.282938+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "TERMINAL WAREHOUSE & REFRIGERATION CO. v. CROSS TRANSP. CO., Inc."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nThis action is by a carrier, appellee here, for conversion of goods transported by it by truck to Washington and delivered to appellant, the consignee, at its warehouse. Appellant, it is claimed, without authority from either shipper or carrier, issued its warehouse receipt to a third party and made delivery to him. The shipment was entrusted to the carrier C.O.D. Collection was not made at the time of-delivery and the amount involved has been paid by ap-pellee. The person who obtained the property from appellant has absconded and the loss must be borne either by appellant or appellee. Trial was by the court which gave judgment against appellant for the sum of $977.43.\nThe goods involved were the property of DeLuxe Aire Furnace Company, sold by its Washington agent to one Richmond, trading as Aldrich Company, to be shipped C. O.D. to Terminal Company. The shipping order was given to the Novick Transportation Company, which employed appellee, the Cross Company.\nThe goods were in two lots. The shipping orders, one dated September 21, 1942, named Novick Company as carrier, DeLuxe Company as \u201corigin\u201d and Terminal Company as consignee. The other, dated September 22, 1942, differed only in that Cross Company1 was named as carrier. Each shipping order described the lots and specified the amount to be collected on delivery. The aggregate amount was $977.43.\nAppellee forwarded the two lots in one truck, in charge of its driver, from Bridge-ton, New Jersey, to Washington, D. C. Fie was instructed to make delivery C.O.D. to Terminal Company. He was furnished bills of lading, corresponding to the shipping orders, in each of which it was stated that DeLuxe Company was shipper, Cross Company carrier, and Terminal Company consignee. Neither refers to the fact that the shipment was C.O.D.\nThe names of Aldrich Company or Richmond are not mentioned in either shipping orders or bills of lading.\nThe truck driver 'delivered the goods at appellant\u2019s warehouse. There they were unloaded, checked and receipted for by proper authority, receipt being endorsed upon the bills of lading.\nThe driver of appellee\u2019s truck testified that he had never heard of the Aldrich Company; that his instructions were to deliver the shipment to the Terminal Company and collect the money, and that he informed the assistant warehouse foreman, who checked the shipment and receipted the bills of lading, that he was to collect the money. He states that he was told by the latter that it would be paid to the Novick Company which \u201chandled the stuff\u201d. He also testified that the shipping orders were clipped to the bills of lading as he presented them to the assistant foreman of the Terminal Company.\nThe latter testified that he received the goods, weighed and checked them, signed the bills of lading, and prepared a \u201ctally\u201d sheet. This sheet goes to the business office and is the original paper from which appellant\u2019s record is made, from which warehouse receipts are afterwards prepared and issued. On the \u201ctally\u201d sheet representing the instant transaction Terminal Company is not mentioned as consignee, but the statement appears that the shipment is for the account of \u201cAldrich Company, care of Charles T. Richmond\u201d.\nThe witness testified that he did not recall the truck driver, or any discussion with him about payment. He did not recall that other papers were with the bills of lading, but that it was possible that the shipping orders were attached to them. He did not know how he got the information from which he put the name of Aldrich Company on the \u201ctally\u201d sheet.\nAt the trial this \u201ctally\u201d sheet and copies of the bills of lading were produced by appellant from its records.\nThe trial court found that the preponderance of the evidence supported appellee\u2019s claim that appellant\u2019s employee was informed that the shipment was subject to C.O.D. charges.\nAppellant\u2019s first contention is that the case is not one of conversion; that the issue is one of negligence. It insists that appellee\u2019s failure to specify in the bills of lading that the shipment was C.O.D. was negligence on its part, responsible for the loss.\nThis contention it bases in part on the language of Section 10 of the (Uniform) Warehouse Receipts Act.\nAs implied in the title of the act this statute did not attempt to codify or regulate-the laws applicable to warehousemen. It was \u201cAn Act to make uniform the law of\u2019 warehouse receipts\u201d. Its provisions presuppose that a warehouse receipt has been regularly issued. The act does not state to whom a receipt should be issued, and the absence of such a provision, a study of the act as a whole, and a consideration of recognized rules of general law applicable to the subject, make it clear that such a receipt may only be issued to the owner or to the person who deposits goods, or to some other at his direction or instruction.\nThe liability of a warehouse company to an owner or depositor who has not obtained a formal warehouse receipt for goods consigned or entrusted to it, is to be determined by reference to the applicable rules of the law of bailments, independently of any provisions of the Warehouse Receipts Act, Here the essential facts are that the warehouse company had no instruction or direction from either shipper or carrier as to the disposition of these goods other than was contained in the bills of lading. It was informed thereby that the goods were consigned to it, that the origin of the shipment was the DeLuxe Company, and that the goods were transported and delivered to it by the appellee. No other person was mentioned.\nIts rights and its obligations under these circumstances were clear. The term \u201cconsigned\u201d indicated that the property was \u201ccommitted or intrusted\u201d to it. The law implies that when one has shipped goods to a warehouseman without instructions the latter \u201cagreed to keep the same, subject to the orders of plaintiff\u201d. \u201cThe word \u2018consignment\u2019 does not imply a sale. The very term imports an agency, and that the title is in the consignor\u201d.\nUpon receipt of goods the warehouseman\u2019s obligation is \u201cto issue the receipts therefor as required by law\u201d. In the absence of an express contract the law implies \u201can agreement to keep the property subject to the orders of the bailor\u201d.\nFailure of a warehouseman to account for goods to the depositor is a conversion although the delivery to or sale for an unauthorized person was not negligent or lacking in the exercise of due care.\nIn our opinion the authorities cited correctly state and illustrate the law applicable here. We therefore decide that the delivery of the property by appellant was a conversion for which it is liable.\nA further claim is made by appellant that Cross Company was negligent in failing to note on the bills of lading that the shipment was C. O. D. and that therefore the case calls for the application of the equitable doctrine that if one of two innocent parties must suffer by the act of a third person, the loss must be borne by the one through whose fault the injury became possible.\nEquitable estoppel may not be invoked unless based upon acts which induced the ensuing act or omission of the party asserting the estoppel. A causal relation must exist. Although a plaintiff may have been negligent, his right of action is not barred if the loss immediately resulted from defendant\u2019s failure to perform a duty which the law has' imposed upon him. If appellee was negligent in failing to note on the bills of lading that the shipment to appellant was C. O. D., that fact does not excuse appellant\u2019s breach of duty in delivering goods to one not mentioned in the bills of lading or other documents and not authorized to receive them.\nAffirmed.\nCode 1940, \u00a7 28\u20141903, Act of Apr. 15, 1910, 36 Stat. 302.\nSturm v. Boker et al., 150 U.S. 312, 14 S.Ct. 99, 103, 37 L.Ed. 1093.\nFinn v. Erickson, 127 Or. 107, 269 P. 232, 234, 270 P. 767.\nHarris v. Coe, 71 Conn. 157, 41 A. 552, 554.\nUnited States v. Oregon R. & N. Co., C.C., 159 F. 975, 977.\nJohnson v. Stewart, 243 Pa. 485, 90 A. 349; 67 C.J. 451.\nBlaisdell v. Hersum & Co., 233 Mass. 91, 123 N.E. 386; Murray v. Postal Telegraph & Cable Co., 210 Mass. 188, 96 N.E. 316, Ann.Cas.19120, 183; State, to Use of Hubbard, etc., Co. v. Cochrane, 264 Mo. 581, 175 S.W. 599; Strong v. Security Storage & Warehouse Co., 108 Misc. 329, 177 N.Y.S. 591; Bank of Oswego v. Doyle, 91 N.Y. 32, 43 Am.Rep. 634; Irvin v. Phelps, 45 S.W. 659, 20 Ky.Law Rep. 242; 67 C.J. 451.\nSee National Safe Deposit, S. & T. Co. v. Hibbs, 229 U.S. 391, 33 S.Ct. 818, 57 L.Ed. 1241.\nWashington Loan & Trust Co. v. United States, U.S.App.D.C., 134 F.2d 59.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Nicholas J. Chase, of Washington, D. C. (William E. Leahy, of Washington, D. C., on the brief), for appellant.",
+      "Leslie C. Garnett, of Washington, D. C. (Joseph C. Colquitt, of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "TERMINAL WAREHOUSE & REFRIGERATION CO. v. CROSS TRANSP. CO., Inc.\nNo. 84.\nMunicipal Court of Appeals for the District of Columbia.\nAug. 3, 1943.\nNicholas J. Chase, of Washington, D. C. (William E. Leahy, of Washington, D. C., on the brief), for appellant.\nLeslie C. Garnett, of Washington, D. C. (Joseph C. Colquitt, of Washington, D. C., on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0617-01",
+  "first_page_order": 665,
+  "last_page_order": 667
+}

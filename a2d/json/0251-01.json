@@ -1,0 +1,183 @@
+{
+  "id": 8150615,
+  "name": "CARPENTER v. DISTRICT OF COLUMBIA",
+  "name_abbreviation": "Carpenter v. District of Columbia",
+  "decision_date": "1943-05-21",
+  "docket_number": "No. 70",
+  "first_page": "251",
+  "last_page": "252",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 A.2d 251"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "110 A.L.R. 393",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "pin_cites": [
+        {
+          "page": "395"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 F.2d 836",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        922229
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/86/0836-01"
+      ]
+    },
+    {
+      "cite": "66 App.D.C. 280",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 L.R.A.,N.S. 87",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "154 S.W. 13",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 Ky. 741",
+      "category": "reporters:state",
+      "reporter": "Ky.",
+      "case_ids": [
+        4414764
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ky/152/0741-01"
+      ]
+    },
+    {
+      "cite": "7 N.E.2d 794",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "190 N.E. 172",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "211 Ind. 483",
+      "category": "reporters:state",
+      "reporter": "Ind.",
+      "case_ids": [
+        1526537
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ind/211/0483-01"
+      ]
+    },
+    {
+      "cite": "114 A.L.R. 996",
+      "category": "reporters:specialty",
+      "reporter": "A.L.R.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 A. 237",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Vt. 313",
+      "category": "reporters:state",
+      "reporter": "Vt.",
+      "case_ids": [
+        4576226
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/vt/109/0313-01"
+      ]
+    },
+    {
+      "cite": "162 U.S. 625",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6141268
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/162/0625-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 421,
+    "char_count": 6068,
+    "ocr_confidence": 0.708,
+    "pagerank": {
+      "raw": 2.4570293648005634e-07,
+      "percentile": 0.8051382532340688
+    },
+    "sha256": "0b9096842506b1c028516c8f2142aaba6a69b4cf98d6378543d1076cb431aa36",
+    "simhash": "1:a3f8f3be95ba4544",
+    "word_count": 1053
+  },
+  "last_updated": "2024-02-27T17:57:23.606146+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+    ],
+    "parties": [
+      "CARPENTER v. DISTRICT OF COLUMBIA."
+    ],
+    "opinions": [
+      {
+        "text": "RICHARDSON, Chief Judge.\nDefendant was charged with having so operated a motor vehicle that he injured a certain person, did substantial damage to property, and that he failed to stop, give his name and residence, and to immediately report the action to a police station or officer.\nThe evidence discloses that on March 6, 1942, at approximately 9 o\u2019clock P.M., defendant\u2019s automobile, then operated by him, collided with the automobile of one Elbert Sinatra, the complaining witness, resulting in personal injury to the latter and substantial damage to his automobile. The case was tried by jury on September 11, 1942. Defendant was found guilty. A motion for new trial based on newly discovered evidence was seasonably filed. This motion was overruled, and judgment entered from which defendant has appealed. The error assigned is the overruling of the motion for new trial.\nThe collision occurred at the intersection of First and U Streets, N. W. The resulting position of the automobiles blocked traffic at the intersection, and defendant backed his car to the north curb of U Street in front of premises 101 U Street, where he lived, and thereupon entered these premises. Sinatra followed him to that point and testified that there, as at the scene of the accident, defendant refused to disclose his name or address. Sinatra \u25a0 then immediately went into a grocery store at the southwest'corner of the intersection where he telephoned the police. They arrived about twenty minutes after the accident.\nDefendant testified that when about to enter his home he gave Sinatra his name and address. Sinatra\u2019s statement that he did not learn defendant\u2019s name or residence until he learned it from the police after their arrival is corroborated by a witness living in the neighborhood who states that he gave this information to a police officer at his request and that he did not give defendant\u2019s name or address to anyone until after the police had arrived.\nDefendant admitted that he did not report the accident to a police station or officer.\nThe motion for new trial was supported by an affidavit of defendant, dated September IS, 1942. He states that since the trial he has learned of a witness whose testimony is highly material to his defense, and that he had no knowledge of this witness prior to his trial. The affidavit of this witness was attached to the motion. Affi-ant states that on or about the first part of March, 1942, about 9 o\u2019clock in the evening, she had occasion to be in a grocery store at the corner of First and U Streets, N. W., where she heard a man unknown to her say over the telephone\u2014\u201cNo, Carpenter is the man who hit me\u201d. She then states that she left the store about that time and \u201cwhen I came out of the door of the store I saw Mr. Carpenter\u2019s car parked in front of the premises of 101 U Street where he lived.\u201d\nThe admitted failure of the defendant to report the accident to a police station or officer justified his conviction. Failure of the prosecution to establish other charges embraced in the information would not invalidate the verdict or sentence. However, in view of the possibility that the court in sentencing may have taken into consideration the general finding of guilty on the charges contained in the information, we have considered the action of the court in denying the motion.\nWhere, as here, the case was tried by jury and the time elapsed between the information and trial was ample for preparation, it was the duty of the trial court to adhere strictly to the rule that evidence to justify the granting of a new trial should be of substantial character, sufficient to overcome the presumption in favor of the jury\u2019s verdict; that sufficient detail should be given to enable the court to determine that the evidence is in fact newly discovered and is such that a different verdict would probably have resulted had the witness been available at the trial.\nHere no facts are recited by which the court might determine that this evidence was newly discovered. The newly discovered witness gives no description of the person \u201cunknown to her\u201d, whose statement she overheard, by which that person might be identified as the complaining witness. She does not connect the date of the incident she describes with the time of the collision. Nor does she explain by what means she could identify defendant\u2019s car then parked on the north side of U Street, as she came out of the door of this store at the southwest corner of First and U Streets. At that distance, at 9 o\u2019clock on a night in early March, the identification of an automobile would be difficult unless it were of some unusual design.\nIn our opinion the trial court was justified in refusing to grant a new trial upon evidence so lacking in convincing effect. Certainly the record falls far short of showing that the denial of the motion was an abuse of discretion.\nAffirmed.\nSection 4Q \u2014 609, Code of 1940, requires the operator of a motor vehicle to stop and give assistance and give his name and residence when injury is caused to a person or substantial damage to property. Whenever there has been injury to a person he is required to make an immediate report of the accident to a police station or police officer.\nCrain v. United States, 162 U.S. 625, 16 S.Ct. 952, 40 L.Ed. 1097; 31 C.J. 838.\n39 Am.Jur. 172; Dunbar v. Farnum, 109 Vt. 313, 196 A. 237, 114 A.L.R. 996; Rector v. State, 211 Ind. 483, 190 N.E. 172, 7 N.E.2d 794; Anshutz v. Louisville R. Co., 152 Ky. 741, 154 S.W. 13, 45 L.R.A.,N.S. 87.\nWashington Times Co. v. Bonner, 66 App.D.C. 280, 86 F.2d 836, 110 A.L.R. 393, 395.",
+        "type": "majority",
+        "author": "RICHARDSON, Chief Judge."
+      }
+    ],
+    "attorneys": [
+      "Harvey C. Beavers, of Washington, D. C., for appellant.",
+      "Vernon E. West, Principal Asst. Corp. Counsel, of Washington, D. C. (Richmond B. Keech, Corp. Counsel, and Irving Bryan, Asst. Corp. Counsel, both of Washington, D. C., on the brief), for appellee."
+    ],
+    "corrections": "",
+    "head_matter": "CARPENTER v. DISTRICT OF COLUMBIA.\nNo. 70.\nMunicipal Court of Appeals for the District of Columbia.\nMay 21, 1943\nRehearing Denied June 7, 1943.\nHarvey C. Beavers, of Washington, D. C., for appellant.\nVernon E. West, Principal Asst. Corp. Counsel, of Washington, D. C. (Richmond B. Keech, Corp. Counsel, and Irving Bryan, Asst. Corp. Counsel, both of Washington, D. C., on the brief), for appellee.\nBefore RICHARDSON, Chief Judge, and CAYTON and HOOD, Associate Judges."
+  },
+  "file_name": "0251-01",
+  "first_page_order": 299,
+  "last_page_order": 300
+}

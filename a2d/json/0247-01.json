@@ -1,0 +1,273 @@
+{
+  "id": 8150551,
+  "name": "HAMPTON v. MOTT MOTORS, Inc.",
+  "name_abbreviation": "Hampton v. Mott Motors, Inc.",
+  "decision_date": "1943-03-08",
+  "docket_number": "No. 42",
+  "first_page": "247",
+  "last_page": "248",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "32 A.2d 247"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.C.",
+    "id": 21806,
+    "name": "District of Columbia Municipal Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 56,
+    "name_long": "District of Columbia",
+    "name": "D.C."
+  },
+  "cites_to": [
+    {
+      "cite": "192 N. E. 612",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "288 Mass. 197",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        485758
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/288/0197-01"
+      ]
+    },
+    {
+      "cite": "6 D.C. 123",
+      "category": "reporters:state",
+      "reporter": "D.C.",
+      "case_ids": [
+        2474743
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/dc/6/0123-01"
+      ]
+    },
+    {
+      "cite": "18 F.2d 828",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1694540
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/18/0828-01"
+      ]
+    },
+    {
+      "cite": "57 App.D.C. 178",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "294 F. 1011",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6742281
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/294/1011-01"
+      ]
+    },
+    {
+      "cite": "54 App.D.C. 80",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 App.D.C. 286",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1781661
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/45/0286-01"
+      ]
+    },
+    {
+      "cite": "100 A. 507",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 Md. 212",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        2151981
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/130/0212-01"
+      ]
+    },
+    {
+      "cite": "271 F. 620",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3577893
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/271/0620-01"
+      ]
+    },
+    {
+      "cite": "24 S.E. 392",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "92 Va. 763",
+      "category": "reporters:state",
+      "reporter": "Va.",
+      "case_ids": [
+        2338407
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/va/92/0763-01"
+      ]
+    },
+    {
+      "cite": "25 L.R.A.,N.S., 847",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.N.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "89 N.E. 360",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "196 N.Y. 19",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        4464119
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/196/0019-01"
+      ]
+    },
+    {
+      "cite": "59 Am.Dec. 85",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Md. 450",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1695121
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/4/0450-01"
+      ]
+    },
+    {
+      "cite": "32 Am.Dec. 156",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 App.D.C. 448",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "case_ids": [
+        1785480
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/app-dc/42/0448-01"
+      ]
+    },
+    {
+      "cite": "68 F.2d 167",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        279228
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/68/0167-01"
+      ]
+    },
+    {
+      "cite": "62 App.D.C. 329",
+      "category": "reporters:state",
+      "reporter": "App. D.C.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 408,
+    "char_count": 6397,
+    "ocr_confidence": 0.682,
+    "pagerank": {
+      "raw": 6.093463078535242e-07,
+      "percentile": 0.9555365969212877
+    },
+    "sha256": "9ea43f0c293e6b6d00592575f248b28aae361e56c5847fa94d3f3c652bcb008f",
+    "simhash": "1:895e20348330aaf6",
+    "word_count": 1134
+  },
+  "last_updated": "2024-02-27T17:57:23.606146+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HAMPTON v. MOTT MOTORS, Inc."
+    ],
+    "opinions": [
+      {
+        "text": "HOOD, Associate Judge.\nBy written agreement Wade K. Hampton leased from Mott Motors, Inc., certain business premises in the District of Columbia for one year beginning February 15, 1939, and ending February 14,' 1940, with an option to renew for one year. The option was not exercised but the tenant remained in possesion after expiration of the lease and continued in possession until approximately the middle of 1942. As of September 1, 1941, the landlord demanded an increase in rent, which was assented to by the tenant.\nThe written lease between the parties contained a provision that the tenant should \u201cmake all exterior and interior repairs to the premises hereby demised as may be needful.\u201d In January, 1942 certain repairs to the premises became necessary, the tenant refused to make them, and they were made by the landlord at a cost of $240. There is no dispute between the parties as to the necessity or cost of the repairs. Prior to the tenant\u2019s quitting possession, the landlord brought an action against the tenant to recover the cost of such repairs. Judgment was rendered in favor of the landlord and from that judgment the tenant appeals.\nThe tenant contends that when he remained in possession after expiration of the written lease he became, by reason of Title 45, Section 820, District of Columbia Code (1940 Ed.), a tenant by sufferance, and that as such tenant by sufferance his only obligation-was to pay rent. On the other hand, the landlord, admitting that the tenant holding over after expiration of his term became a tenant by sufferance, contends that the tenant was still liable for the cost of repairs by reason of the provision of the written lease.\nAt common law a tenant holding over and paying rent became a tenant from year to year and the holding over was impliedly subject to all the covenants of the expired lease, including a covenant by the landlord or tenant to repair.\nTitle 45, Section 820, District of Columbia Code (1940 Ed.), provides: \u201cAll estates which by construction of the courts were estates from year to year at common law, as where a tenant goes into possession and pays rent without an agreement for a term, or where a tenant for years, after the expiration of his term, continues in possession and pays rent and the like, and all verbal hireings by the month or at any specified rate per month, shall be deemed estates by sufferance.\u201d\nBy reason of the above section, it is settled beyond question that on February 15, 1940, when the written lease expired and the tenant remained in possession paying rent, he became a tenant by sufferance ; and by reason of Title 45, Section 904 of the Code, such tenancy could be terminated by either party upon thirty days\u2019 notice. Thus the tenant in this case, instead of becoming a tenant from year to year, acquired a tenancy subject to termination on thirty days\u2019 notice. To this extent the common law rule has been changed in this District. It does not necessarily follow, however, that the Code provision also has the effect of freeing the tenant from the implied obliga- \u25a0 tion that his holding over is subject to the covenants afid conditions of the original lease under which his entry was made.\nSection 820 says that such holding over shall be a tenancy by sufferance but in no way defines such tenancy. It is quite clear Section 820 does not mean the tenant becomes one by sufferance within the common law meaning of that term. At common law a tenant at (or by) sufferance had no estate in the premises, was not in privity with his landlord, could not maintain an action of trespass against the landlord, was entitled to no notice to quit, and was not liable to pay rent; he had little more than the right to insist he was not a trespasser.\nWe think the reasonable construction of Section 820 is that a tenant holding over and paying rent becomes a tenant by sufferance in the sense only that his tenancy may be terminated by either tenant or landlord on thirty days\u2019 notice in accordance with Section 904, and that such section does not have the effect of releasing either the landlord or the tenant from the implied obligation that the holding over is subject to all the covenants and terms of the original lease applicable to the new situation.\nIn the instant case, the tenant held over for approximately two and a half years after his original terms expired. Either he or the landlord could have demanded a new written lease, and in the event of failure to secure it could have terminated the tenancy on thirty days\u2019 notice; but neither did this. We think it is in accord with law and reason that the tenancy created by the holding over was impliedly subject to the covenants of the original lease, including the one imposing upon the tenant liability for cost of needful repairs. We have found no case in the District of Columbia precisely in point, but we think our decision is in in point, but we think our decision is in accord with H. L. Rust Co. v. Drury, 62 App.D.C. 329, 68 F.2d 167, holding that a waiver of the thirty days\u2019 notice contained in a written lease was applicable to the holding over after expiration of the lease.\nAffirmed.\nMorse v. Brainerd, 42 App.D.C. 448.\nDe Young v. Buchanan, 10 Gill. & J. Md., 149, 32 Am.Dec. 156; Vrooman v. McKaig, 4 Md. 450, 59 Am.Dec. 85; Kennedy v. City of New York, 196 N.Y. 19, 89 N.E. 360, 25 L.R.A.,N.S., 847; Peirce v. Grice, 92 Va. 763, 24 S.E. 392; Black v. La Porte, 8 Cir., 271 F. 620.\nCramer v. Baugker, 130 Md. 212, 100 A. 507.\nDigby v. Atkinson, 4 Camp. 275, 171 Eng.Repr. 88; Hett v. Janzen, 22 Ont. 414.\nMorse v. Brainerd, 42 App.D.C. 448; Soper v. Myers, 45 App.D.C. 286; Weaver v. Koester, 54 App.D.C. 80, 294 F. 1011; National Cafes, Inc., v. Elite Laundry Co., 57 App.D.C. 178, 18 F.2d 828.\nSpalding v. 1-Iall, 6 D.C. 123; Margosian v. Markarian, 288 Mass. 197, 192 N. E. 612; Flood v. Flood, 1 Allen, Mass., 217; Taylor, Landlord and Tenant (8th Ed.); Vol. 1, Sec. 64; Tiffany, Landlord and Tenant, Yol. 1, Sec. 15.",
+        "type": "majority",
+        "author": "HOOD, Associate Judge."
+      }
+    ],
+    "attorneys": [
+      "William J. Bartle, of Washington, D. C., for appellant.",
+      "Peter N. Chumbris, of Washington, D. C. (Walter M. Bast\u00edan, of Washington, D. C;, on the brief), for appellee.",
+      "Before CAYTON and HOOD, Associate Judges, and RAEDY (Judge of The Municipal Court for the District of Columbia), Acting Judge."
+    ],
+    "corrections": "",
+    "head_matter": "HAMPTON v. MOTT MOTORS, Inc.\nNo. 42.\nMunicipal Court of Appeals for the District of Columbia.\nMarch 8, 1943.\nWilliam J. Bartle, of Washington, D. C., for appellant.\nPeter N. Chumbris, of Washington, D. C. (Walter M. Bast\u00edan, of Washington, D. C;, on the brief), for appellee.\nBefore CAYTON and HOOD, Associate Judges, and RAEDY (Judge of The Municipal Court for the District of Columbia), Acting Judge."
+  },
+  "file_name": "0247-01",
+  "first_page_order": 295,
+  "last_page_order": 296
+}
